@@ -1,0 +1,1661 @@
+[
+  {
+    "id": "kt-ch14-l1",
+    "chapter": 14,
+    "lessonInChapter": 1,
+    "segmentType": "main-story",
+    "storyId": "urashima",
+    "storyBeat": "浦島救烏龜 — 烏龜會謝謝他嗎?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch14-l1-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "漁夫",
+            "right": "fisherman"
+          },
+          {
+            "left": "沙灘",
+            "right": "beach"
+          },
+          {
+            "left": "烏龜",
+            "right": "turtle"
+          },
+          {
+            "left": "好心",
+            "right": "kind"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 fisherman = 漁夫\n🔑 beach = 沙灘\n🔑 turtle = 烏龜\n🔑 kind = 好心\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l1-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Long ago, a kind young fisherman lived by the sea.",
+        "explanationZh": "很久以前,一個好心的年輕漁夫住在海邊。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l1-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His name was Urashima Taro.",
+        "explanationZh": "他的名字叫浦島太郎。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch14-l1-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Every day he rowed his small boat out to fish.",
+        "questionEn": "Did Urashima do hard work every day?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 每天划船捕魚 → 很辛苦 → 答 Yes",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l1-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One afternoon, he saw three boys near the rocks.",
+        "explanationZh": "一個下午,他看見三個男孩在石頭邊。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch14-l1-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They were poking a small turtle with sticks.",
+        "question": "What were the boys doing?",
+        "options": [
+          "feeding it",
+          "hurting it",
+          "washing it",
+          "singing to it"
+        ],
+        "optionsZh": [
+          "餵牠",
+          "欺負牠",
+          "洗牠",
+          "唱歌給牠聽"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 用棍子戳 → 欺負 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l1-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Urashima ran to the boys and gave them some coins.",
+        "explanationZh": "浦島跑到男孩那邊,給他們一些錢幣。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch14-l1-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He used his own money to set the turtle free.",
+        "question": "Why did he give them coins?",
+        "options": [
+          "for food",
+          "to save the turtle",
+          "as a game prize",
+          "just for fun"
+        ],
+        "optionsZh": [
+          "買吃的",
+          "救烏龜",
+          "當遊戲獎",
+          "只是好玩"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 給錢 → 換烏龜的自由 → 救烏龜。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l1-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He took the turtle to the sea, slow and careful.",
+        "explanationZh": "他帶著烏龜走向海,慢慢的、小心的。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch14-l1-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did Urashima set the turtle down?",
+        "question": "How did he set it down?",
+        "options": [
+          "🐢 gently on the sand",
+          "🪨 onto a sharp rock",
+          "🌊 thrown far away",
+          "🔥 by a hot fire"
+        ],
+        "optionsZh": [
+          "輕輕放在沙上",
+          "丟到尖石上",
+          "丟很遠",
+          "丟到火邊"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "慢慢、小心 → 輕輕放在沙上。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l1-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The turtle looks up at him with quiet, dark eyes...",
+        "explanationZh": "烏龜抬頭看他,眼神安靜又深邃……",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch14-l2",
+    "chapter": 14,
+    "lessonInChapter": 2,
+    "segmentType": "main-story",
+    "storyId": "urashima",
+    "storyBeat": "烏龜帶他下海 — 海底是什麼?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch14-l2-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "船",
+            "right": "boat"
+          },
+          {
+            "left": "爬上",
+            "right": "climb"
+          },
+          {
+            "left": "潛",
+            "right": "dive"
+          },
+          {
+            "left": "深",
+            "right": "deep"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 boat = 船\n🔑 climb = 爬上\n🔑 dive = 潛\n🔑 deep = 深\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l2-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A few days later, Urashima sat in his small boat.",
+        "explanationZh": "幾天後,浦島坐在他的小船上。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch14-l2-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The sea was very still, with no waves at all.",
+        "question": "How was the sea that day?",
+        "options": [
+          "rough and loud",
+          "calm and quiet",
+          "cold and dark",
+          "full of ships"
+        ],
+        "optionsZh": [
+          "粗又吵",
+          "平靜",
+          "冷又暗",
+          "滿是船"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: still + no waves → calm and quiet。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l2-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A big turtle swam up beside the boat.",
+        "explanationZh": "一隻大烏龜游到船邊。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch14-l2-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "It said, \"Thank you. I am the one you saved.\"",
+        "questionEn": "Was this an ordinary turtle?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 會說話 → 不是普通烏龜 → 答 No",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l2-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"The sea king wants to meet you,\" the turtle said.",
+        "explanationZh": "「海王想見你,」烏龜說。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch14-l2-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What did the turtle ask Urashima to do?",
+        "question": "What did the turtle ask?",
+        "options": [
+          "🐢 climb on its back",
+          "🏊 swim alone",
+          "🚣 row home",
+          "😴 take a nap"
+        ],
+        "optionsZh": [
+          "爬到牠背上",
+          "自己游",
+          "划船回家",
+          "睡覺"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "爬上背 = climb on its back。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l2-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Urashima could not believe his ears. But he climbed on.",
+        "explanationZh": "浦島不敢相信自己的耳朵。但他爬上去了。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch14-l2-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They went down past bright fish and soft coral.",
+        "question": "What did they see on the way down?",
+        "options": [
+          "snow and ice",
+          "sea life and reef plants",
+          "cars and roads",
+          "birds and clouds"
+        ],
+        "optionsZh": [
+          "雪和冰",
+          "海洋生物和礁石植物",
+          "車和路",
+          "鳥和雲"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: bright fish + soft coral → sea life + reef plants (paraphrase)。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l2-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Down and down they went, into the blue water.",
+        "explanationZh": "他們一直往下、往下,進入藍色的水裡。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l2-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Down and down they go. The light above grows dim...",
+        "explanationZh": "他們一直往下、往下。上面的光越來越暗……",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch14-l3",
+    "chapter": 14,
+    "lessonInChapter": 3,
+    "segmentType": "main-story",
+    "storyId": "urashima",
+    "storyBeat": "龍宮公主歡迎他 — 他能留下嗎?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch14-l3-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "宮殿",
+            "right": "palace"
+          },
+          {
+            "left": "公主",
+            "right": "princess"
+          },
+          {
+            "left": "歡迎",
+            "right": "welcome"
+          },
+          {
+            "left": "寶座",
+            "right": "throne"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 palace = 宮殿\n🔑 princess = 公主\n🔑 welcome = 歡迎\n🔑 throne = 寶座\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l3-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "At the bottom of the sea stood a great sea palace.",
+        "explanationZh": "海底有一座大大的海底宮殿。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch14-l3-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The walls shone like pearl and the gates were made of shell.",
+        "question": "What was the sea palace like?",
+        "options": [
+          "plain and grey",
+          "bright and beautiful",
+          "dark and broken",
+          "tall and cold"
+        ],
+        "optionsZh": [
+          "樸素灰色",
+          "亮亮美美的",
+          "暗又破",
+          "高又冷"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: shone + pearl + shell → bright and beautiful。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l3-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A beautiful princess sat on a throne inside.",
+        "explanationZh": "裡面有一位美麗的公主坐在寶座上。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch14-l3-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "She said, \"I was that little turtle on the beach.\"",
+        "questionEn": "Was the princess a stranger?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 她就是被救的烏龜 → 不是陌生人 → 答 No",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l3-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Her name was Otohime, princess of the sea.",
+        "explanationZh": "她叫乙姬,海的公主。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch14-l3-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did the princess greet him?",
+        "question": "How did she greet him?",
+        "options": [
+          "😊 with a soft smile",
+          "😠 with anger",
+          "😢 with tears",
+          "😨 with fear"
+        ],
+        "optionsZh": [
+          "溫柔的微笑",
+          "生氣",
+          "流淚",
+          "害怕"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "soft smile = 溫柔的微笑。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l3-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She took his hand and walked with him gently.",
+        "explanationZh": "她牽起他的手,輕輕地跟他走。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch14-l3-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She led him into a long dining hall full of light.",
+        "question": "Where did she lead him?",
+        "options": [
+          "a dark cave",
+          "a long bright room",
+          "a small boat",
+          "an empty beach"
+        ],
+        "optionsZh": [
+          "暗洞",
+          "又長又亮的房間",
+          "小船",
+          "空沙灘"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: long + full of light → long bright room。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l3-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Music played softly. The doors closed behind them.",
+        "explanationZh": "音樂輕輕響起。門在他們身後關上。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l3-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Stay one day,\" she says. \"Or stay forever...\"",
+        "explanationZh": "「住一天,」她說。「或者永遠住下來……」",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch14-l4",
+    "chapter": 14,
+    "lessonInChapter": 4,
+    "segmentType": "main-story",
+    "storyId": "urashima",
+    "storyBeat": "浦島開心住下 — 真的開心嗎?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch14-l4-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "夢",
+            "right": "dream"
+          },
+          {
+            "left": "跳舞",
+            "right": "dance"
+          },
+          {
+            "left": "媽媽",
+            "right": "mother"
+          },
+          {
+            "left": "想念",
+            "right": "miss"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 dream = 夢\n🔑 dance = 跳舞\n🔑 mother = 媽媽\n🔑 miss = 想念\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l4-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Urashima ate sweet fish and rice from a gold cup.",
+        "explanationZh": "浦島吃甜甜的魚和飯,用金色的杯子喝。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch14-l4-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Fish servants danced. Music played all night long.",
+        "question": "How were the nights in the palace?",
+        "options": [
+          "cold and silent",
+          "lively and full of music",
+          "sad and dark",
+          "short and tired"
+        ],
+        "optionsZh": [
+          "冷又靜",
+          "熱鬧又有音樂",
+          "悲傷又黑",
+          "短又累"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 跳舞 + 音樂整晚 → 熱鬧又有音樂。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l4-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Days passed like a dream. He laughed and sang.",
+        "explanationZh": "日子像夢一樣過去。他又笑又唱。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch14-l4-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "He did not feel hungry. He did not feel cold.",
+        "questionEn": "Did he need anything in the palace?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 不餓不冷 → 什麼都不缺 → 答 No",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l4-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He walked in the coral garden with the princess.",
+        "explanationZh": "他跟公主一起在珊瑚花園散步。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch14-l4-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What did he see in the garden?",
+        "question": "What did he see?",
+        "options": [
+          "🪸 coral and bright fish",
+          "🌵 cactus and sand",
+          "❄️ snow and ice",
+          "🏙️ tall buildings"
+        ],
+        "optionsZh": [
+          "珊瑚和亮魚",
+          "仙人掌和沙",
+          "雪和冰",
+          "高樓"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "coral garden = 珊瑚和亮魚。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l4-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "But in the quiet hours, he thought of his old mother.",
+        "explanationZh": "但在安靜的時刻,他想起年老的媽媽。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch14-l4-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He thought of his little house by the sea.",
+        "question": "What did Urashima miss?",
+        "options": [
+          "the sea palace",
+          "his old life at home",
+          "the gold cup",
+          "the dancing fish"
+        ],
+        "optionsZh": [
+          "海底宮殿",
+          "老家的生活",
+          "金杯子",
+          "跳舞的魚"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 想起媽媽 + 海邊小屋 → 老家的生活。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l4-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Every night, his heart felt warm and a little heavy.",
+        "explanationZh": "每個晚上,他的心又暖又有一點沉。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l4-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "But late at night, he thinks of his old mother by the sea...",
+        "explanationZh": "但深夜裡,他想念海邊年老的媽媽……",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch14-l5",
+    "chapter": 14,
+    "lessonInChapter": 5,
+    "segmentType": "main-story",
+    "storyId": "urashima",
+    "storyBeat": "想家了要回去 — 公主給他寶盒",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch14-l5-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "回家",
+            "right": "go home"
+          },
+          {
+            "left": "禮物",
+            "right": "gift"
+          },
+          {
+            "left": "紅",
+            "right": "red"
+          },
+          {
+            "left": "答應",
+            "right": "promise"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 go home = 回家\n🔑 gift = 禮物\n🔑 red = 紅\n🔑 promise = 答應\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l5-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One morning, Urashima told the princess he must go home.",
+        "explanationZh": "一個早上,浦島告訴公主他必須回家。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch14-l5-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"My mother is waiting. My village is waiting.\"",
+        "question": "Why did Urashima want to go home?",
+        "options": [
+          "he hated the palace",
+          "his family was waiting",
+          "the food was bad",
+          "he was bored"
+        ],
+        "optionsZh": [
+          "討厭宮殿",
+          "家人在等他",
+          "吃的不好",
+          "無聊"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 媽媽 + 村莊 在等 → 家人在等他。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l5-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The princess looked very sad but did not say no.",
+        "explanationZh": "公主看起來很難過,但她沒有說不。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch14-l5-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "She turned away and quietly wiped one tear.",
+        "questionEn": "Was the princess happy to see him go?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 擦眼淚 → 不開心 → 答 No",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l5-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She gave him a small red box tied with a gold rope.",
+        "explanationZh": "她給他一個小小的紅盒子,綁著金色的繩子。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch14-l5-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What did the box look like?",
+        "question": "What did the box look like?",
+        "options": [
+          "📦 small and red",
+          "⬛ big and black",
+          "🪵 made of wood",
+          "🍰 like a cake"
+        ],
+        "optionsZh": [
+          "小小紅紅",
+          "大又黑",
+          "木頭做",
+          "像蛋糕"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "small + red → small and red。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l5-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"This is called the Tamatebako,\" she said softly.",
+        "explanationZh": "「這個叫玉手箱,」她輕聲說。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch14-l5-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Please, never open it. Promise me. Never.\"",
+        "question": "What did she ask Urashima to promise?",
+        "options": [
+          "come back soon",
+          "share the gift",
+          "keep the lid shut",
+          "pass it along"
+        ],
+        "optionsZh": [
+          "快點回來",
+          "分享禮物",
+          "保持蓋子緊閉",
+          "把它送出去"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "推理: never open → keep the lid shut (paraphrase)。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l5-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The big turtle was waiting at the palace gate.",
+        "explanationZh": "大烏龜在宮殿門口等。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l5-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Take this Tamatebako,\" she says. \"But never, never open it...\"",
+        "explanationZh": "「拿著這個玉手箱,」她說。「但永遠、永遠不要打開……」",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch14-l6",
+    "chapter": 14,
+    "lessonInChapter": 6,
+    "segmentType": "main-story",
+    "storyId": "urashima",
+    "storyBeat": "回到岸上 — 沒人認得他了",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch14-l6-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "岸",
+            "right": "shore"
+          },
+          {
+            "left": "村莊",
+            "right": "village"
+          },
+          {
+            "left": "陌生",
+            "right": "strange"
+          },
+          {
+            "left": "一百",
+            "right": "hundred"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 shore = 岸\n🔑 village = 村莊\n🔑 strange = 陌生\n🔑 hundred = 一百\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l6-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The turtle brought Urashima up to the warm sand.",
+        "explanationZh": "烏龜把浦島帶回到溫暖的沙灘。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch14-l6-q3",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The sun was bright. The sand looked just the same.",
+        "questionEn": "Did the beach itself look strange?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: just the same → 沒變 → 答 No",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l6-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He walked up to his village and stopped.",
+        "explanationZh": "他走到村莊,然後停下來。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch14-l6-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The houses were new. The trees were tall and strange.",
+        "question": "How was the village now?",
+        "options": [
+          "the same as before",
+          "all new and changed",
+          "broken and empty",
+          "covered in snow"
+        ],
+        "optionsZh": [
+          "跟以前一樣",
+          "全新又不一樣",
+          "破又空",
+          "蓋滿雪"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: new + tall + strange → 全新又不一樣。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l6-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He saw an old, old man sitting on a bench.",
+        "explanationZh": "他看到一個很老很老的人坐在長椅上。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch14-l6-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Who did Urashima meet in the village?",
+        "question": "Who did he meet?",
+        "options": [
+          "👴 an old man",
+          "👶 a small baby",
+          "🧒 a little boy",
+          "👮 a soldier"
+        ],
+        "optionsZh": [
+          "老人",
+          "小嬰兒",
+          "小男孩",
+          "士兵"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "老人 = old man。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l6-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Where is my mother's house?\" Urashima asked.",
+        "explanationZh": "「我媽媽的家在哪?」浦島問。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch14-l6-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"That name is in old stories. A long, long time ago.\"",
+        "question": "What did the old man say about Urashima?",
+        "options": [
+          "just left town",
+          "lives in old stories now",
+          "works in the palace",
+          "walks the beach"
+        ],
+        "optionsZh": [
+          "剛離開鎮上",
+          "活在老故事裡",
+          "在宮殿做事",
+          "在沙灘散步"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: in old stories → 活在老故事裡。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l6-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"He went out to sea and never came back.\"",
+        "explanationZh": "「他出海以後就再也沒回來。」",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l6-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"That was a hundred years ago.\" Nothing — and no one — is the same...",
+        "explanationZh": "「那是一百年前的事。」一切——還有每一個人——都不一樣了……",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch14-l7",
+    "chapter": 14,
+    "lessonInChapter": 7,
+    "segmentType": "main-story",
+    "storyId": "urashima",
+    "storyBeat": "打開寶盒 → 變老頭 (時間紅利)",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch14-l7-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "解開",
+            "right": "untie"
+          },
+          {
+            "left": "打開",
+            "right": "open"
+          },
+          {
+            "left": "雲",
+            "right": "cloud"
+          },
+          {
+            "left": "鬍子",
+            "right": "beard"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 untie = 解開\n🔑 open = 打開\n🔑 cloud = 雲\n🔑 beard = 鬍子\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l7-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Urashima sat down on the sand. His hands shook.",
+        "explanationZh": "浦島坐在沙上。他的手在抖。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch14-l7-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His mother was gone. His friends were gone too.",
+        "question": "How did Urashima feel now?",
+        "options": [
+          "proud and tall",
+          "alone in the world",
+          "angry and hot",
+          "sleepy and full"
+        ],
+        "optionsZh": [
+          "驕傲又高大",
+          "在世界上很孤單",
+          "生氣又熱",
+          "想睡又飽"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 家人朋友都不在 → 在世界上很孤單。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l7-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He looked at the small red box in his hands.",
+        "explanationZh": "他看著手裡的小紅盒。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch14-l7-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "He had promised. But he was all alone now.",
+        "questionEn": "Was it easy to keep the promise?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 很孤單 → 想找答案 → 不容易 → 答 No",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l7-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Slowly, he untied the gold rope. He opened the lid.",
+        "explanationZh": "慢慢的,他解開金繩子。他打開蓋子。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch14-l7-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What came out of the box?",
+        "question": "What came out?",
+        "options": [
+          "☁️ a soft white cloud",
+          "🪙 a pile of gold",
+          "🐢 a tiny turtle",
+          "🎵 sweet music"
+        ],
+        "optionsZh": [
+          "一團柔軟的白雲",
+          "一堆金子",
+          "小烏龜",
+          "甜甜的音樂"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "白雲 = soft white cloud。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l7-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The cloud rose up around him in the wind.",
+        "explanationZh": "雲在風裡升起來,圍住他。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch14-l7-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "When the wind cleared, he was a very old man with a long beard.",
+        "question": "How did Urashima change?",
+        "options": [
+          "became a small turtle",
+          "turned back into a child",
+          "aged into a very old man",
+          "changed into a fish"
+        ],
+        "optionsZh": [
+          "變小烏龜",
+          "變回小孩",
+          "變成很老的人",
+          "變魚"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "推理: very old man + long beard → 變成很老的人 (非「死」)。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l7-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His hair was white as snow. The hundred years came back.",
+        "explanationZh": "他的頭髮白得像雪。一百年回到他身上。",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch14-l7-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A very old man with a long beard sits quietly on the sand...",
+        "explanationZh": "一個白鬍子很長的老人安靜地坐在沙上……",
+        "tags": [
+          "story",
+          "ch14",
+          "urashima"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1676 @@
+[
+  {
+    "id": "kt-ch11-l1",
+    "chapter": 11,
+    "lessonInChapter": 1,
+    "segmentType": "main-story",
+    "storyId": "houyi",
+    "storyBeat": "10 個太陽出現 — 大地會燒壞嗎?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch11-l1-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "太陽",
+            "right": "sun"
+          },
+          {
+            "left": "天空",
+            "right": "sky"
+          },
+          {
+            "left": "十",
+            "right": "ten"
+          },
+          {
+            "left": "熱",
+            "right": "hot"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 sun = 太陽\n🔑 sky = 天空\n🔑 ten = 十\n🔑 hot = 熱\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l1-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Long ago in China, the sky had one warm sun.",
+        "explanationZh": "很久以前在中國,天空只有一個溫暖的太陽。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l1-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The people grew rice. The rivers ran clear.",
+        "explanationZh": "人們種稻。河水清澈。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch11-l1-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Children played by the river. Old men sat in the shade.",
+        "questionEn": "Was life calm and good back then?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 玩+乘涼 → 生活平靜 → 答 Yes",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l1-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One strange morning, ten suns came up at once.",
+        "explanationZh": "一個奇怪的早上,十個太陽一起升起。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch11-l1-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The grass turned brown. The rivers dried up fast.",
+        "question": "What happened to the land?",
+        "options": [
+          "everything stayed green",
+          "it became dry and dead",
+          "snow began to fall",
+          "flowers grew tall"
+        ],
+        "optionsZh": [
+          "一切還是綠的",
+          "變得乾又死",
+          "開始下雪",
+          "花長很高"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 草變褐 + 河乾 → 變得乾又死 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l1-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The children cried in the heat.",
+        "explanationZh": "孩子們在炎熱中哭泣。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch11-l1-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "No one could go outside in the long bright day.",
+        "question": "Why did people stay inside?",
+        "options": [
+          "they wanted to sleep",
+          "the heat was too strong",
+          "a party was on TV",
+          "it was raining hard"
+        ],
+        "optionsZh": [
+          "他們想睡覺",
+          "熱度太強",
+          "電視有派對",
+          "下大雨"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 不能出門 + 強光 → 熱度太強 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l1-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The Jade Emperor in the sky saw the burning land.",
+        "explanationZh": "天上的玉皇大帝看見燒焦的大地。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch11-l1-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did the land look from the sky?",
+        "question": "How did the land look?",
+        "options": [
+          "🌳 green and full",
+          "🔥 dry and burning",
+          "❄️ cold and white",
+          "🌊 wet and blue"
+        ],
+        "optionsZh": [
+          "綠又茂盛",
+          "乾又燒著",
+          "冷又白",
+          "濕又藍"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "草褐 + 河乾 + 兒童哭 → 乾又燒著。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l1-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The Jade Emperor watched. The land kept burning. Who would help...",
+        "explanationZh": "玉皇大帝看著。大地繼續燒。誰會來幫忙……",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch11-l2",
+    "chapter": 11,
+    "lessonInChapter": 2,
+    "segmentType": "main-story",
+    "storyId": "houyi",
+    "storyBeat": "玉皇大帝給羿弓 — 他能擔下嗎?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch11-l2-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "弓",
+            "right": "bow"
+          },
+          {
+            "left": "箭",
+            "right": "arrow"
+          },
+          {
+            "left": "射手",
+            "right": "archer"
+          },
+          {
+            "left": "強",
+            "right": "strong"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 bow = 弓\n🔑 arrow = 箭\n🔑 archer = 射手\n🔑 strong = 強\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l2-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The Jade Emperor called a strong man named Hou Yi.",
+        "explanationZh": "玉皇大帝召來一個叫后羿的強壯男人。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch11-l2-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Hou Yi was the best archer in the whole world.",
+        "question": "What was Hou Yi famous for?",
+        "options": [
+          "he could cook well",
+          "shooting with a bow",
+          "he sang nice songs",
+          "making good bread"
+        ],
+        "optionsZh": [
+          "他會煮飯",
+          "用弓射箭",
+          "他唱歌好聽",
+          "做好麵包"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: best archer → 用弓射箭 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l2-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The Jade Emperor gave him a big red bow.",
+        "explanationZh": "玉皇大帝給他一張大紅弓。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch11-l2-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "He also gave Hou Yi ten clean white arrows.",
+        "questionEn": "Was this a small job?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 十支白箭 + 大紅弓 → 重要任務 → 答 No",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l2-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Shoot down the nine extra suns,\" the Emperor said.",
+        "explanationZh": "「把多的九個太陽射下來,」玉皇大帝說。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch11-l2-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How many suns did the Emperor want left?",
+        "question": "How many suns should stay?",
+        "options": [
+          "🌑 zero",
+          "☀️ one",
+          "☀️☀️ two",
+          "☀️☀️☀️ three"
+        ],
+        "optionsZh": [
+          "零",
+          "一個",
+          "兩個",
+          "三個"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "九射下 → 剩一個。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l2-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Keep only one for the people,\" he said.",
+        "explanationZh": "「為了人民,只留下一個,」他說。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch11-l2-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One sun was enough to feed crops and warm hands.",
+        "question": "Why keep one sun in the sky?",
+        "options": [
+          "so the moon stays awake",
+          "for food and warm light",
+          "so birds can sing",
+          "so stars shine more"
+        ],
+        "optionsZh": [
+          "讓月亮不睡",
+          "為了食物跟溫暖",
+          "讓鳥唱歌",
+          "讓星星更亮"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: feed crops + warm hands → 食物跟溫暖 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l2-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Hou Yi held the big red bow tight in his hands.",
+        "explanationZh": "后羿把大紅弓緊握在手中。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l2-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He looked up at the burning sky. Nine suns. One man...",
+        "explanationZh": "他抬頭看燒紅的天空。九個太陽。一個人……",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch11-l3",
+    "chapter": 11,
+    "lessonInChapter": 3,
+    "segmentType": "main-story",
+    "storyId": "houyi",
+    "storyBeat": "走遍大地 — 第一個太陽怎麼射?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch11-l3-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "走",
+            "right": "walk"
+          },
+          {
+            "left": "田",
+            "right": "field"
+          },
+          {
+            "left": "拉",
+            "right": "pull"
+          },
+          {
+            "left": "呼吸",
+            "right": "breath"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 walk = 走\n🔑 field = 田\n🔑 pull = 拉\n🔑 breath = 呼吸\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l3-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Hou Yi walked across the dry brown land.",
+        "explanationZh": "后羿走過乾褐色的大地。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch11-l3-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He saw burning fields. He saw empty rivers.",
+        "question": "What did Hou Yi see on the land?",
+        "options": [
+          "rich green crops",
+          "damage from the heat",
+          "happy market days",
+          "children at play"
+        ],
+        "optionsZh": [
+          "豐盛綠田",
+          "熱造成的傷害",
+          "熱鬧市集",
+          "玩耍的孩子"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 燒焦田 + 空河 → 熱造成的傷害 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l3-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He lifted his big red bow up to the sky.",
+        "explanationZh": "他把大紅弓抬向天空。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch11-l3-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "He pulled the string back slow. He did not rush.",
+        "questionEn": "Was Hou Yi careless and quick?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 慢拉 + 不慌 → 不是粗心快射 → 答 No",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l3-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He took a deep breath. He held it still.",
+        "explanationZh": "他深深吸一口氣。他屏住氣。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch11-l3-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What kind of moment was this for Hou Yi?",
+        "question": "What kind of moment?",
+        "options": [
+          "😴 sleepy",
+          "🎯 focused",
+          "😆 funny",
+          "💃 dancing"
+        ],
+        "optionsZh": [
+          "想睡",
+          "專注",
+          "搞笑",
+          "跳舞"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "深呼吸 + 慢拉弦 → 專注。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l3-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He let one arrow fly into the bright sky.",
+        "explanationZh": "他放一支箭飛向亮亮的天空。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch11-l3-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One sun fell down. The air felt a little cooler.",
+        "question": "What happened after the first arrow?",
+        "options": [
+          "nothing changed at all",
+          "a sun came down",
+          "rain started to fall",
+          "wind blew very hard"
+        ],
+        "optionsZh": [
+          "什麼都沒變",
+          "一個太陽下來了",
+          "開始下雨",
+          "風吹很大"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: sun fell → 太陽下來 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l3-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Hou Yi looked at the sky. Eight suns more.",
+        "explanationZh": "后羿看著天空。還有八個太陽。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l3-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He lifted the bow again. He took another arrow...",
+        "explanationZh": "他再次舉起弓。他拿出另一支箭……",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch11-l4",
+    "chapter": 11,
+    "lessonInChapter": 4,
+    "segmentType": "main-story",
+    "storyId": "houyi",
+    "storyBeat": "九個太陽射下 — 剩 1 個會留嗎?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch11-l4-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "第二",
+            "right": "second"
+          },
+          {
+            "left": "很快",
+            "right": "soon"
+          },
+          {
+            "left": "不見",
+            "right": "gone"
+          },
+          {
+            "left": "最後",
+            "right": "last"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 second = 第二\n🔑 soon = 很快\n🔑 gone = 不見\n🔑 last = 最後\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l4-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Hou Yi shot the second sun. Then the third.",
+        "explanationZh": "后羿射下第二個太陽。然後第三個。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch11-l4-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He shot more and more. One after another, they fell.",
+        "question": "How did Hou Yi shoot the suns?",
+        "options": [
+          "only one time",
+          "in a steady chain",
+          "with shut eyes",
+          "while running fast"
+        ],
+        "optionsZh": [
+          "只射一次",
+          "一個接一個地射",
+          "閉眼",
+          "邊跑邊射"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 一個接一個射 → steady chain (paraphrase)。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l4-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The air grew cooler with every shot.",
+        "explanationZh": "每射一次,空氣就涼一些。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch11-l4-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "A small green shoot pushed up through the dry earth.",
+        "questionEn": "Was the land starting to come back to life?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 綠芽冒出 → 大地復活 → 答 Yes",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l4-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Soon nine suns were gone from the sky.",
+        "explanationZh": "很快,九個太陽都從天上消失了。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch11-l4-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Only one sun was left up there now.",
+        "question": "How many suns were in the sky now?",
+        "options": [
+          "none at all",
+          "just one",
+          "four big ones",
+          "still ten"
+        ],
+        "optionsZh": [
+          "一個都沒有",
+          "只有一個",
+          "四個大的",
+          "還是十個"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "九個不見 → 只有一個 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l4-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Hou Yi lifted his bow one more time.",
+        "explanationZh": "后羿又舉起了弓一次。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch11-l4-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His arrow pointed up. His finger rested on the string.",
+        "question": "What was Hou Yi about to do?",
+        "options": [
+          "put the bow away",
+          "take another shot",
+          "go back home",
+          "eat some lunch"
+        ],
+        "optionsZh": [
+          "收起弓",
+          "再射一次",
+          "回家",
+          "吃午餐"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 箭指上 + 手在弦 → 準備再射 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch11-l4-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What was this moment about?",
+        "question": "What was this moment about?",
+        "options": [
+          "⏸️ a choice",
+          "🎉 a party",
+          "💤 sleep",
+          "🍰 food"
+        ],
+        "optionsZh": [
+          "一個選擇",
+          "派對",
+          "睡覺",
+          "食物"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "舉弓 + 指向最後太陽 → 選擇射不射。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l4-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He looked at the last sun. Would he shoot? Or would he stop...",
+        "explanationZh": "他看著最後一個太陽。射?還是停……",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch11-l5",
+    "chapter": 11,
+    "lessonInChapter": 5,
+    "segmentType": "main-story",
+    "storyId": "houyi",
+    "storyBeat": "留下最後太陽 — 玉皇大帝看見嗎?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch11-l5-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "放下",
+            "right": "put down"
+          },
+          {
+            "left": "留下",
+            "right": "stay"
+          },
+          {
+            "left": "光",
+            "right": "light"
+          },
+          {
+            "left": "綠",
+            "right": "green"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 put down = 放下\n🔑 stay = 留下\n🔑 light = 光\n🔑 green = 綠\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l5-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Hou Yi did not shoot the last sun.",
+        "explanationZh": "后羿沒有射最後那個太陽。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch11-l5-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He thought of cold nights with no light at all.",
+        "question": "Why did he stop shooting?",
+        "options": [
+          "his arm was tired",
+          "one sun was needed",
+          "his bow was broken",
+          "he heard a song"
+        ],
+        "optionsZh": [
+          "手臂累",
+          "需要留一個太陽",
+          "弓壞了",
+          "他聽到歌"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 想到沒光的冷夜 → 需要留一個 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l5-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He put the big red bow down on the ground.",
+        "explanationZh": "他把大紅弓放在地上。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch11-l5-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "He let the last sun stay up in the sky.",
+        "questionEn": "Did Hou Yi want all suns gone?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 讓最後留下 → 不是要全射光 → 答 No",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l5-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The people came out of their homes again.",
+        "explanationZh": "人們又從家裡走出來。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch11-l5-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They saw warm light, not burning light.",
+        "question": "How did the sun feel now?",
+        "options": [
+          "painfully hot",
+          "kind and warm",
+          "sharp and bright",
+          "cold like ice"
+        ],
+        "optionsZh": [
+          "痛苦地熱",
+          "又暖又溫柔",
+          "又銳又亮",
+          "冷如冰"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: warm not burning → 又暖又溫柔 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l5-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The rivers ran again. The grass turned green.",
+        "explanationZh": "河水又流了。草變綠了。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch11-l5-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did the land look now?",
+        "question": "How did the land look?",
+        "options": [
+          "🌳 alive and green",
+          "🔥 still burning",
+          "❄️ frozen",
+          "🌑 dark"
+        ],
+        "optionsZh": [
+          "活又綠",
+          "還在燒",
+          "結冰",
+          "黑暗"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "河水流 + 草變綠 → 活又綠。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l5-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The children laughed by the river again.",
+        "explanationZh": "孩子們又在河邊笑了。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l5-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The Jade Emperor in the sky watched it all...",
+        "explanationZh": "天上的玉皇大帝看著這一切……",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch11-l6",
+    "chapter": 11,
+    "lessonInChapter": 6,
+    "segmentType": "main-story",
+    "storyId": "houyi",
+    "storyBeat": "王不再讓羿做神 — 羿會怎麼回應?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch11-l6-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "開心",
+            "right": "happy"
+          },
+          {
+            "left": "自己的",
+            "right": "own"
+          },
+          {
+            "left": "神",
+            "right": "god"
+          },
+          {
+            "left": "放棄",
+            "right": "give up"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 happy = 開心\n🔑 own = 自己的\n🔑 god = 神\n🔑 give up = 放棄\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l6-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The Jade Emperor was not happy with Hou Yi.",
+        "explanationZh": "玉皇大帝對后羿不滿意。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch11-l6-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The nine fallen suns were his own children.",
+        "question": "Why was the Jade Emperor upset?",
+        "options": [
+          "Hou Yi was too slow",
+          "the suns were his family",
+          "people did not thank him",
+          "the bow was red"
+        ],
+        "optionsZh": [
+          "后羿太慢",
+          "太陽是他的家人",
+          "人們沒謝他",
+          "弓是紅的"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 自己的孩子 → 太陽是家人 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l6-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"You cannot be a god any more,\" the Emperor said.",
+        "explanationZh": "「你不能再當神了,」玉皇大帝說。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch11-l6-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Hou Yi saved the land. The Emperor still took his place away.",
+        "questionEn": "Did doing the right thing protect Hou Yi from loss?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 做對事還是失去身份 → 沒被保護 → 答 No",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l6-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Hou Yi gave up his place in the sky.",
+        "explanationZh": "后羿放棄了他在天上的位置。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch11-l6-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He became a normal man on the green earth.",
+        "question": "What did Hou Yi become?",
+        "options": [
+          "a bigger god",
+          "just a regular person",
+          "a flying bird",
+          "a king of the sea"
+        ],
+        "optionsZh": [
+          "更大的神",
+          "一個普通人",
+          "會飛的鳥",
+          "海王"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: normal man → 普通人 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l6-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His wife Chang'e became a normal woman too.",
+        "explanationZh": "他的妻子嫦娥也變成一個普通女人。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch11-l6-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How might Hou Yi feel about this change?",
+        "question": "How might Hou Yi feel?",
+        "options": [
+          "😎 proud only",
+          "😐 quiet and calm",
+          "🤣 funny",
+          "😱 afraid forever"
+        ],
+        "optionsZh": [
+          "只是驕傲",
+          "安靜又平靜",
+          "搞笑",
+          "永遠害怕"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "放棄但接受 → 安靜又平靜。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l6-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They went to live on the earth together.",
+        "explanationZh": "他們一起到地上生活。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l6-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The sky was no longer home. The earth was new...",
+        "explanationZh": "天空不再是家。大地是新的……",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch11-l7",
+    "chapter": 11,
+    "lessonInChapter": 7,
+    "segmentType": "main-story",
+    "storyId": "houyi",
+    "storyBeat": "凡人羿與凡人嫦娥 — 接下來是嫦娥的故事",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch11-l7-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "老",
+            "right": "old"
+          },
+          {
+            "left": "自由",
+            "right": "free"
+          },
+          {
+            "left": "牆",
+            "right": "wall"
+          },
+          {
+            "left": "故事",
+            "right": "story"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 old = 老\n🔑 free = 自由\n🔑 wall = 牆\n🔑 story = 故事\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l7-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Hou Yi and Chang'e walked the green earth as people.",
+        "explanationZh": "后羿與嫦娥像人一樣走在綠色大地上。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch11-l7-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They grew old like all people grow old.",
+        "question": "How did Hou Yi and Chang'e age?",
+        "options": [
+          "they stayed young forever",
+          "in the normal human way",
+          "very fast in one day",
+          "they grew younger"
+        ],
+        "optionsZh": [
+          "永遠年輕",
+          "像一般人那樣",
+          "一天就變老",
+          "越變越年輕"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: grow old like all people → 一般人那樣 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l7-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They were not gods, but they were free.",
+        "explanationZh": "他們不是神,但他們是自由的。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch11-l7-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "No one in the sky told them what to do now.",
+        "questionEn": "Did they still take orders from above?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 沒人再下令 → 不再聽命 → 答 No",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l7-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Hou Yi kept his big red bow on the wall.",
+        "explanationZh": "后羿把大紅弓掛在牆上。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch11-l7-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He looked at it some nights in the soft lamp light.",
+        "question": "Why did Hou Yi keep the bow?",
+        "options": [
+          "for selling gold price",
+          "as a quiet memory",
+          "cat noise made him",
+          "daily cleaning fun"
+        ],
+        "optionsZh": [
+          "為了賣金錢",
+          "當作安靜的回憶",
+          "貓吵到他",
+          "每天擦著玩"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 夜裡看它 → 安靜的回憶 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l7-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He looked at the one warm sun every morning.",
+        "explanationZh": "他每天早上看著那一個溫暖的太陽。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch11-l7-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did Hou Yi feel about the one sun?",
+        "question": "How did he feel about the sun?",
+        "options": [
+          "😡 angry it was there",
+          "😊 glad he left it",
+          "😴 he ignored it",
+          "😢 sad about it"
+        ],
+        "optionsZh": [
+          "生氣它在那",
+          "高興他留下了",
+          "不理它",
+          "為它難過"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "留下的決定救了大地 → 高興留下了。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l7-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Chang'e walked beside him through every season.",
+        "explanationZh": "嫦娥在每個季節都在他身邊。",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch11-l7-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What came next was Chang'e's story. The moon was waiting...",
+        "explanationZh": "接下來,是嫦娥的故事。月亮在等著……",
+        "tags": [
+          "story",
+          "ch11",
+          "houyi"
+        ]
+      }
+    ]
+  }
+]

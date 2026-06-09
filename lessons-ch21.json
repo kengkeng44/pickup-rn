@@ -1,0 +1,1766 @@
+[
+  {
+    "id": "kt-ch21-l1",
+    "chapter": 21,
+    "lessonInChapter": 1,
+    "segmentType": "main-story",
+    "storyId": "anansi-spider",
+    "storyBeat": "世界上沒有故事 — 蜘蛛想去拿",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch21-l1-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "故事",
+            "right": "story"
+          },
+          {
+            "left": "夜晚",
+            "right": "night"
+          },
+          {
+            "left": "天空",
+            "right": "sky"
+          },
+          {
+            "left": "蜘蛛",
+            "right": "spider"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 story = 故事\n🔑 night = 夜晚\n🔑 sky = 天空\n🔑 spider = 蜘蛛\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l1-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Long ago, there were no stories in the world.",
+        "explanationZh": "很久以前,世界上沒有故事。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch21-l1-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "People sat together at night, and no one had a tale to tell.",
+        "question": "What was night-time like for the people?",
+        "options": [
+          "full of songs",
+          "very quiet and empty",
+          "loud and busy",
+          "full of bright lights"
+        ],
+        "optionsZh": [
+          "充滿歌聲",
+          "很安靜很空",
+          "吵又忙",
+          "燈火通明"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: no tale to tell → 很安靜很空 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch21-l1-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "All the stories belonged to Nyame, the Sky God.",
+        "questionEn": "Could people on the ground share any story?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 故事全屬天神 → 地上人沒得分 → 答 No",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l1-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A small spider named Anansi looked up at the sky.",
+        "explanationZh": "一隻名叫 Anansi 的小蜘蛛抬頭看著天空。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch21-l1-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Anansi was tiny, but his head was full of plans.",
+        "question": "What kind of spider was Anansi?",
+        "options": [
+          "big and strong",
+          "small but with many ideas",
+          "old and slow",
+          "angry and loud"
+        ],
+        "optionsZh": [
+          "又大又強壯",
+          "小但點子多",
+          "老又慢",
+          "生氣又大聲"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: tiny + head full of plans → 小但點子多 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l1-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He wanted everyone on the ground to have a story to share.",
+        "explanationZh": "他希望地上每個人都有故事可以分享。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch21-l1-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "So he made a long thin thread that went all the way up.",
+        "question": "What did Anansi make to reach the sky?",
+        "options": [
+          "a wooden ladder",
+          "a tall silk rope",
+          "a bright kite",
+          "a small boat"
+        ],
+        "optionsZh": [
+          "木梯",
+          "高高的絲繩",
+          "亮亮的風箏",
+          "小船"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: long thin thread → 高高的絲繩 (paraphrase, X3-safe)。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l1-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The thread shone in the moonlight like a silver road.",
+        "explanationZh": "那條線在月光下像一條銀色的路。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch21-l1-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did Anansi feel as he started his climb?",
+        "question": "How did Anansi feel?",
+        "options": [
+          "😴 sleepy",
+          "🔥 brave and ready",
+          "😡 angry",
+          "😱 too scared to move"
+        ],
+        "optionsZh": [
+          "想睡",
+          "勇敢準備好",
+          "生氣",
+          "怕到不能動"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "小蜘蛛主動爬上天 → 勇敢準備好。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l1-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Anansi put one foot on the silver thread and began to climb...",
+        "explanationZh": "Anansi 把一隻腳放上銀線,開始往上爬……",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch21-l2",
+    "chapter": 21,
+    "lessonInChapter": 2,
+    "segmentType": "main-story",
+    "storyId": "anansi-spider",
+    "storyBeat": "天神開價 — 抓三個動物",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch21-l2-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "天神",
+            "right": "sky god"
+          },
+          {
+            "left": "買",
+            "right": "buy"
+          },
+          {
+            "left": "價錢",
+            "right": "price"
+          },
+          {
+            "left": "動物",
+            "right": "animal"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 sky god = 天神\n🔑 buy = 買\n🔑 price = 價錢\n🔑 animal = 動物\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l2-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Anansi went up the long thread and stood before Nyame.",
+        "explanationZh": "Anansi 順著長線爬上去,站在 Nyame 面前。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch21-l2-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He bent his small head low to greet the Sky God.",
+        "question": "How did Anansi greet Nyame?",
+        "options": [
+          "with a loud shout",
+          "with a low bow",
+          "with a big hug",
+          "with no word at all"
+        ],
+        "optionsZh": [
+          "大聲叫",
+          "低頭鞠躬",
+          "大擁抱",
+          "完全沒說話"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: bent small head low → 低頭鞠躬 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch21-l2-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Anansi spoke in a soft, polite voice to the Sky God.",
+        "questionEn": "Did Anansi try to be respectful?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: soft polite voice → 想表現尊重 → 答 Yes",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l2-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"I want to buy all your stories,\" Anansi said.",
+        "explanationZh": "「我想買下你所有的故事,」Anansi 說。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch21-l2-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Nyame looked down and laughed at the small spider.",
+        "question": "What did Nyame do at first?",
+        "options": [
+          "ran away fast",
+          "made fun of the tiny visitor",
+          "agreed right away",
+          "began to cry softly"
+        ],
+        "optionsZh": [
+          "趕快跑走",
+          "取笑這個小訪客",
+          "馬上答應",
+          "開始輕輕地哭"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: looked down + laughed → 取笑這個小訪客 (paraphrase, X3-safe)。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l2-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"The price is high,\" Nyame said. \"Bring me three animals.\"",
+        "explanationZh": "「價錢很高,」Nyame 說。「給我帶三個動物來。」",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch21-l2-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The list was a swarm of hornets, a long python, and a leopard.",
+        "question": "What was on the list?",
+        "options": [
+          "three small birds",
+          "three strong animals",
+          "three sweet fruits",
+          "three quiet fish"
+        ],
+        "optionsZh": [
+          "三隻小鳥",
+          "三個強的動物",
+          "三個甜水果",
+          "三條安靜的魚"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: hornets + python + leopard → 三個強的動物 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l2-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"I can do this,\" Anansi said. He did not even blink.",
+        "explanationZh": "「我可以辦到,」Anansi 說。他連眼睛都沒眨。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch21-l2-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The Sky God set the price, and the spider said yes right away.",
+        "question": "What is this scene mainly about?",
+        "options": [
+          "a fight in the sky",
+          "a deal between a god and a spider",
+          "a song the spider sang",
+          "a big feast for animals"
+        ],
+        "optionsZh": [
+          "天上打架",
+          "天神和蜘蛛的交易",
+          "蜘蛛唱的歌",
+          "動物的大餐"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "主旨 = 天神和蜘蛛的交易。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider",
+          "gist"
+        ],
+        "subSkill": "gist"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l2-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Anansi climbed down to the ground and looked at the list in his hand...",
+        "explanationZh": "Anansi 爬回地上,看著手中的清單……",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch21-l3",
+    "chapter": 21,
+    "lessonInChapter": 3,
+    "segmentType": "main-story",
+    "storyId": "anansi-spider",
+    "storyBeat": "抓蜂 — 用一片葉子和一個鍋",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch21-l3-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "蜜蜂 (Hornet)",
+            "right": "hornet"
+          },
+          {
+            "left": "葉子",
+            "right": "leaf"
+          },
+          {
+            "left": "屋頂",
+            "right": "roof"
+          },
+          {
+            "left": "鍋",
+            "right": "pot"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 hornet = 蜜蜂 (Hornet)\n🔑 leaf = 葉子\n🔑 roof = 屋頂\n🔑 pot = 鍋\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l3-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The first animal was a group of hornets in a big tree.",
+        "explanationZh": "第一個動物是住在大樹上的一群蜂。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch21-l3-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The tree was full of a loud, busy buzzing sound.",
+        "question": "What did the tree sound like?",
+        "options": [
+          "very quiet",
+          "a noisy, busy hum",
+          "a soft song",
+          "a slow river"
+        ],
+        "optionsZh": [
+          "很安靜",
+          "吵又忙的嗡嗡聲",
+          "輕柔的歌",
+          "緩慢的河流"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: loud busy buzzing → 吵又忙的嗡嗡聲 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch21-l3-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The other animals walked far around the tree, not close to it.",
+        "questionEn": "Was the hornet tree a safe place for most animals?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 大家繞遠走 → 不安全 → 答 No",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l3-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Anansi cut a big leaf and held it over his head like a roof.",
+        "explanationZh": "Anansi 剪了一大片葉子,舉在頭上像屋頂。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch21-l3-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Now he had a small green roof on top of his head.",
+        "question": "Why was the leaf over his head?",
+        "options": [
+          "to look pretty",
+          "to keep something off his head",
+          "to feed the hornets",
+          "to make music"
+        ],
+        "optionsZh": [
+          "好看",
+          "擋住東西",
+          "餵蜂",
+          "製造音樂"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: roof on top → 擋住東西 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l3-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He filled a pot with water and poured some on the hornet tree.",
+        "explanationZh": "他裝滿一鍋水,把水倒在蜂的樹上。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch21-l3-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The hornets thought a sudden rain had come too soon.",
+        "question": "What did the hornets think was happening?",
+        "options": [
+          "a fire started",
+          "the rain was here",
+          "a king arrived",
+          "a song was playing"
+        ],
+        "optionsZh": [
+          "火燒",
+          "下雨來了",
+          "國王來了",
+          "在放音樂"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: thought rain came → 下雨來了 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l3-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"The rain is coming! Quick, get in my pot!\" Anansi called.",
+        "explanationZh": "「下雨了!快進我的鍋!」Anansi 喊。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch21-l3-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What did the hornets do when they heard him?",
+        "question": "What did the hornets do?",
+        "options": [
+          "😴 fell asleep",
+          "🏃 ran into the pot",
+          "😡 fought him",
+          "🌊 swam away"
+        ],
+        "optionsZh": [
+          "睡著",
+          "衝進鍋裡",
+          "打他",
+          "游走"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "怕雨 + 聽到喊 → 衝進鍋裡。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l3-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Anansi put a lid on the pot. The hornets had given up and gone inside...",
+        "explanationZh": "Anansi 把蓋子蓋上。蜂全都放棄,進到鍋裡了……",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch21-l4",
+    "chapter": 21,
+    "lessonInChapter": 4,
+    "segmentType": "main-story",
+    "storyId": "anansi-spider",
+    "storyBeat": "抓蛇 — 用一根樹枝和一個聰明話",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch21-l4-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "大蛇 (Python)",
+            "right": "python"
+          },
+          {
+            "left": "樹枝",
+            "right": "stick"
+          },
+          {
+            "left": "朋友",
+            "right": "friend"
+          },
+          {
+            "left": "綁",
+            "right": "tie"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 python = 大蛇 (Python)\n🔑 stick = 樹枝\n🔑 friend = 朋友\n🔑 tie = 綁\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l4-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The second animal was a long python in the river grass.",
+        "explanationZh": "第二個動物是河邊草叢裡的一條長蛇。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch21-l4-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His body went on and on, like a green road in the grass.",
+        "question": "How was the python's body?",
+        "options": [
+          "very short",
+          "very long like a road",
+          "round like a ball",
+          "flat like paper"
+        ],
+        "optionsZh": [
+          "很短",
+          "很長像一條路",
+          "圓得像球",
+          "扁得像紙"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: on and on, like a road → 很長像一條路 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch21-l4-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The python often showed off his long body to the other animals.",
+        "questionEn": "Was the python proud of how long he was?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 常炫耀身長 → 很驕傲 → 答 Yes",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l4-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Anansi found a strong stick and brought it to the python.",
+        "explanationZh": "Anansi 找了一根結實的樹枝,拿到大蛇面前。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch21-l4-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"My friend says you are not really that long,\" Anansi said.",
+        "question": "What did Anansi tell the python?",
+        "options": [
+          "that he was the king",
+          "that some friend doubted his length",
+          "that he could fly",
+          "that the river was dry"
+        ],
+        "optionsZh": [
+          "他是國王",
+          "有朋友懷疑他的長度",
+          "他會飛",
+          "河乾了"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: friend says not that long → 朋友懷疑長度 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l4-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The python lifted his head. His eyes went sharp and bright.",
+        "explanationZh": "大蛇抬起頭。他的眼睛變得銳利又閃亮。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch21-l4-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He wanted to show everyone how very long he really was.",
+        "question": "How did the python feel after hearing Anansi?",
+        "options": [
+          "shy and quiet",
+          "set on showing off",
+          "sleepy and bored",
+          "sad and slow"
+        ],
+        "optionsZh": [
+          "害羞安靜",
+          "想要炫耀",
+          "想睡無聊",
+          "難過慢"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: wanted to show how long → 想要炫耀 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l4-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The python lay down by the stick to show his full length.",
+        "explanationZh": "大蛇躺在樹枝旁,要展現完整的長度。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch21-l4-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What did Anansi do while the python was lying still?",
+        "question": "What did Anansi do next?",
+        "options": [
+          "🪢 tied him to the stick",
+          "🏃 ran away",
+          "🎵 sang a song",
+          "🍞 made bread"
+        ],
+        "optionsZh": [
+          "把他綁在樹枝上",
+          "跑走",
+          "唱歌",
+          "做麵包"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "蛇躺好 + Anansi 有樹枝 → 把他綁在樹枝上。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l4-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The python tried to move, but the stick held him safely. Anansi smiled...",
+        "explanationZh": "大蛇想動,但樹枝把他穩穩固定住。Anansi 笑了……",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch21-l5",
+    "chapter": 21,
+    "lessonInChapter": 5,
+    "segmentType": "main-story",
+    "storyId": "anansi-spider",
+    "storyBeat": "抓豹 — 挖一個洞,等夜晚",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch21-l5-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "豹 (Leopard)",
+            "right": "leopard"
+          },
+          {
+            "left": "挖",
+            "right": "dig"
+          },
+          {
+            "left": "洞",
+            "right": "hole"
+          },
+          {
+            "left": "繩子",
+            "right": "rope"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 leopard = 豹 (Leopard)\n🔑 dig = 挖\n🔑 hole = 洞\n🔑 rope = 繩子\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l5-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The third animal was a leopard with sharp, bright eyes.",
+        "explanationZh": "第三個動物是一隻眼睛銳利明亮的豹。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch21-l5-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "No animal in the forest dared to walk near his rest tree.",
+        "question": "Was the leopard easy to catch?",
+        "options": [
+          "yes, very easy",
+          "no, every animal kept far",
+          "yes, he loved hugs",
+          "no, he was too small"
+        ],
+        "optionsZh": [
+          "是,很容易",
+          "不,大家都離很遠",
+          "是,他愛抱抱",
+          "不,他太小"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: no animal dared near → 大家都離很遠 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch21-l5-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "For two days, Anansi watched which path the leopard used at night.",
+        "questionEn": "Did Anansi plan his trap with care?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 觀察兩天 → 仔細計畫 → 答 Yes",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l5-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Anansi dug a deep hole on the path the leopard liked.",
+        "explanationZh": "Anansi 在豹喜歡走的路上挖了一個深洞。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch21-l5-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He covered the hole with leaves so no one could see it.",
+        "question": "Why did Anansi put leaves on top?",
+        "options": [
+          "to make it pretty",
+          "to hide the hole from view",
+          "to feed the leopard",
+          "to warm his feet"
+        ],
+        "optionsZh": [
+          "好看",
+          "讓人看不到洞",
+          "餵豹",
+          "暖腳"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: cover so no one sees → 讓人看不到 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l5-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "That night the leopard walked the path with quiet, strong feet.",
+        "explanationZh": "那天晚上,豹用安靜有力的腳走過那條路。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch21-l5-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One step on the leaves, and his big body went straight down.",
+        "question": "What happened to the leopard?",
+        "options": [
+          "he flew up high",
+          "he dropped into the hole",
+          "he turned around",
+          "he sat on a rock"
+        ],
+        "optionsZh": [
+          "他飛上天",
+          "他掉進洞裡",
+          "他轉身",
+          "他坐石頭上"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: body went straight down → 掉進洞裡 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l5-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The leopard tried to climb out, but the walls were too high.",
+        "explanationZh": "豹想爬出來,但洞壁太高了。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch21-l5-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Anansi looked down at him and held out a long, strong rope.",
+        "question": "Why did Anansi bring a rope?",
+        "options": [
+          "to play tug-of-war",
+          "to lift the leopard up safely",
+          "to tie his shoes",
+          "to draw a line"
+        ],
+        "optionsZh": [
+          "玩拔河",
+          "把豹安全拉上來",
+          "綁鞋帶",
+          "畫線"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:豹在洞底 + Anansi 拿繩 → 要把豹安全拉上來。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider",
+          "gist"
+        ],
+        "subSkill": "gist"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l5-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"I will help you up,\" Anansi said. The leopard looked up at the rope...",
+        "explanationZh": "「我幫你上來,」Anansi 說。豹抬頭看著繩子……",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch21-l6",
+    "chapter": 21,
+    "lessonInChapter": 6,
+    "segmentType": "main-story",
+    "storyId": "anansi-spider",
+    "storyBeat": "蜘蛛全帶回天神 — 天神給故事",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch21-l6-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "帶",
+            "right": "bring"
+          },
+          {
+            "left": "頭",
+            "right": "head"
+          },
+          {
+            "left": "盒子",
+            "right": "box"
+          },
+          {
+            "left": "世界",
+            "right": "world"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 bring = 帶\n🔑 head = 頭\n🔑 box = 盒子\n🔑 world = 世界\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l6-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Anansi climbed up the thread again, and this time he was not alone.",
+        "explanationZh": "Anansi 又爬上那條線,這次他不是一個人。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch21-l6-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Behind him came the hornets, the long python, and the spotted leopard.",
+        "question": "Who came up with Anansi?",
+        "options": [
+          "his mother",
+          "three birds",
+          "the three caught animals",
+          "two old men"
+        ],
+        "optionsZh": [
+          "他媽媽",
+          "三隻鳥",
+          "抓到的三個動物",
+          "兩個老人"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "推理: hornets + python + leopard → 抓到的三個動物 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch21-l6-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Nyame slowly stood up from his big chair to take a closer look.",
+        "questionEn": "Was the Sky God surprised by what he saw?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 站起來 + 近看 → 驚訝 → 答 Yes",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l6-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The Sky God looked at the hornets, the python, and the leopard.",
+        "explanationZh": "天神看著蜂、大蛇,還有豹。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch21-l6-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He could not see any rope on his back or any cut on his skin.",
+        "question": "What did Nyame notice about the catch?",
+        "options": [
+          "the animals were hurt",
+          "no animal had been hurt",
+          "they were all asleep",
+          "they were all sick"
+        ],
+        "optionsZh": [
+          "動物受傷了",
+          "沒有動物受傷",
+          "他們都睡著了",
+          "都生病了"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: no rope + no cut → 沒有動物受傷 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l6-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"You are small, but your head is big,\" Nyame said with a smile.",
+        "explanationZh": "「你很小,但腦袋很大,」Nyame 笑著說。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch21-l6-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He meant Anansi had used his clever ideas, not his strong arms.",
+        "question": "What did Nyame mean by \"your head is big\"?",
+        "options": [
+          "Anansi had a big hat",
+          "Anansi was very clever",
+          "Anansi was very tall",
+          "Anansi was very loud"
+        ],
+        "optionsZh": [
+          "Anansi 有大帽子",
+          "Anansi 很聰明",
+          "Anansi 很高",
+          "Anansi 很大聲"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: clever ideas not strong arms → 很聰明 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l6-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He gave Anansi a wooden box full of all the stories of the world.",
+        "explanationZh": "他給了 Anansi 一個木盒,裡面裝著全世界所有的故事。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch21-l6-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did Anansi feel when he held the box?",
+        "question": "How did Anansi feel?",
+        "options": [
+          "😴 sleepy",
+          "🌟 proud and happy",
+          "😡 angry",
+          "😢 sad"
+        ],
+        "optionsZh": [
+          "想睡",
+          "驕傲又開心",
+          "生氣",
+          "難過"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "小蜘蛛拿到全世界的故事 → 驕傲又開心。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l6-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Anansi held the box close to his chest and looked down at the world below...",
+        "explanationZh": "Anansi 把盒子抱在胸前,看著下面的世界……",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch21-l7",
+    "chapter": 21,
+    "lessonInChapter": 7,
+    "segmentType": "main-story",
+    "storyId": "anansi-spider",
+    "storyBeat": "蜘蛛把故事散到全世界",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch21-l7-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "抱",
+            "right": "carry"
+          },
+          {
+            "left": "打開",
+            "right": "open"
+          },
+          {
+            "left": "蓋子",
+            "right": "lid"
+          },
+          {
+            "left": "飛",
+            "right": "fly"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 carry = 抱\n🔑 open = 打開\n🔑 lid = 蓋子\n🔑 fly = 飛\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l7-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Anansi carried the heavy box back down to the ground.",
+        "explanationZh": "Anansi 把重重的盒子帶回地上。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch21-l7-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Every step down the thread was slow and careful.",
+        "question": "How did Anansi move on the way down?",
+        "options": [
+          "fast and bouncy",
+          "slowly with care",
+          "in big jumps",
+          "with his eyes shut"
+        ],
+        "optionsZh": [
+          "又快又彈跳",
+          "慢慢小心",
+          "大跳",
+          "閉著眼"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: slow and careful → 慢慢小心 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch21-l7-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "In the village, the people came out and made a circle around him.",
+        "questionEn": "Were the people curious about what was in the box?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 圍成一圈 → 很好奇 → 答 Yes",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l7-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He opened the lid in the middle of the village.",
+        "explanationZh": "他在村子中央把蓋子打開。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch21-l7-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The stories flew out like birds and went in every direction.",
+        "question": "What did the stories look like?",
+        "options": [
+          "stones falling down",
+          "birds flying out",
+          "a quiet river",
+          "soft balls of yarn"
+        ],
+        "optionsZh": [
+          "石頭掉下來",
+          "鳥飛出來",
+          "安靜的河",
+          "軟毛線球"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: flew out like birds → 鳥飛出來 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l7-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They went to every corner of the earth, near and far.",
+        "explanationZh": "它們飛到地球的每個角落,近的遠的都有。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch21-l7-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Now every home, even small ones, had a story by the fire at night.",
+        "question": "What changed for the people at night?",
+        "options": [
+          "no one slept",
+          "every home had a story to share",
+          "they all moved away",
+          "the fire went out"
+        ],
+        "optionsZh": [
+          "沒人睡",
+          "每家都有故事可分享",
+          "都搬走",
+          "火滅了"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: every home had a story → 每家都有故事可分享 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l7-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "And that is why, even today, there is a tale in every home.",
+        "explanationZh": "所以,直到今天,每個家裡都有故事。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch21-l7-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "A small spider with a big head changed the night for everyone.",
+        "question": "What is the main lesson of this story?",
+        "options": [
+          "only the strong can win",
+          "clever thinking can beat brute strength",
+          "never trust a spider",
+          "stories are only for kings"
+        ],
+        "optionsZh": [
+          "只有強者能贏",
+          "聰明可以勝過蠻力",
+          "不要相信蜘蛛",
+          "故事只給國王"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "主旨 = 小蜘蛛用聰明拿到所有故事 → 聰明可以勝過蠻力。",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider",
+          "gist"
+        ],
+        "subSkill": "gist"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch21-l7-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Tonight your story is also one of Anansi's. What is the first story you remember?",
+        "explanationZh": "今晚你聽的故事,也是 Anansi 帶回來的。你記得的第一個故事是什麼?",
+        "tags": [
+          "story",
+          "ch21",
+          "anansi-spider"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1766 @@
+[
+  {
+    "id": "kt-ch24-l1",
+    "chapter": 24,
+    "lessonInChapter": 1,
+    "segmentType": "main-story",
+    "storyId": "kong-rong",
+    "storyBeat": "四歲孔融 + 七兄弟 — 父親拿一盤梨回來",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch24-l1-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "男孩",
+            "right": "boy"
+          },
+          {
+            "left": "年輕的",
+            "right": "young"
+          },
+          {
+            "left": "梨",
+            "right": "pear"
+          },
+          {
+            "left": "盤子",
+            "right": "plate"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 boy = 男孩\n🔑 young = 年輕的\n🔑 pear = 梨\n🔑 plate = 盤子\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l1-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Long ago in China, there lived a boy named Kong Rong.",
+        "explanationZh": "很久以前,在中國,有一個小男孩,名字叫孔融。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch24-l1-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He was four years old and the youngest of seven brothers.",
+        "question": "How many brothers did Kong Rong have at home?",
+        "options": [
+          "only one brother",
+          "six older brothers",
+          "no brothers at all",
+          "three older sisters"
+        ],
+        "optionsZh": [
+          "只有一個兄弟",
+          "六個哥哥",
+          "完全沒兄弟",
+          "三個姊姊"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: youngest of seven → 還有六個哥哥 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch24-l1-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The house was warm and the brothers waited at the table.",
+        "questionEn": "Was this a calm and warm family moment?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 屋裡溫暖 + 兄弟等著 → 平靜溫暖 → 答 Yes",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l1-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One evening, their father came home with a plate of pears.",
+        "explanationZh": "一天傍晚,父親帶了一盤梨子回家。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch24-l1-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The plate had big pears and small pears on it.",
+        "question": "What was on the plate?",
+        "options": [
+          "pears of different sizes",
+          "a single small cake",
+          "only apples and rice",
+          "fresh bread and milk"
+        ],
+        "optionsZh": [
+          "不同大小的梨子",
+          "一塊小蛋糕",
+          "只有蘋果和飯",
+          "麵包和牛奶"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: big pears and small pears → 不同大小的梨子 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l1-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "All the brothers came near to look at the plate.",
+        "explanationZh": "所有兄弟都靠過來看那盤梨子。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch24-l1-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Their eyes went straight to the biggest pear of all.",
+        "question": "What did the brothers look at first?",
+        "options": [
+          "one of the largest pears",
+          "a window outside",
+          "their grandfather's book",
+          "an empty rice bowl"
+        ],
+        "optionsZh": [
+          "其中一個最大的梨子",
+          "窗外",
+          "爺爺的書",
+          "空飯碗"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: eyes to biggest → 其中一個最大的梨子 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l1-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "But no one reached out to take a pear yet.",
+        "explanationZh": "但還沒有人伸手拿梨子。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch24-l1-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did the room feel before anyone picked a pear?",
+        "question": "How did the room feel?",
+        "options": [
+          "😴 sleepy",
+          "🤔 curious and quiet",
+          "😡 angry",
+          "😱 scared"
+        ],
+        "optionsZh": [
+          "想睡",
+          "好奇又安靜",
+          "生氣",
+          "害怕"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "溫暖家庭 + 等待 → 好奇又安靜 (anticipation)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l1-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Seven boys. One plate of pears. Who would pick first...",
+        "explanationZh": "七個男孩,一盤梨子。誰會先選呢……",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch24-l2",
+    "chapter": 24,
+    "lessonInChapter": 2,
+    "segmentType": "main-story",
+    "storyId": "kong-rong",
+    "storyBeat": "父親說:「你先選一個」 — 大家看著孔融",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch24-l2-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "桌子",
+            "right": "table"
+          },
+          {
+            "left": "親切",
+            "right": "kind"
+          },
+          {
+            "left": "微笑",
+            "right": "smile"
+          },
+          {
+            "left": "選",
+            "right": "pick"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 table = 桌子\n🔑 kind = 親切\n🔑 smile = 微笑\n🔑 pick = 選\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l2-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The father put the plate down on the family table.",
+        "explanationZh": "父親把盤子放到家裡的桌上。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch24-l2-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He looked at little Kong Rong and gave a kind smile.",
+        "question": "How did the father look at Kong Rong?",
+        "options": [
+          "with cold eyes",
+          "in a soft and kind way",
+          "while looking away",
+          "with a tired frown"
+        ],
+        "optionsZh": [
+          "冷冷地",
+          "溫柔親切地",
+          "別開視線",
+          "疲倦皺眉"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: kind smile → 溫柔親切 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch24-l2-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The father turned to the smallest child before the others.",
+        "questionEn": "Did the father want the youngest to choose first?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 轉向最小的 + 在其他人之前 → 想讓最小的先選 → 答 Yes",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l2-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"You are the youngest. You may pick first,\" he said.",
+        "explanationZh": "「你最小,你可以先選,」他說。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch24-l2-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He told Kong Rong he could choose any pear he liked.",
+        "question": "What did the father tell Kong Rong?",
+        "options": [
+          "wait until his mother arrived",
+          "any one of the pears was his choice",
+          "share with the family dog",
+          "go back outside and play"
+        ],
+        "optionsZh": [
+          "等媽媽來再說",
+          "哪一顆都可以選",
+          "跟家裡的狗分享",
+          "回外面玩"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: choose any pear → 哪一顆都可以選 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l2-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "All six brothers turned their heads to watch.",
+        "explanationZh": "六個哥哥都轉頭看著他。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch24-l2-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Twelve eyes were now on little Kong Rong.",
+        "question": "Who was watching Kong Rong now?",
+        "options": [
+          "only his mother",
+          "all his older brothers",
+          "no one in the room",
+          "just one brother"
+        ],
+        "optionsZh": [
+          "只有媽媽",
+          "所有哥哥",
+          "沒人",
+          "只有一個哥哥"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: twelve eyes → 六個哥哥 (12 ÷ 2 = 6) → 所有哥哥 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l2-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "No one spoke. The room waited for him to move.",
+        "explanationZh": "沒有人說話。房間等著他動作。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch24-l2-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How would a four-year-old feel with all eyes on him?",
+        "question": "How would Kong Rong feel?",
+        "options": [
+          "🎉 ready to dance",
+          "👀 a bit shy but thinking",
+          "😴 sleepy",
+          "🍔 hungry only"
+        ],
+        "optionsZh": [
+          "想跳舞",
+          "有點害羞但在想",
+          "想睡",
+          "只有餓"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "所有人看著 + 房間等待 → 害羞但在思考 (spotlight)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l2-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Big pears and small pears were waiting on the plate...",
+        "explanationZh": "盤子上,大梨和小梨都在等著……",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch24-l3",
+    "chapter": 24,
+    "lessonInChapter": 3,
+    "segmentType": "main-story",
+    "storyId": "kong-rong",
+    "storyBeat": "大梨小梨並排 — 該選哪個?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch24-l3-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "大的",
+            "right": "big"
+          },
+          {
+            "left": "小的",
+            "right": "small"
+          },
+          {
+            "left": "甜",
+            "right": "sweet"
+          },
+          {
+            "left": "瘦",
+            "right": "thin"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 big = 大的\n🔑 small = 小的\n🔑 sweet = 甜\n🔑 thin = 瘦\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l3-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Big pears and small pears sat side by side.",
+        "explanationZh": "大梨和小梨並排放著。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch24-l3-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One pear was the biggest of all. It looked very sweet.",
+        "question": "What was special about the biggest pear?",
+        "options": [
+          "such a tasty look",
+          "a tiny black mark",
+          "green inside",
+          "a soft fishy smell"
+        ],
+        "optionsZh": [
+          "好吃的樣子",
+          "一個黑色小印",
+          "裡面綠的",
+          "聞起來有點魚味"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: looked very sweet → 好吃的樣子 (paraphrase, 不抄原句)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch24-l3-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "One pear was the smallest. It looked a bit thin.",
+        "questionEn": "Did the smallest pear look as nice as the biggest?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 最小的看起來瘦 + 對比最甜的 → 沒那麼好 → 答 No",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l3-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Kong Rong looked at the pears for a long moment.",
+        "explanationZh": "孔融看著梨子,看了好久。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch24-l3-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His small face was quiet but his eyes were full of thought.",
+        "question": "What was Kong Rong doing while he looked?",
+        "options": [
+          "singing a small song",
+          "thinking carefully",
+          "falling asleep",
+          "eating bread fast"
+        ],
+        "optionsZh": [
+          "唱小歌",
+          "仔細思考",
+          "睡著",
+          "快吃麵包"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 眼裡充滿思考 → 仔細思考 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l3-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A four-year-old usually picks the biggest and sweetest.",
+        "explanationZh": "四歲的小孩通常會選最大最甜的。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch24-l3-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The brothers waited to see Kong Rong grab the big one.",
+        "question": "What did the brothers expect to see?",
+        "options": [
+          "some quiet sharing first",
+          "a hand going to the biggest pear",
+          "a quick walk out of the room",
+          "a long song at the table"
+        ],
+        "optionsZh": [
+          "先安靜分梨",
+          "手伸向最大的梨",
+          "快速走出房間",
+          "在桌邊唱長歌"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 哥哥們等著看他拿大的 → 手伸向最大的梨 (paraphrase, 預期)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l3-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "But Kong Rong did not move fast like other small kids.",
+        "explanationZh": "但孔融沒有像其他小孩那樣動得快。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch24-l3-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What kind of moment was this for Kong Rong?",
+        "question": "What kind of moment?",
+        "options": [
+          "😅 hard but quiet choice",
+          "🤣 joke time",
+          "😴 nap time",
+          "🎵 music time"
+        ],
+        "optionsZh": [
+          "困難但安靜的選擇",
+          "玩笑時間",
+          "午睡時間",
+          "音樂時間"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "不像別的小孩那樣快 → 困難但安靜的選擇 (moral 兩難)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l3-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Then his small hand began to move toward the plate...",
+        "explanationZh": "然後,他的小手開始伸向盤子……",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch24-l4",
+    "chapter": 24,
+    "lessonInChapter": 4,
+    "segmentType": "main-story",
+    "storyId": "kong-rong",
+    "storyBeat": "孔融伸手選了最小的 — 父親問:「為什麼?」",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch24-l4-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "伸手",
+            "right": "reach"
+          },
+          {
+            "left": "手",
+            "right": "hand"
+          },
+          {
+            "left": "拿",
+            "right": "take"
+          },
+          {
+            "left": "為什麼",
+            "right": "why"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 reach = 伸手\n🔑 hand = 手\n🔑 take = 拿\n🔑 why = 為什麼\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l4-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Kong Rong reached out with his small hand.",
+        "explanationZh": "孔融伸出他的小手。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch24-l4-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He did not take the biggest pear.",
+        "question": "Did Kong Rong grab the biggest pear?",
+        "options": [
+          "yes, the biggest one",
+          "no, he passed it over",
+          "he asked his brother to",
+          "he took two at once"
+        ],
+        "optionsZh": [
+          "有,最大的",
+          "沒有,他跳過了",
+          "請哥哥拿",
+          "一次拿兩個"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: did not take biggest → 沒拿,跳過 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch24-l4-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "His brothers raised their eyebrows in soft surprise.",
+        "questionEn": "Did the brothers expect this choice?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 揚眉 + 驚訝 → 沒料到 → 答 No",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l4-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He picked up the smallest pear from the plate.",
+        "explanationZh": "他從盤子上拿起最小的梨。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch24-l4-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The thin little pear sat lightly in his small hand.",
+        "question": "Which pear did Kong Rong end up with?",
+        "options": [
+          "the largest and sweetest one",
+          "one of the smaller ones",
+          "no fruit at all",
+          "two soft yellow pears"
+        ],
+        "optionsZh": [
+          "最大最甜的那個",
+          "比較小的其中一個",
+          "完全沒拿",
+          "兩個軟黃梨"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: thin little pear → 比較小的其中一個 (paraphrase, 不抄原句)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l4-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His father leaned forward with gentle eyes.",
+        "explanationZh": "父親身體微微前傾,眼神溫柔。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch24-l4-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Why this one, my son?\" his father asked softly.",
+        "question": "What did the father want to know?",
+        "options": [
+          "where the mother was right now",
+          "his son's reason for the small pear",
+          "why the dog was outside",
+          "how cold the kitchen was"
+        ],
+        "optionsZh": [
+          "媽媽在哪",
+          "兒子為什麼選小梨",
+          "狗為什麼在外面",
+          "廚房有多冷"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: why this one → 兒子為什麼選小梨 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l4-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The room was quiet. Everyone waited for the small boy.",
+        "explanationZh": "房間很安靜。大家都等著小男孩開口。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch24-l4-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What did everyone want to hear from Kong Rong?",
+        "question": "What did they want to hear?",
+        "options": [
+          "🤔 his reason",
+          "🎵 a song",
+          "😴 a yawn",
+          "🍞 a food order"
+        ],
+        "optionsZh": [
+          "他的理由",
+          "一首歌",
+          "一個哈欠",
+          "點餐"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "安靜等小男孩 → 等他的理由 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l4-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Kong Rong took a small breath and began to speak...",
+        "explanationZh": "孔融輕輕吸了一口氣,開始說話……",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch24-l5",
+    "chapter": 24,
+    "lessonInChapter": 5,
+    "segmentType": "main-story",
+    "storyId": "kong-rong",
+    "storyBeat": "孔融說:「我年紀小,應該吃小的」 — 父親微笑",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch24-l5-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "握",
+            "right": "hold"
+          },
+          {
+            "left": "家人",
+            "right": "family"
+          },
+          {
+            "left": "應該",
+            "right": "should"
+          },
+          {
+            "left": "溫暖的",
+            "right": "warm"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 hold = 握\n🔑 family = 家人\n🔑 should = 應該\n🔑 warm = 溫暖的\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l5-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Kong Rong held the small pear in his hands.",
+        "explanationZh": "孔融把小梨握在手裡。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch24-l5-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His voice was small but very clear in the room.",
+        "question": "How did Kong Rong speak?",
+        "options": [
+          "with a very loud shout",
+          "quietly but easy to hear",
+          "while still chewing food",
+          "with no words at all"
+        ],
+        "optionsZh": [
+          "大聲吼",
+          "安靜但聽得清楚",
+          "一邊咬東西",
+          "完全沒說話"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: small but clear → 安靜但聽得清楚 (paraphrase, 不抄原句)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch24-l5-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "His face was calm. He did not look afraid at all.",
+        "questionEn": "Was Kong Rong nervous to share his reason?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 平靜 + 不害怕 → 不緊張 → 答 No",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l5-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"I am the youngest in our family,\" he said.",
+        "explanationZh": "「我是家裡最小的,」他說。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch24-l5-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"I should take the small one, not the big one.\"",
+        "question": "What did Kong Rong say he should take?",
+        "options": [
+          "the big and sweet pear",
+          "the small pear, not the big one",
+          "two pears for himself",
+          "no pear today"
+        ],
+        "optionsZh": [
+          "大又甜的梨",
+          "小的,不是大的",
+          "兩個梨自己留",
+          "今天不吃梨"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: small one, not the big → 小的,不是大的 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l5-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His father smiled a warm smile back at him.",
+        "explanationZh": "父親回給他一個溫暖的微笑。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch24-l5-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Something warm moved inside his father's chest.",
+        "question": "How did the father feel inside?",
+        "options": [
+          "cold and angry",
+          "warm and touched",
+          "tired and bored",
+          "hungry and sad"
+        ],
+        "optionsZh": [
+          "又冷又生氣",
+          "溫暖又感動",
+          "疲倦無聊",
+          "又餓又難過"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: warm moved inside chest → 溫暖感動 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l5-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "But his father wanted to hear one more thing.",
+        "explanationZh": "但父親還想聽一件事。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch24-l5-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did the father feel about his small son?",
+        "question": "How did the father feel?",
+        "options": [
+          "🤗 proud and touched",
+          "😡 angry",
+          "😴 sleepy",
+          "😱 scared"
+        ],
+        "optionsZh": [
+          "驕傲又感動",
+          "生氣",
+          "想睡",
+          "害怕"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "溫暖微笑 + 心裡感動 → 驕傲又感動 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l5-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The father leaned closer. \"And one more question, son...\"",
+        "explanationZh": "父親靠近一點。「再問你一個問題,兒子……」",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch24-l6",
+    "chapter": 24,
+    "lessonInChapter": 6,
+    "segmentType": "main-story",
+    "storyId": "kong-rong",
+    "storyBeat": "父親問:「那你哥哥呢?」 — 孔融再答一層",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch24-l6-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "輕柔的",
+            "right": "soft"
+          },
+          {
+            "left": "聲音",
+            "right": "voice"
+          },
+          {
+            "left": "較大的",
+            "right": "older"
+          },
+          {
+            "left": "想",
+            "right": "think"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 soft = 輕柔的\n🔑 voice = 聲音\n🔑 older = 較大的\n🔑 think = 想\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l6-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The father asked again with a soft voice.",
+        "explanationZh": "父親再次用輕柔的聲音問。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch24-l6-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His voice was gentle, like he was teaching a lesson.",
+        "question": "How did the father ask the next question?",
+        "options": [
+          "loud and angry",
+          "gently, like a teacher",
+          "with cold eyes",
+          "while eating bread"
+        ],
+        "optionsZh": [
+          "大聲生氣",
+          "溫柔像老師",
+          "冷眼",
+          "邊吃麵包"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: gentle like teaching → 溫柔像老師 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch24-l6-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The father wanted to know if his son had thought even more.",
+        "questionEn": "Was the father testing how deep Kong Rong's thinking went?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 想知道有沒有想更深 → 在測思考深度 → 答 Yes",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l6-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"And what about your six older brothers?\"",
+        "explanationZh": "「那你六個哥哥呢?」",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch24-l6-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The father wanted to know what Kong Rong thought about them.",
+        "question": "What did the father ask about now?",
+        "options": [
+          "the family dog",
+          "his older brothers",
+          "the rice for dinner",
+          "the broken window"
+        ],
+        "optionsZh": [
+          "家裡的狗",
+          "哥哥們",
+          "晚餐的飯",
+          "壞掉的窗戶"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: about your brothers → 哥哥們 (paraphrase, 不能直接 copy)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l6-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Kong Rong thought for a moment and looked up.",
+        "explanationZh": "孔融想了一下,抬起頭。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch24-l6-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He did not need much time to find the words.",
+        "question": "How long did Kong Rong need to think?",
+        "options": [
+          "a whole hour",
+          "not very long",
+          "until the next day",
+          "until his mother came"
+        ],
+        "optionsZh": [
+          "一整個小時",
+          "不太久",
+          "到隔天",
+          "到媽媽來"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 不需要太多時間 → 不太久 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l6-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He gave a simple and clear answer.",
+        "explanationZh": "他給了一個簡單清楚的答案。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch24-l6-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What kind of answer was Kong Rong about to give?",
+        "question": "What kind of answer?",
+        "options": [
+          "💡 simple but wise",
+          "🤣 funny joke",
+          "😴 sleepy mumble",
+          "😡 angry shout"
+        ],
+        "optionsZh": [
+          "簡單但有智慧",
+          "搞笑笑話",
+          "想睡含糊",
+          "生氣大吼"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "簡單清楚 + 父親教學 → 簡單但有智慧 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l6-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The whole family leaned in to hear what he would say...",
+        "explanationZh": "全家人靠過來,想聽他要說什麼……",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch24-l7",
+    "chapter": 24,
+    "lessonInChapter": 7,
+    "segmentType": "main-story",
+    "storyId": "kong-rong",
+    "storyBeat": "「哥哥比我大,應該吃大的」 — 全家學到一課",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch24-l7-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "更大",
+            "right": "bigger"
+          },
+          {
+            "left": "比",
+            "right": "than"
+          },
+          {
+            "left": "開心的",
+            "right": "happy"
+          },
+          {
+            "left": "學",
+            "right": "learn"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 bigger = 更大\n🔑 than = 比\n🔑 happy = 開心的\n🔑 learn = 學\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l7-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"My brothers are bigger than me,\" Kong Rong said.",
+        "explanationZh": "「我哥哥比我大,」孔融說。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch24-l7-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He pointed at himself and then at his older brothers.",
+        "question": "What did Kong Rong compare?",
+        "options": [
+          "the size of bodies in the family",
+          "a pair of warm shoes",
+          "two kinds of school books",
+          "rice bowls on the shelf"
+        ],
+        "optionsZh": [
+          "家裡人的身材大小",
+          "一雙暖鞋",
+          "兩種學校書",
+          "架上的飯碗"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 指自己再指哥哥 → 家裡人的身材大小 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch24-l7-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "His logic was simple. Bigger bodies need bigger pears.",
+        "questionEn": "Was Kong Rong's reason easy for a child to understand?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: simple logic + child-friendly → 容易懂 → 答 Yes",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l7-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"They should take the big pears, not me.\"",
+        "explanationZh": "「他們應該拿大的梨,不是我。」",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch24-l7-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The small boy gave the big pears to his older brothers.",
+        "question": "What was Kong Rong saying in two lines together?",
+        "options": [
+          "big ones for the older, small one for me",
+          "all the pears are mine alone",
+          "no one should eat any pears",
+          "pears are only for the parents"
+        ],
+        "optionsZh": [
+          "大的給哥哥,小的給我",
+          "所有梨都是我的",
+          "沒人能吃梨",
+          "梨只給爸媽"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 兩句合起來 → 大的給哥哥,小的留我 (paraphrase, 完整論點)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l7-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The father was so happy he could not speak.",
+        "explanationZh": "父親開心到說不出話。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch24-l7-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His eyes were bright. He put a hand on Kong Rong's head.",
+        "question": "How did the father show his feeling?",
+        "options": [
+          "by leaving the table",
+          "with bright eyes and a soft touch",
+          "by shouting at the brothers",
+          "by hiding the pears away"
+        ],
+        "optionsZh": [
+          "離開桌子",
+          "眼睛發亮,輕拍頭",
+          "對哥哥吼",
+          "把梨藏起來"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: bright eyes + hand on head → 眼睛發亮 + 輕拍 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l7-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "That night the family learned a small but big lesson.",
+        "explanationZh": "那晚,全家學到一個小小但很大的功課。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch24-l7-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What did the family learn that night?",
+        "question": "What did they learn?",
+        "options": [
+          "🍐 to share with the family",
+          "🏃 to run fast",
+          "🎵 to sing songs",
+          "😴 to sleep early"
+        ],
+        "optionsZh": [
+          "跟家人分享",
+          "跑得快",
+          "唱歌",
+          "早睡"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "孔融讓梨 → 分享 / 體貼家人 (paraphrase, theme)。",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch24-l7-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Long after that night, the story was told again and again...",
+        "explanationZh": "那晚之後很久,這個故事還是一遍又一遍地被傳下去……",
+        "tags": [
+          "story",
+          "ch24",
+          "kong-rong"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1661 @@
+[
+  {
+    "id": "kt-ch2-l1",
+    "chapter": 2,
+    "lessonInChapter": 1,
+    "segmentType": "main-story",
+    "storyId": "ugly-duckling",
+    "storyBeat": "鴨媽媽等待 — 大蛋還沒裂",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch2-l1-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "蛋",
+            "right": "egg"
+          },
+          {
+            "left": "等",
+            "right": "wait"
+          },
+          {
+            "left": "窩",
+            "right": "nest"
+          },
+          {
+            "left": "裡面",
+            "right": "inside"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 egg = 蛋\n🔑 wait = 等\n🔑 nest = 窩\n🔑 inside = 裡面\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l1-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "In the warm reeds by the pond, mother duck sat on her nest.",
+        "explanationZh": "在池邊溫暖的蘆葦叢裡,鴨媽媽坐在她的窩上。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l1-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She had six round eggs to keep safe and warm.",
+        "explanationZh": "她有六顆圓圓的蛋要保護和保溫。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch2-l1-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The reeds around her stood very still in the soft sun.",
+        "questionEn": "Was the place busy and loud?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:蘆葦靜靜地站著 → 安靜的地方 → 答 No",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l1-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One sunny morning, five small eggs began to crack open.",
+        "explanationZh": "一個晴朗的早上,五顆小蛋開始裂開。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch2-l1-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Five tiny shapes pushed past the broken shells onto the grass.",
+        "question": "What came out of the eggs?",
+        "options": [
+          "grey chicks",
+          "tiny yellow ducklings",
+          "green frogs",
+          "white kittens"
+        ],
+        "optionsZh": [
+          "灰色雛鳥",
+          "小小黃色鴨寶寶",
+          "綠青蛙",
+          "白小貓"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:破殼 + 鴨媽媽的窩 → 鴨寶寶;故事體裁 + 暖色童話 → 黃色 → 小小黃色鴨寶寶。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l1-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "But one large egg was bigger than all the others.",
+        "explanationZh": "但有一顆大蛋比其他所有都大。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch2-l1-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The largest one made no sound, soft and round on the nest.",
+        "question": "What was different about this egg?",
+        "options": [
+          "very small",
+          "already broken",
+          "still closed up",
+          "painted with color"
+        ],
+        "optionsZh": [
+          "很小",
+          "已經破了",
+          "還沒打開",
+          "塗了顏色"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "推理:沒聲音 + 圓圓的 → 還沒裂開 → 還沒打開。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l1-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Mother duck sat down again and waited day after day.",
+        "explanationZh": "鴨媽媽再次坐下,日復一日地等。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch2-l1-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did mother duck feel?",
+        "question": "How did she feel?",
+        "options": [
+          "😟 worried",
+          "😄 excited",
+          "😴 sleepy",
+          "😡 angry"
+        ],
+        "optionsZh": [
+          "擔心",
+          "興奮",
+          "想睡",
+          "生氣"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "一直等 → 擔心。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l1-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Then she felt a small thump from inside the big egg...",
+        "explanationZh": "然後她感覺到大蛋裡傳來一個小小的撞擊聲……",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch2-l2",
+    "chapter": 2,
+    "lessonInChapter": 2,
+    "segmentType": "main-story",
+    "storyId": "ugly-duckling",
+    "storyBeat": "大蛋裂開 — 灰色鴨寶寶 — 大家盯著看",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch2-l2-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "灰",
+            "right": "grey"
+          },
+          {
+            "left": "大",
+            "right": "large"
+          },
+          {
+            "left": "不同",
+            "right": "different"
+          },
+          {
+            "left": "孵出",
+            "right": "hatch"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 grey = 灰\n🔑 large = 大\n🔑 different = 不同\n🔑 hatch = 孵出\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l2-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "At last the great egg began to crack open slowly.",
+        "explanationZh": "最後那顆大蛋開始慢慢裂開。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l2-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Out came a baby duck — but he was large and grey.",
+        "explanationZh": "一隻鴨寶寶出來了 — 但他又大又灰。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch2-l2-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The yellow ducklings stopped playing and turned their heads.",
+        "questionEn": "Did the yellow ducklings notice him?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理:停下來轉頭 → 注意到他 → 答 Yes",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l2-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They looked at the new baby for a long, quiet moment.",
+        "explanationZh": "他們看著新的寶寶,看了很久,很安靜。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch2-l2-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The new duckling did not look like his brothers and sisters.",
+        "question": "How was the new duckling not the same?",
+        "options": [
+          "smaller in size",
+          "missing his feet",
+          "a different color",
+          "unable to swim"
+        ],
+        "optionsZh": [
+          "他比較小",
+          "他沒有腳",
+          "他顏色不同",
+          "他不會游泳"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "不像兄弟姐妹 → 顏色不同。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l2-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Mother duck looked at her new son and gave him a name.",
+        "explanationZh": "鴨媽媽看著她的新兒子,給他取了名字。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch2-l2-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She wanted him to feel welcome in the warm green nest.",
+        "question": "How did mother duck treat him?",
+        "options": [
+          "fear",
+          "kindness",
+          "anger",
+          "silence"
+        ],
+        "optionsZh": [
+          "害怕",
+          "善意",
+          "生氣",
+          "不說話"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "想讓他感到被歡迎 → 善意。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l2-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "But the other ducklings whispered words behind his back.",
+        "explanationZh": "但其他鴨寶寶在他背後悄悄說話。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch2-l2-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They stood in a line and kept their eyes on him without a word.",
+        "question": "How did the other ducklings act?",
+        "options": [
+          "🙄 looking away",
+          "👀 staring",
+          "🤝 friendly",
+          "🎉 happy"
+        ],
+        "optionsZh": [
+          "移開視線",
+          "盯著看",
+          "友善",
+          "開心"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:站成一排 + 眼睛黏在他身上 + 不說話 → 盯著看。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l2-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Nobody made a sound. They just stared at the large grey baby...",
+        "explanationZh": "沒有人出聲。他們只是盯著那個又大又灰的寶寶……",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch2-l3",
+    "chapter": 2,
+    "lessonInChapter": 3,
+    "segmentType": "main-story",
+    "storyId": "ugly-duckling",
+    "storyBeat": "農場 — 被啄被追 — 媽媽轉頭",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch2-l3-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "農場",
+            "right": "farmyard"
+          },
+          {
+            "left": "母雞",
+            "right": "hen"
+          },
+          {
+            "left": "啄",
+            "right": "peck"
+          },
+          {
+            "left": "追",
+            "right": "chase"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 farmyard = 農場\n🔑 hen = 母雞\n🔑 peck = 啄\n🔑 chase = 追\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l3-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Soon the family walked to the farmyard for the first time.",
+        "explanationZh": "不久,這家人第一次走到農場。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l3-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "There were big hens, loud ducks, and an angry old goose.",
+        "explanationZh": "那裡有大母雞、吵鬧的鴨子、還有一隻生氣的老鵝。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch2-l3-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "All the animals turned their eyes to the large grey baby.",
+        "questionEn": "Did the animals welcome him kindly?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:所有人都盯著看 → 不是歡迎 → 答 No",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l3-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A red hen ran toward him with her wings spread wide.",
+        "explanationZh": "一隻紅母雞張開翅膀朝他衝過來。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch2-l3-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "From every side of the yard, sharp beaks came toward him fast.",
+        "question": "What did the farmyard animals do?",
+        "options": [
+          "played with him",
+          "attacked him",
+          "gave him food",
+          "sang to him"
+        ],
+        "optionsZh": [
+          "跟他玩",
+          "攻擊他",
+          "給他食物",
+          "對他唱歌"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:四面八方 + 尖嘴衝過來 → 不是玩,是攻擊。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l3-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "At first, mother duck stood between him and the hens.",
+        "explanationZh": "一開始,鴨媽媽站在他和母雞之間。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch2-l3-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She stepped close so the hens could not reach her grey son.",
+        "question": "What did mother duck do at first?",
+        "options": [
+          "ran away",
+          "helped the hens",
+          "protected him",
+          "fell asleep"
+        ],
+        "optionsZh": [
+          "逃走",
+          "幫母雞",
+          "保護他",
+          "睡著了"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "推理:站靠近 + 母雞碰不到她兒子 → 把母雞擋下 → 保護他。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l3-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "But then she heard the other animals laugh out loud.",
+        "explanationZh": "但接著她聽到其他動物大聲嘲笑。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch2-l3-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did the grey duckling feel now?",
+        "question": "How did he feel?",
+        "options": [
+          "😭 alone",
+          "😄 happy",
+          "😴 sleepy",
+          "🎉 proud"
+        ],
+        "optionsZh": [
+          "孤單",
+          "開心",
+          "想睡",
+          "驕傲"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "被啄 + 被笑 → 孤單。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l3-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Then she turned her head, and did not say a word...",
+        "explanationZh": "然後她轉過頭,一個字也不說……",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch2-l4",
+    "chapter": 2,
+    "lessonInChapter": 4,
+    "segmentType": "main-story",
+    "storyId": "ugly-duckling",
+    "storyBeat": "逃跑 — 野鴨朋友 — 槍聲",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch2-l4-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "跑",
+            "right": "run"
+          },
+          {
+            "left": "野生",
+            "right": "wild"
+          },
+          {
+            "left": "休息",
+            "right": "rest"
+          },
+          {
+            "left": "草",
+            "right": "grass"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 run = 跑\n🔑 wild = 野生\n🔑 rest = 休息\n🔑 grass = 草\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l4-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "That night, he climbed over the fence and left the farmyard.",
+        "explanationZh": "那晚,他爬過籬笆,離開了農場。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l4-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He walked across cold fields all the way to a quiet marsh.",
+        "explanationZh": "他走過冰冷的田野,一路到一片安靜的沼澤。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch2-l4-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "His small feet ached after many hours on the rough ground.",
+        "questionEn": "Was his journey short and easy?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:腳痛 + 很多小時 → 不短也不簡單 → 答 No",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l4-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Two wild ducks let him rest beside them in the tall grass.",
+        "explanationZh": "兩隻野鴨讓他在高高的草叢旁邊休息。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch2-l4-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One of them shared half his lunch and would not leave his side.",
+        "question": "What did one wild duck become to him?",
+        "options": [
+          "a teacher",
+          "a friend",
+          "an enemy",
+          "a brother"
+        ],
+        "optionsZh": [
+          "老師",
+          "朋友",
+          "敵人",
+          "哥哥"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:分一半午餐 + 不肯離開 → 已經當他是同伴 → 朋友。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l4-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "For one bright day, he did not feel so alone anymore.",
+        "explanationZh": "有那麼晴朗的一天,他不再覺得那麼孤單。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch2-l4-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The warm sun made his grey feathers feel almost soft.",
+        "question": "How did he feel that day?",
+        "options": [
+          "scared",
+          "tired",
+          "a little better",
+          "angry"
+        ],
+        "optionsZh": [
+          "害怕",
+          "累",
+          "好一點",
+          "生氣"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "不再孤單 + 暖陽 → 好一點。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l4-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "But then loud cracks came from the trees by the water.",
+        "explanationZh": "但接著水邊的樹叢裡傳來響亮的爆裂聲。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch2-l4-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What was the loud sound?",
+        "question": "What was the sound?",
+        "options": [
+          "🔫 gunshots",
+          "🌧️ rain",
+          "🐦 birds singing",
+          "🎵 music"
+        ],
+        "optionsZh": [
+          "槍聲",
+          "雨",
+          "鳥唱歌",
+          "音樂"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "響亮爆裂聲 + 樹叢 → 槍聲。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l4-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His friend dropped to the ground. He ran with his heart pounding...",
+        "explanationZh": "他的朋友倒在地上。他跑啊跑,心臟砰砰跳……",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch2-l5",
+    "chapter": 2,
+    "lessonInChapter": 5,
+    "segmentType": "main-story",
+    "storyId": "ugly-duckling",
+    "storyBeat": "小屋 — 貓和母雞嘲笑 — 走入冷夜",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch2-l5-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "小屋",
+            "right": "cottage"
+          },
+          {
+            "left": "貓",
+            "right": "cat"
+          },
+          {
+            "left": "火",
+            "right": "fire"
+          },
+          {
+            "left": "爪子",
+            "right": "claw"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 cottage = 小屋\n🔑 cat = 貓\n🔑 fire = 火\n🔑 claw = 爪子\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l5-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "After many days, he found a small cottage in the woods.",
+        "explanationZh": "過了很多天,他在樹林裡找到一間小屋。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l5-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "An old woman lived there with her cat and her hen.",
+        "explanationZh": "一個老婆婆住在那裡,還有她的貓和母雞。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch2-l5-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The cottage door creaked open when he gave it a soft push.",
+        "questionEn": "Was the door locked tight?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:輕推就開 → 沒有鎖緊 → 答 No",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l5-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The old woman kept him in her warm kitchen for many weeks.",
+        "explanationZh": "老婆婆把他留在溫暖的廚房好幾個禮拜。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch2-l5-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The cat sat heavy on his back and dug into his soft feathers.",
+        "question": "How did the cat treat him?",
+        "options": [
+          "cleaned him",
+          "played gently",
+          "pressed claws on him",
+          "sang for him"
+        ],
+        "optionsZh": [
+          "幫他洗澡",
+          "溫柔玩耍",
+          "用爪子壓他",
+          "對他唱歌"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "推理:重重坐 + 抓進羽毛裡 → 不是玩,是用爪子壓 → 用爪子壓他。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l5-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The hen counted her own warm eggs each morning and looked away.",
+        "explanationZh": "母雞每天早上數著自己暖暖的蛋,然後別過頭去。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch2-l5-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She told him he was useless and not worth the food he ate.",
+        "question": "Why did the hen mock him?",
+        "options": [
+          "too noisy",
+          "never gave any eggs",
+          "always running away",
+          "always sleeping"
+        ],
+        "optionsZh": [
+          "他太吵",
+          "他不會生蛋",
+          "他一直跑",
+          "他一直睡"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:母雞數蛋 + 罵他沒用、不值得吃的 → 因為他不像母雞會生蛋 → 不會生蛋。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l5-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The cat asked him if he could purr by the warm fire.",
+        "explanationZh": "貓問他能不能在暖暖的火邊發出咕嚕聲。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch2-l5-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The wind under the door felt sharper than the cat's claws on his back.",
+        "question": "What is waiting outside?",
+        "options": [
+          "❄️ cold night",
+          "☀️ warm sun",
+          "🌸 spring garden",
+          "🏖️ beach"
+        ],
+        "optionsZh": [
+          "冷夜",
+          "暖陽",
+          "春天花園",
+          "海灘"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理:門縫的風比貓爪還刺 → 外面又黑又寒 → 冷夜。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l5-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"What good are you?\" they asked. He pushed open the door and walked into the cold...",
+        "explanationZh": "「你有什麼用?」他們問。他推開門,走進冷夜裡……",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch2-l6",
+    "chapter": 2,
+    "lessonInChapter": 6,
+    "segmentType": "main-story",
+    "storyId": "ugly-duckling",
+    "storyBeat": "冬天 — 白鳥南飛 — 困在冰中 — 農夫救起",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch2-l6-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "冬天",
+            "right": "winter"
+          },
+          {
+            "left": "冰",
+            "right": "ice"
+          },
+          {
+            "left": "白色",
+            "right": "white"
+          },
+          {
+            "left": "農夫",
+            "right": "farmer"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 winter = 冬天\n🔑 ice = 冰\n🔑 white = 白色\n🔑 farmer = 農夫\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l6-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "In the autumn sky, he saw great white birds flying high.",
+        "explanationZh": "在秋天的天空中,他看見大大的白鳥飛得很高。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l6-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Their long necks stretched south as they crossed the clouds.",
+        "explanationZh": "他們長長的脖子伸向南方,越過雲朵。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch2-l6-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "He watched them until his neck grew sore from looking up.",
+        "questionEn": "Did he look at the white birds for a long time?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理:脖子看到痠 → 看很久 → 答 Yes",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l6-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Soon snow fell, and the pond turned into hard, shining glass.",
+        "explanationZh": "不久雪下了,池塘變成又硬又亮的玻璃。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch2-l6-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His feet would not move, and the water around him had grown hard.",
+        "question": "What happened to him in the pond?",
+        "options": [
+          "flew away safely",
+          "got trapped in ice",
+          "found warm food",
+          "met a friend"
+        ],
+        "optionsZh": [
+          "他飛走",
+          "他被困在冰裡",
+          "他找到食物",
+          "他遇到朋友"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:腳不能動 + 水變硬 → 結冰把他卡住 → 被困在冰裡。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l6-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A farmer came across the field and broke the ice apart.",
+        "explanationZh": "一個農夫走過田野,把冰打破。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch2-l6-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He lifted the shaking bird and walked back toward his cottage.",
+        "question": "What did the farmer do?",
+        "options": [
+          "cooked him",
+          "sold him",
+          "took him home",
+          "left him there"
+        ],
+        "optionsZh": [
+          "煮了他",
+          "賣了他",
+          "帶他回家",
+          "丟下他"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "推理:抱起 + 走回小屋 → 把鴨帶回他家 → 帶他回家。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l6-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The farmer's small children came running to see the new bird.",
+        "explanationZh": "農夫的小孩跑過來看這隻新的鳥。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch2-l6-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He had never been close to people, and small hands reached for him.",
+        "question": "How did he feel when the children ran to him?",
+        "options": [
+          "😨 scared",
+          "😄 happy",
+          "😴 sleepy",
+          "😋 hungry"
+        ],
+        "optionsZh": [
+          "害怕",
+          "開心",
+          "想睡",
+          "餓"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理:從沒靠近過人 + 突然小手伸過來 → 害怕。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l6-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He flapped his wings and ran out into the deep, white snow again...",
+        "explanationZh": "他拍動翅膀,再次跑進又深又白的雪裡……",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch2-l7",
+    "chapter": 2,
+    "lessonInChapter": 7,
+    "segmentType": "main-story",
+    "storyId": "ugly-duckling",
+    "storyBeat": "春天 — 倒影 — 天鵝 — 美麗",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch2-l7-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "春天",
+            "right": "spring"
+          },
+          {
+            "left": "倒影",
+            "right": "reflection"
+          },
+          {
+            "left": "天鵝",
+            "right": "swan"
+          },
+          {
+            "left": "美麗",
+            "right": "beautiful"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 spring = 春天\n🔑 reflection = 倒影\n🔑 swan = 天鵝\n🔑 beautiful = 美麗\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l7-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Spring came at last, and the cold ice melted away.",
+        "explanationZh": "春天終於來了,冰冷的冰融化了。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l7-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Green leaves opened, and warm sun shone over the pond.",
+        "explanationZh": "綠葉打開,溫暖的陽光照在池塘上。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch2-l7-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Soft new flowers grew along the edge of the quiet water.",
+        "questionEn": "Is it still cold winter now?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:新花長出 + 暖陽 → 不是冬天了 → 答 No",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l7-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He saw the same white birds gliding across the pond.",
+        "explanationZh": "他看見同樣的白鳥在池塘上滑行。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch2-l7-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He wanted very much to be near them, even if they would chase him.",
+        "question": "How did he feel toward the white birds?",
+        "options": [
+          "afraid only",
+          "pulled to them",
+          "angry at them",
+          "tired of them"
+        ],
+        "optionsZh": [
+          "只有害怕",
+          "被他們吸引",
+          "對他們生氣",
+          "對他們厭倦"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "非常想接近 → 被他們吸引。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l7-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He lowered his head to the water, ready to give up.",
+        "explanationZh": "他低下頭往水裡,準備放棄。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch2-l7-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "But the still pond showed him a face he did not know.",
+        "question": "What did he see in the water?",
+        "options": [
+          "only a grey baby",
+          "one bird with a long neck",
+          "just a fish",
+          "just a dark shadow"
+        ],
+        "optionsZh": [
+          "一隻灰色鴨寶寶",
+          "一隻有長脖子的新鳥",
+          "一條魚",
+          "一個黑影"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "不認得的臉 → 長脖子的新鳥 (天鵝)。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l7-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A long white neck and bright wings looked back at him.",
+        "explanationZh": "一個長長的白脖子和亮亮的翅膀回望著他。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch2-l7-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What is he now?",
+        "question": "What is he?",
+        "options": [
+          "🦢 a swan",
+          "🐥 a chick",
+          "🐔 a hen",
+          "🦆 a duck"
+        ],
+        "optionsZh": [
+          "天鵝",
+          "小雞",
+          "母雞",
+          "鴨子"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "長白脖子 + 大翅膀 + 在池塘 → 天鵝。",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch2-l7-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Children by the pond called him the most beautiful of all. He had been a swan all along...",
+        "explanationZh": "池邊的小孩說他是最美的一隻。他一直都是天鵝……",
+        "tags": [
+          "story",
+          "ch2",
+          "ugly-duckling"
+        ]
+      }
+    ]
+  }
+]

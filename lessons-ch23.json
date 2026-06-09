@@ -1,0 +1,1766 @@
+[
+  {
+    "id": "kt-ch23-l1",
+    "chapter": 23,
+    "lessonInChapter": 1,
+    "segmentType": "main-story",
+    "storyId": "sima-guang",
+    "storyBeat": "一群小孩在花園玩 — 一個小司馬光在看",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch23-l1-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "花園",
+            "right": "garden"
+          },
+          {
+            "left": "玩",
+            "right": "play"
+          },
+          {
+            "left": "一群",
+            "right": "group"
+          },
+          {
+            "left": "男孩",
+            "right": "boy"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 garden = 花園\n🔑 play = 玩\n🔑 group = 一群\n🔑 boy = 男孩\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l1-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Long ago in old China, a group of children played in a big garden.",
+        "explanationZh": "很久以前的中國,有一群小孩在大花園裡玩。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch23-l1-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The sun was warm. The trees were tall.",
+        "question": "What was the day like in the garden?",
+        "options": [
+          "cold and rainy",
+          "warm with tall trees",
+          "dark and windy",
+          "snowy and grey"
+        ],
+        "optionsZh": [
+          "冷又下雨",
+          "溫暖有高樹",
+          "又黑又有風",
+          "下雪灰灰的"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: warm sun + tall trees → 溫暖有高樹 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch23-l1-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The children ran and laughed under the warm sun.",
+        "questionEn": "Were the children having a good time?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 跑步 + 大笑 → 開心 → 答 Yes",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l1-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Among them was a small boy named Sima Guang.",
+        "explanationZh": "其中有一個小男孩,叫做司馬光。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch23-l1-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He was quiet but he watched everything with bright eyes.",
+        "question": "What was Sima Guang like as a boy?",
+        "options": [
+          "loud and busy",
+          "quiet but watchful",
+          "angry at his friends",
+          "always sleeping"
+        ],
+        "optionsZh": [
+          "吵又忙",
+          "安靜但很留意",
+          "對朋友生氣",
+          "一直睡"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: quiet + watched everything → 安靜但很留意 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l1-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Some children ran. Some sat on the grass. Some climbed low trees.",
+        "explanationZh": "有些小孩在跑。有些坐在草地上。有些爬矮樹。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch23-l1-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The garden was big and full of happy noise.",
+        "question": "How did the garden feel that day?",
+        "options": [
+          "empty and silent",
+          "big and full of fun",
+          "small and dark",
+          "cold and locked up"
+        ],
+        "optionsZh": [
+          "空又靜",
+          "又大又好玩",
+          "小又黑",
+          "冷又被鎖住"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: big + happy noise → 又大又好玩 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l1-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Sima Guang stood at the side and looked around at his friends.",
+        "explanationZh": "司馬光站在旁邊,看著他的朋友們。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch23-l1-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did Sima Guang look while he watched?",
+        "question": "How did he look?",
+        "options": [
+          "😴 sleepy",
+          "👀 watchful",
+          "😡 angry",
+          "😱 scared"
+        ],
+        "optionsZh": [
+          "想睡",
+          "很留意",
+          "生氣",
+          "害怕"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "安靜但留意 → 很留意 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l1-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "In one corner of the garden stood something very big...",
+        "explanationZh": "花園的一個角落,有一樣很大的東西……",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch23-l2",
+    "chapter": 23,
+    "lessonInChapter": 2,
+    "segmentType": "main-story",
+    "storyId": "sima-guang",
+    "storyBeat": "一個小孩爬上大水缸 — 想看裡面",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch23-l2-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "角落",
+            "right": "corner"
+          },
+          {
+            "left": "水缸",
+            "right": "jar"
+          },
+          {
+            "left": "高",
+            "right": "tall"
+          },
+          {
+            "left": "爬",
+            "right": "climb"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 corner = 角落\n🔑 jar = 水缸\n🔑 tall = 高\n🔑 climb = 爬\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l2-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "In one corner of the garden stood a very big water jar.",
+        "explanationZh": "花園的一個角落,有一個很大的水缸。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch23-l2-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "It was taller than the children and full of water to the top.",
+        "question": "How big was the water jar?",
+        "options": [
+          "smaller than a hand",
+          "taller than the kids",
+          "just below the knee",
+          "as big as a cup"
+        ],
+        "optionsZh": [
+          "比手還小",
+          "比小孩還高",
+          "剛在膝蓋下面",
+          "像杯子一樣大"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: taller than children → 比小孩還高 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch23-l2-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The water inside reached all the way to the top.",
+        "questionEn": "Was the jar nearly empty?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 水滿到頂端 → 不是空的 → 答 No",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l2-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One boy looked up at the jar and wanted to see inside.",
+        "explanationZh": "一個小孩抬頭看那水缸,想看看裡面。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch23-l2-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He stretched his neck and could not see the top.",
+        "question": "Why did the boy want to climb?",
+        "options": [
+          "for a hidden coin",
+          "curious about the inside",
+          "just to fall on purpose",
+          "making a loud sound"
+        ],
+        "optionsZh": [
+          "找藏起來的硬幣",
+          "想看看裡面",
+          "故意跌下去",
+          "弄出大聲音"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: wanted to see inside → 想看看裡面 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l2-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He began to climb the side of the big water jar.",
+        "explanationZh": "他開始爬上大水缸的側面。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch23-l2-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His small feet found bumps on the side of the jar.",
+        "question": "How was the boy going up the jar?",
+        "options": [
+          "flying with wings",
+          "using his small feet",
+          "lifted by an adult",
+          "with a tall ladder"
+        ],
+        "optionsZh": [
+          "用翅膀飛",
+          "用他的小腳",
+          "大人抱上去",
+          "用高梯子"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: small feet found bumps → 用他的小腳 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l2-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The other children watched and stopped their games.",
+        "explanationZh": "其他小孩看著,停下他們的遊戲。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch23-l2-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What did the air feel like in that moment?",
+        "question": "How did the moment feel?",
+        "options": [
+          "🎉 fun and easy",
+          "😬 risky and tight",
+          "😴 boring",
+          "🍔 hungry"
+        ],
+        "optionsZh": [
+          "好玩又輕鬆",
+          "有風險又緊",
+          "無聊",
+          "餓"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "所有小孩停下遊戲看 → 有風險又緊 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l2-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The boy reached the very top edge of the big jar...",
+        "explanationZh": "小孩爬到大水缸的最頂端……",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch23-l3",
+    "chapter": 23,
+    "lessonInChapter": 3,
+    "segmentType": "main-story",
+    "storyId": "sima-guang",
+    "storyBeat": "小孩掉進水缸 — 大家會怎樣?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch23-l3-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "頂端",
+            "right": "top"
+          },
+          {
+            "left": "滑",
+            "right": "slip"
+          },
+          {
+            "left": "跌",
+            "right": "fall"
+          },
+          {
+            "left": "水",
+            "right": "water"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 top = 頂端\n🔑 slip = 滑\n🔑 fall = 跌\n🔑 water = 水\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l3-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The boy reached the top edge of the jar.",
+        "explanationZh": "小孩爬到水缸的頂端。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch23-l3-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "For a moment he sat on the rim and smiled down at his friends.",
+        "question": "What did the boy do at the very top?",
+        "options": [
+          "shouted for help",
+          "rested and looked happy",
+          "climbed back down fast",
+          "jumped to a tree"
+        ],
+        "optionsZh": [
+          "大喊救命",
+          "坐著很開心",
+          "快爬下去",
+          "跳到樹上"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: sat + smiled down → 坐著很開心 (paraphrase, 不重複 sentence 用字)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch23-l3-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Then his foot suddenly slipped without any warning.",
+        "questionEn": "Did the boy plan to fall in?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: foot slipped + no warning → 不是計畫好的 → 答 No",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l3-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He fell into the water with a loud splash.",
+        "explanationZh": "他「噗通」一聲掉進水裡。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch23-l3-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The water closed over his head. He could not breathe.",
+        "question": "What was happening to the boy in the water?",
+        "options": [
+          "swimming for fun",
+          "going under water",
+          "floating happily",
+          "standing on the bottom"
+        ],
+        "optionsZh": [
+          "快樂游泳",
+          "正在下沉",
+          "開心漂浮",
+          "站在水底"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: water closed over head + could not breathe → 正在下沉 (paraphrase, 兒童 friendly framing)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l3-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The other children stopped playing and stared with wide eyes.",
+        "explanationZh": "其他小孩停下遊戲,瞪大眼睛看。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch23-l3-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "No one had ever seen something like this before.",
+        "question": "How did the other children look in that moment?",
+        "options": [
+          "calm and ready",
+          "shocked and frozen",
+          "happy and laughing",
+          "angry and shouting"
+        ],
+        "optionsZh": [
+          "冷靜又準備好",
+          "震驚又僵住",
+          "開心又大笑",
+          "生氣又大叫"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: stared with wide eyes + never seen → 震驚又僵住 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l3-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Help! Help!\" they cried, but no grown-up was close by.",
+        "explanationZh": "「救命!救命!」他們大喊,但附近沒有大人。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch23-l3-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did the children feel when no adult came?",
+        "question": "How did they feel?",
+        "options": [
+          "😊 happy",
+          "😰 scared and lost",
+          "😴 sleepy",
+          "🎵 calm"
+        ],
+        "optionsZh": [
+          "開心",
+          "害怕又不知所措",
+          "想睡",
+          "冷靜"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "大喊救命 + 沒大人 → 害怕又不知所措。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l3-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Most of the children turned and ran out of the garden...",
+        "explanationZh": "大部分小孩轉身跑出花園……",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch23-l4",
+    "chapter": 23,
+    "lessonInChapter": 4,
+    "segmentType": "main-story",
+    "storyId": "sima-guang",
+    "storyBeat": "其他孩子都跑走找大人 — 來得及嗎?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch23-l4-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "跑",
+            "right": "run"
+          },
+          {
+            "left": "路",
+            "right": "path"
+          },
+          {
+            "left": "大人",
+            "right": "adult"
+          },
+          {
+            "left": "遠",
+            "right": "far"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 run = 跑\n🔑 path = 路\n🔑 adult = 大人\n🔑 far = 遠\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l4-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Most of the children turned and ran out of the garden to find an adult.",
+        "explanationZh": "大部分的小孩轉身跑出花園去找大人。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch23-l4-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Their small feet ran fast on the path.",
+        "question": "How were the children moving on the path?",
+        "options": [
+          "walking very slow",
+          "running as fast as they could",
+          "sitting and waiting",
+          "climbing a low wall"
+        ],
+        "optionsZh": [
+          "走得很慢",
+          "盡力跑得快",
+          "坐著等",
+          "爬矮牆"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: small feet ran fast → 盡力跑得快 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch23-l4-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "They ran fast, but the garden gate was very far away.",
+        "questionEn": "Would help come back in time?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 跑得快 但門很遠 → 來不及 → 答 No",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l4-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Back at the jar, the boy was still under the water.",
+        "explanationZh": "回到水缸旁,小孩還在水裡。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch23-l4-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Every second, the water held him tighter.",
+        "question": "What was happening to the boy now?",
+        "options": [
+          "he was getting out by himself",
+          "time was running out for him",
+          "he was learning to swim",
+          "he was making bubbles for fun"
+        ],
+        "optionsZh": [
+          "他自己出來了",
+          "時間快沒了",
+          "他在學游泳",
+          "他開心吐泡泡"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: every second + held tighter → 時間快沒了 (paraphrase, 急迫感)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l4-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The path to the front gate was long and full of corners.",
+        "explanationZh": "通到大門的路很長,而且有很多轉彎。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch23-l4-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Even fast feet would take many minutes to come back.",
+        "question": "How long would help take to arrive?",
+        "options": [
+          "just one second",
+          "a long while",
+          "a whole day",
+          "never at all"
+        ],
+        "optionsZh": [
+          "一秒",
+          "好一段時間",
+          "一整天",
+          "永遠不會"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: many minutes → 好一段時間 (paraphrase, 不重複 sentence 用字)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l4-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The garden grew very quiet around the big jar.",
+        "explanationZh": "大水缸周圍的花園變得很安靜。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch23-l4-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What was the mood near the big jar?",
+        "question": "How did it feel?",
+        "options": [
+          "🎉 party",
+          "⏳ time running out",
+          "😴 sleepy",
+          "🌧️ rainy"
+        ],
+        "optionsZh": [
+          "派對",
+          "時間快沒了",
+          "想睡",
+          "下雨"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "小孩在水裡 + 大人遠 → 時間快沒了 (urgency)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l4-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "But one small boy did not run with the others...",
+        "explanationZh": "但有一個小男孩沒有跟其他人一起跑……",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch23-l5",
+    "chapter": 23,
+    "lessonInChapter": 5,
+    "segmentType": "main-story",
+    "storyId": "sima-guang",
+    "storyBeat": "司馬光留下沒跑 — 他想做什麼?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch23-l5-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "留下",
+            "right": "stay"
+          },
+          {
+            "left": "看",
+            "right": "look"
+          },
+          {
+            "left": "短",
+            "right": "short"
+          },
+          {
+            "left": "想",
+            "right": "think"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 stay = 留下\n🔑 look = 看\n🔑 short = 短\n🔑 think = 想\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l5-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One small boy did not run with the others.",
+        "explanationZh": "有一個小男孩沒有跟其他人一起跑。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch23-l5-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "It was the quiet one with the bright eyes.",
+        "question": "Who was the boy who stayed?",
+        "options": [
+          "the loud leader",
+          "Sima Guang the quiet one",
+          "a grown-up gardener",
+          "the boy in the water"
+        ],
+        "optionsZh": [
+          "吵的領頭",
+          "安靜的司馬光",
+          "大人園丁",
+          "在水裡的小孩"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: quiet one + bright eyes → 安靜的司馬光 (paraphrase, 連結 L1)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch23-l5-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "He stood by the jar instead of running away.",
+        "questionEn": "Did Sima Guang make the same choice as the others?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: stayed + 沒跑走 → 跟別人不同 → 答 No",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l5-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Sima Guang stayed by the big jar, looking at the water.",
+        "explanationZh": "司馬光留在大水缸旁,看著水。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch23-l5-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His friend was going under, and time was very short.",
+        "question": "What did Sima Guang know in that moment?",
+        "options": [
+          "help would come fast",
+          "time was running out",
+          "his friend was safe",
+          "it was time for lunch"
+        ],
+        "optionsZh": [
+          "幫忙會很快來",
+          "時間快沒了",
+          "朋友很安全",
+          "吃午餐時間"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: friend going under + time very short → 時間快沒了 (paraphrase, urgency)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l5-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"An adult will not come fast enough,\" he thought to himself.",
+        "explanationZh": "「大人來不及來,」他在心裡想。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch23-l5-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He could not wait. He had to do something now.",
+        "question": "What did Sima Guang decide?",
+        "options": [
+          "wait for the grown-ups",
+          "act on his own at once",
+          "climb up the jar too",
+          "sit and cry"
+        ],
+        "optionsZh": [
+          "等大人",
+          "自己馬上動手",
+          "也爬上水缸",
+          "坐著哭"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: had to do something now → 自己馬上動手 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l5-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His bright eyes moved fast around the garden.",
+        "explanationZh": "他明亮的眼睛在花園裡飛快地掃。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch23-l5-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What was Sima Guang doing in his head?",
+        "question": "What was he doing?",
+        "options": [
+          "😴 dreaming",
+          "💡 thinking of a plan",
+          "😡 getting angry",
+          "🎵 singing"
+        ],
+        "optionsZh": [
+          "做夢",
+          "想辦法",
+          "生氣",
+          "唱歌"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "在心裡想 + 眼睛掃 → 想辦法 (paraphrase, problem-solving)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l5-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His eyes landed on something hard and heavy on the ground...",
+        "explanationZh": "他的眼睛落在地上一個又硬又重的東西……",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch23-l6",
+    "chapter": 23,
+    "lessonInChapter": 6,
+    "segmentType": "main-story",
+    "storyId": "sima-guang",
+    "storyBeat": "撿石頭砸破水缸 — 水流出來",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch23-l6-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "撿",
+            "right": "pick"
+          },
+          {
+            "left": "石頭",
+            "right": "stone"
+          },
+          {
+            "left": "重",
+            "right": "heavy"
+          },
+          {
+            "left": "破",
+            "right": "break"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 pick = 撿\n🔑 stone = 石頭\n🔑 heavy = 重\n🔑 break = 破\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l6-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Sima Guang looked around the garden for something hard.",
+        "explanationZh": "司馬光在花園裡找硬硬的東西。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch23-l6-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He saw a big stone resting in the grass.",
+        "question": "What did Sima Guang find?",
+        "options": [
+          "one soft pillow",
+          "a heavy stone in the grass",
+          "just a small flower",
+          "only a green leaf"
+        ],
+        "optionsZh": [
+          "軟枕頭",
+          "草地裡的重石頭",
+          "小花",
+          "綠葉"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: big stone resting in grass → 草地裡的重石頭 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch23-l6-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "He picked up the stone with both small hands.",
+        "questionEn": "Was the stone light for him?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: both hands needed → 不是輕的 → 答 No",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l6-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "With all his strength, he threw the stone at the side of the jar.",
+        "explanationZh": "他用盡全力,把石頭丟向水缸的側面。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch23-l6-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He did not throw it up at the sky or down at his feet.",
+        "question": "Where did Sima Guang aim the stone?",
+        "options": [
+          "high up in a tree",
+          "right at the jar wall",
+          "down at his own foot",
+          "over the empty path"
+        ],
+        "optionsZh": [
+          "樹頂",
+          "大水缸的側面",
+          "自己的腳",
+          "空的路"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: at the side of the jar → 大水缸的側面 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l6-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The jar cracked, then broke, and water poured out fast onto the ground.",
+        "explanationZh": "水缸裂開,然後破了,水快速地流到地上。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch23-l6-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What was strong stone met thin clay walls.",
+        "question": "What happened to the big water jar?",
+        "options": [
+          "stayed in one piece",
+          "broke open and let the water out",
+          "somehow grew bigger",
+          "started to float"
+        ],
+        "optionsZh": [
+          "完好沒事",
+          "破開讓水流出來",
+          "變更大",
+          "飛起來"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: jar cracked + broke → 破開讓水流出來 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l6-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The water rushed out in a great wave across the garden.",
+        "explanationZh": "水像大浪一樣沖過花園。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch23-l6-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did the moment feel as the jar broke?",
+        "question": "How did it feel?",
+        "options": [
+          "😴 boring",
+          "⚡ huge and quick",
+          "💤 sleepy",
+          "😡 angry"
+        ],
+        "optionsZh": [
+          "無聊",
+          "巨大又快",
+          "想睡",
+          "生氣"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "砸破 + 大浪 → 巨大又快 (impact moment)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l6-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "And out with the water came something else...",
+        "explanationZh": "隨著水一起流出來的,還有別的東西……",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch23-l7",
+    "chapter": 23,
+    "lessonInChapter": 7,
+    "segmentType": "main-story",
+    "storyId": "sima-guang",
+    "storyBeat": "救出小孩 — 急時用聰明",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch23-l7-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "流",
+            "right": "flow"
+          },
+          {
+            "left": "出來",
+            "right": "come out"
+          },
+          {
+            "left": "咳",
+            "right": "cough"
+          },
+          {
+            "left": "活",
+            "right": "alive"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 flow = 流\n🔑 come out = 出來\n🔑 cough = 咳\n🔑 alive = 活\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l7-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The water flowed out of the broken jar in a great rush.",
+        "explanationZh": "水從破水缸大量流出來。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch23-l7-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His friend came out with the water, coughing but alive.",
+        "question": "What happened to the boy who fell in?",
+        "options": [
+          "washed out and still living",
+          "stayed inside the jar",
+          "flew up to the sky",
+          "lost forever"
+        ],
+        "optionsZh": [
+          "被沖出來而且還活著",
+          "還留在水缸裡",
+          "飛上天",
+          "永遠消失"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: came out + coughing but alive → 被沖出來而且還活著 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch23-l7-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The boy started to breathe again on the wet grass.",
+        "questionEn": "Did the boy come back okay?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 開始呼吸 → 沒事了 → 答 Yes",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l7-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The other children came back with an adult, who saw what had happened.",
+        "explanationZh": "其他小孩和大人一起回來,大人看到剛剛發生的事。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch23-l7-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "By then, the danger was already over.",
+        "question": "What had Sima Guang done before the adult came?",
+        "options": [
+          "nothing at all",
+          "saved his friend on his own",
+          "broken his own hand",
+          "gone home for lunch"
+        ],
+        "optionsZh": [
+          "什麼也沒做",
+          "自己救了朋友",
+          "弄傷自己的手",
+          "回家吃午餐"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: danger already over → 自己救了朋友 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l7-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "People still tell this story today, hundreds of years later.",
+        "explanationZh": "直到今天,過了幾百年,人們還在說這個故事。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch23-l7-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A small boy did not wait. He thought and acted in time.",
+        "question": "Why do people still tell this story?",
+        "options": [
+          "the path was long",
+          "the sun felt warm",
+          "a child used smart thinking",
+          "the splash was loud"
+        ],
+        "optionsZh": [
+          "因為路很長",
+          "因為太陽溫暖",
+          "因為聰明的思考",
+          "因為大水聲"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "推理: thought and acted in time → 聰明的思考 (paraphrase, 主題核心)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l7-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "In a hard moment, smart thinking can save a life.",
+        "explanationZh": "在難關之中,聰明的思考可以救命。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch23-l7-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What helps the most when time is short?",
+        "question": "What helps most?",
+        "options": [
+          "🏃 only fast running",
+          "🧠 a smart head",
+          "😡 anger",
+          "😴 sleeping"
+        ],
+        "optionsZh": [
+          "只靠跑得快",
+          "聰明的腦袋",
+          "生氣",
+          "睡覺"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "思考 + 動手 → 聰明的腦袋 (story 主題)。",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch23-l7-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Next time something hard happens, what will you do first...",
+        "explanationZh": "下次遇到難事的時候,你會先做什麼……",
+        "tags": [
+          "story",
+          "ch23",
+          "sima-guang"
+        ]
+      }
+    ]
+  }
+]

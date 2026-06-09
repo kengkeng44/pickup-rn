@@ -1,0 +1,1769 @@
+[
+  {
+    "id": "kt-ch20-l1",
+    "chapter": 20,
+    "lessonInChapter": 1,
+    "segmentType": "main-story",
+    "storyId": "enormous-turnip",
+    "storyBeat": "老爺爺種大蘿蔔 — 長得越來越大",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch20-l1-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "爺爺",
+            "right": "grandpa"
+          },
+          {
+            "left": "種子",
+            "right": "seed"
+          },
+          {
+            "left": "水",
+            "right": "water"
+          },
+          {
+            "left": "長大",
+            "right": "grow"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 grandpa = 爺爺\n🔑 seed = 種子\n🔑 water = 水\n🔑 grow = 長大\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l1-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Grandpa plants a small turnip seed in his garden.",
+        "explanationZh": "爺爺在他的園子裡種下一顆小蘿蔔種子。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l1-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Every morning, he gives the seed water.",
+        "explanationZh": "每天早上,他給種子澆水。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch20-l1-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Grandpa sings to the seed every day. He never forgets.",
+        "questionEn": "Does Grandpa care about this turnip?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理:每天唱歌 + 從沒忘記 → 很在意 → 答 Yes",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l1-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A green leaf comes up. Then more leaves come up.",
+        "explanationZh": "一片綠葉冒出來。然後更多葉子冒出來。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch20-l1-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Week by week, the turnip gets larger than the others.",
+        "question": "How is the turnip growing?",
+        "options": [
+          "staying small",
+          "getting much bigger",
+          "turning red",
+          "falling over"
+        ],
+        "optionsZh": [
+          "還是很小",
+          "越來越大",
+          "變紅色",
+          "倒下去"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "一週又一週,比其他的大 → 越來越大。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l1-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The turnip pushes up the dirt. The top is round and yellow.",
+        "explanationZh": "蘿蔔把土頂起來。頂上圓圓黃黃的。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch20-l1-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How big is the turnip now?",
+        "question": "How big?",
+        "options": [
+          "🥬 small leaf",
+          "🥕 normal size",
+          "🎃 very big",
+          "🌱 just a sprout"
+        ],
+        "optionsZh": [
+          "小葉子",
+          "一般大",
+          "非常大",
+          "剛冒芽"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "比別的都大 → 非常大。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch20-l1-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Grandpa cannot put his arms all the way around the top.",
+        "question": "Why is the turnip a problem?",
+        "options": [
+          "too small to find",
+          "too big to hug",
+          "wrong color",
+          "too soft"
+        ],
+        "optionsZh": [
+          "太小找不到",
+          "太大抱不住",
+          "顏色不對",
+          "太軟"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "手抱不過去 → 太大了。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch20-l1-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "A tiny seed has grown into the biggest turnip in the village.",
+        "question": "What is this scene mainly showing?",
+        "options": [
+          "a small garden flower",
+          "something growing way past normal",
+          "a busy market day",
+          "a winter snowfall"
+        ],
+        "optionsZh": [
+          "一朵小花",
+          "長到超過一般大小",
+          "熱鬧市集",
+          "冬天下雪"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "主旨 = 小種子長成全村最大蘿蔔。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip",
+          "gist"
+        ],
+        "subSkill": "gist"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l1-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "It is the biggest turnip in the village. Grandpa looks at it. \"Time to pull it out...\"",
+        "explanationZh": "這是全村最大的蘿蔔。爺爺看著它。「該把它拔出來了……」",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch20-l2",
+    "chapter": 20,
+    "lessonInChapter": 2,
+    "segmentType": "main-story",
+    "storyId": "enormous-turnip",
+    "storyBeat": "想拔起來 — 拔不動!",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch20-l2-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "拉",
+            "right": "pull"
+          },
+          {
+            "left": "葉子",
+            "right": "leaves"
+          },
+          {
+            "left": "手",
+            "right": "hands"
+          },
+          {
+            "left": "動",
+            "right": "move"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 pull = 拉\n🔑 leaves = 葉子\n🔑 hands = 手\n🔑 move = 動\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l2-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Grandpa walks into the garden. He puts down his hat.",
+        "explanationZh": "爺爺走進園子。他把帽子放下。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l2-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He holds the green leaves with both hands.",
+        "explanationZh": "他用兩隻手抓住綠葉子。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch20-l2-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Grandpa pulls hard. He pulls again. His face turns red.",
+        "questionEn": "Is Grandpa using a lot of strength?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理:用力拉 + 臉變紅 → 在出全力 → 答 Yes",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip",
+          "inference"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch20-l2-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The turnip stays right where it is. Not one bit out of the dirt.",
+        "question": "What happens to the turnip?",
+        "options": [
+          "pops out fast",
+          "stays in the ground",
+          "breaks in half",
+          "bends sideways"
+        ],
+        "optionsZh": [
+          "一下就出來",
+          "完全沒動",
+          "斷成兩半",
+          "彎下去"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "一點都沒從土裡出來 → 完全沒動。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l2-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Grandpa sits down on the dirt. He looks at his hands.",
+        "explanationZh": "爺爺坐在土上。他看著自己的手。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch20-l2-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How does Grandpa feel right now?",
+        "question": "How does he feel?",
+        "options": [
+          "😴 sleepy",
+          "😅 tired and stuck",
+          "😡 angry",
+          "🥳 happy"
+        ],
+        "optionsZh": [
+          "想睡覺",
+          "又累又卡住",
+          "生氣",
+          "開心"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "拉不動 + 坐下來 → 又累又卡住。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l2-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He pulls one more time. His hands slip off the leaves.",
+        "explanationZh": "他再拉一次。他的手從葉子上滑開。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch20-l2-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One person's hands are too few. The turnip is much too big.",
+        "question": "Why can't Grandpa pull it out?",
+        "options": [
+          "the turnip is too small",
+          "one person is not enough",
+          "the dirt is wet",
+          "the leaves are gone"
+        ],
+        "optionsZh": [
+          "蘿蔔太小",
+          "一個人不夠",
+          "土太濕",
+          "葉子沒了"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "一個人手太少 + 蘿蔔太大 → 一個人不夠。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch20-l2-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Grandpa looks back at the house. Someone else lives with him.",
+        "question": "What is Grandpa thinking now?",
+        "options": [
+          "give up and go in",
+          "call someone for help",
+          "eat the leaves",
+          "plant a new seed"
+        ],
+        "optionsZh": [
+          "放棄回家",
+          "叫人來幫忙",
+          "吃葉子",
+          "種新種子"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:回頭看屋子 + 屋裡還有別人 → 叫人來幫忙。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ],
+        "subSkill": "inference"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l2-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Grandpa stands up. \"I cannot do this alone,\" he says. \"I need help...\"",
+        "explanationZh": "爺爺站起來。「我一個人做不到,」他說。「我需要幫忙……」",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch20-l3",
+    "chapter": 20,
+    "lessonInChapter": 3,
+    "segmentType": "main-story",
+    "storyId": "enormous-turnip",
+    "storyBeat": "叫奶奶來幫 — 還是拔不動",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch20-l3-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "奶奶",
+            "right": "grandma"
+          },
+          {
+            "left": "叫",
+            "right": "call"
+          },
+          {
+            "left": "幫忙",
+            "right": "help"
+          },
+          {
+            "left": "兩個",
+            "right": "both"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 grandma = 奶奶\n🔑 call = 叫\n🔑 help = 幫忙\n🔑 both = 兩個\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l3-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Grandpa calls toward the kitchen. \"Grandma, come help me!\"",
+        "explanationZh": "爺爺對著廚房叫:「奶奶,來幫我!」",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l3-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Grandma comes out, drying her hands on her apron.",
+        "explanationZh": "奶奶走出來,用圍裙擦著手。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch20-l3-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "She walks fast. She does not ask any questions first.",
+        "questionEn": "Does Grandma want to help right away?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理:走得快 + 不問就來 → 馬上想幫 → 答 Yes",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip",
+          "inference"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch20-l3-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Grandma holds the back of Grandpa's coat with her two hands.",
+        "question": "Where does Grandma hold on?",
+        "options": [
+          "around the turnip top",
+          "on the man in front of her",
+          "against the garden fence",
+          "in her own apron pocket"
+        ],
+        "optionsZh": [
+          "蘿蔔頂",
+          "前面那個人",
+          "園子圍籬",
+          "她自己圍裙口袋"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "兩隻手抓爺爺外套後面 → 抓前面那個人。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l3-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Grandpa pulls the turnip. Grandma pulls Grandpa.",
+        "explanationZh": "爺爺拉蘿蔔。奶奶拉爺爺。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch20-l3-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How many people are pulling now?",
+        "question": "How many?",
+        "options": [
+          "1️⃣ one",
+          "2️⃣ two",
+          "3️⃣ three",
+          "4️⃣ four"
+        ],
+        "optionsZh": [
+          "一個",
+          "兩個",
+          "三個",
+          "四個"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "爺爺 + 奶奶 = 兩個。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l3-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They both pull. They count out loud. One, two, pull!",
+        "explanationZh": "兩個都拉。一起出聲數。一、二,拉!",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch20-l3-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Even with two pulling together, the turnip stays in the dirt.",
+        "question": "What happens with two pullers?",
+        "options": [
+          "comes out easy",
+          "still stuck deep",
+          "breaks the leaves",
+          "bends sideways"
+        ],
+        "optionsZh": [
+          "一下就出來",
+          "還是卡在土裡",
+          "弄斷葉子",
+          "歪一邊"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "兩個人一起拉 + 還在土裡 → 還是卡著。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch20-l3-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "One person tried and could not. Two together tried and still cannot.",
+        "question": "What is this scene mainly showing?",
+        "options": [
+          "the turnip is gone",
+          "help is needed but two is not enough",
+          "Grandma is too small",
+          "Grandpa is angry now"
+        ],
+        "optionsZh": [
+          "蘿蔔不見了",
+          "需要幫忙 + 兩個不夠",
+          "奶奶太小",
+          "爺爺生氣了"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "主旨 = 兩個還不夠,需要更多人。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip",
+          "gist"
+        ],
+        "subSkill": "gist"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l3-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Two is not enough. Grandma looks at Grandpa. \"Who else can we ask?\"",
+        "explanationZh": "兩個不夠。奶奶看著爺爺。「我們還能叫誰?」",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch20-l4",
+    "chapter": 20,
+    "lessonInChapter": 4,
+    "segmentType": "main-story",
+    "storyId": "enormous-turnip",
+    "storyBeat": "叫孫女來幫 — 越來越多人",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch20-l4-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "孫女",
+            "right": "granddaughter"
+          },
+          {
+            "left": "跑",
+            "right": "run"
+          },
+          {
+            "left": "圍裙",
+            "right": "apron"
+          },
+          {
+            "left": "一起",
+            "right": "together"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 granddaughter = 孫女\n🔑 run = 跑\n🔑 apron = 圍裙\n🔑 together = 一起\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l4-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Grandma calls toward the house. \"Granddaughter, come help us!\"",
+        "explanationZh": "奶奶對著屋子叫:「孫女,來幫我們!」",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l4-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A little girl runs out of the door. She is fast.",
+        "explanationZh": "一個小女孩從門裡跑出來。她很快。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch20-l4-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "She does not even put her shoes on. She runs to the garden.",
+        "questionEn": "Is the granddaughter excited to help?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理:鞋都沒穿 → 急著來幫 → 答 Yes",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip",
+          "inference"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch20-l4-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The little girl grabs the back of Grandma's apron with both hands.",
+        "question": "What does Granddaughter hold on to?",
+        "options": [
+          "the turnip top",
+          "the lady in front of her",
+          "the kitchen door",
+          "her own shoes"
+        ],
+        "optionsZh": [
+          "蘿蔔頂",
+          "前面那位女士",
+          "廚房門",
+          "她自己的鞋"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "抓著奶奶圍裙 → 前面那位女士。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l4-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Grandpa pulls. Grandma pulls. Granddaughter pulls.",
+        "explanationZh": "爺爺拉。奶奶拉。孫女拉。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch20-l4-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How many people are pulling now?",
+        "question": "How many?",
+        "options": [
+          "1️⃣ one",
+          "2️⃣ two",
+          "3️⃣ three",
+          "4️⃣ four"
+        ],
+        "optionsZh": [
+          "一個",
+          "兩個",
+          "三個",
+          "四個"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "爺爺 + 奶奶 + 孫女 = 三個。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l4-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Three of them pull at the same time. They count again.",
+        "explanationZh": "三個人一起拉。他們又數一次。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch20-l4-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Three pairs of hands. Three sets of feet pushing in the dirt.",
+        "question": "What are they all doing together?",
+        "options": [
+          "walking away",
+          "pulling as one team",
+          "eating dinner",
+          "looking at the sky"
+        ],
+        "optionsZh": [
+          "走開",
+          "當一隊一起拉",
+          "吃晚餐",
+          "看天空"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "三雙手 + 三雙腳一起 → 當一隊一起拉。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch20-l4-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "They pull and pull. The turnip will not move.",
+        "question": "Why does the turnip still not move?",
+        "options": [
+          "the dirt is too soft",
+          "three is still not enough",
+          "the leaves came off",
+          "Grandpa stopped pulling"
+        ],
+        "optionsZh": [
+          "土太軟",
+          "三個還是不夠",
+          "葉子掉了",
+          "爺爺停了"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:三個都用力 + 還沒動 → 三個還是不夠。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ],
+        "subSkill": "inference"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l4-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Three is not enough either. Granddaughter looks around. \"We need more help!\"",
+        "explanationZh": "三個還是不夠。孫女四處看。「我們需要更多人!」",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch20-l5",
+    "chapter": 20,
+    "lessonInChapter": 5,
+    "segmentType": "main-story",
+    "storyId": "enormous-turnip",
+    "storyBeat": "叫小狗 — 還是不夠",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch20-l5-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "狗",
+            "right": "dog"
+          },
+          {
+            "left": "過來",
+            "right": "over"
+          },
+          {
+            "left": "牙齒",
+            "right": "teeth"
+          },
+          {
+            "left": "四個",
+            "right": "four"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 dog = 狗\n🔑 over = 過來\n🔑 teeth = 牙齒\n🔑 four = 四個\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l5-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Granddaughter calls toward the yard. \"Little dog, come help us!\"",
+        "explanationZh": "孫女對著院子叫:「小狗,來幫我們!」",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l5-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The little dog runs over. His tail moves fast.",
+        "explanationZh": "小狗跑過來。他的尾巴搖得很快。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch20-l5-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The dog wags his tail. He looks up at the girl.",
+        "questionEn": "Is the dog ready to help?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理:搖尾巴 + 抬頭看 → 開心想參加 → 答 Yes",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip",
+          "inference"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch20-l5-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The dog uses his teeth to hold the back of Granddaughter's dress.",
+        "question": "How does the dog hold on?",
+        "options": [
+          "front paws on the ground",
+          "mouth bites the dress",
+          "ears flap in the wind",
+          "tail wraps around her leg"
+        ],
+        "optionsZh": [
+          "前腳踩在地上",
+          "嘴巴咬住衣服",
+          "耳朵在風裡飄",
+          "尾巴繞她的腳"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "用牙齒咬住孫女衣服 → 嘴巴咬住。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l5-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Grandpa pulls. Grandma pulls. Granddaughter pulls. Dog pulls.",
+        "explanationZh": "爺爺拉。奶奶拉。孫女拉。狗拉。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch20-l5-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How many are pulling now?",
+        "question": "How many?",
+        "options": [
+          "2️⃣ two",
+          "3️⃣ three",
+          "4️⃣ four",
+          "5️⃣ five"
+        ],
+        "optionsZh": [
+          "兩個",
+          "三個",
+          "四個",
+          "五個"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "爺爺 + 奶奶 + 孫女 + 狗 = 四個。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l5-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Four of them pull. They count together. One, two, three, pull!",
+        "explanationZh": "四個一起拉。他們一起數。一、二、三,拉!",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch20-l5-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Even with the dog's teeth pulling too, the turnip stays put.",
+        "question": "What happens with the dog helping?",
+        "options": [
+          "it pops right out",
+          "it still does not budge",
+          "the dog runs away",
+          "the dog barks"
+        ],
+        "optionsZh": [
+          "馬上出來",
+          "還是沒動",
+          "狗跑掉",
+          "狗叫"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "狗也加入 + 蘿蔔不動 → 還是沒動。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch20-l5-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "A dog joins the family. Even four pulling, the turnip stays.",
+        "question": "What is this scene mainly showing?",
+        "options": [
+          "the dog wins a race",
+          "more help joins but it is still not enough",
+          "the family eats dinner",
+          "a dog learns a trick"
+        ],
+        "optionsZh": [
+          "狗贏比賽",
+          "又多了幫手但還是不夠",
+          "全家吃晚餐",
+          "狗學新動作"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "主旨 = 越來越多人,但還是不夠。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip",
+          "gist"
+        ],
+        "subSkill": "gist"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l5-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Four is not enough. The dog barks once. \"Maybe my friend the cat can come...\"",
+        "explanationZh": "四個還是不夠。狗叫了一聲。「也許我的朋友貓咪可以來……」",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch20-l6",
+    "chapter": 20,
+    "lessonInChapter": 6,
+    "segmentType": "main-story",
+    "storyId": "enormous-turnip",
+    "storyBeat": "叫小貓 — 還是不行",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch20-l6-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "貓",
+            "right": "cat"
+          },
+          {
+            "left": "走",
+            "right": "walk"
+          },
+          {
+            "left": "尾巴",
+            "right": "tail"
+          },
+          {
+            "left": "足夠",
+            "right": "enough"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 cat = 貓\n🔑 walk = 走\n🔑 tail = 尾巴\n🔑 enough = 足夠\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l6-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The dog calls toward the wall. \"Cat, come help us!\"",
+        "explanationZh": "狗對著牆叫:「貓咪,來幫我們!」",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l6-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The cat walks over slowly. She takes her time.",
+        "explanationZh": "貓咪慢慢走過來。她不急。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch20-l6-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The cat does not run. She stops to look at the turnip first.",
+        "questionEn": "Does the cat care about being fast?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:慢慢走 + 先看 → 不在意快 → 答 No",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip",
+          "inference"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch20-l6-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The cat holds the dog's tail gently between her front paws.",
+        "question": "How does the cat hold on?",
+        "options": [
+          "with her teeth on a leaf",
+          "with paws on the dog's tail",
+          "on Granddaughter's shoe",
+          "around Grandpa's leg"
+        ],
+        "optionsZh": [
+          "用牙齒咬葉子",
+          "前腳抱狗的尾巴",
+          "抓孫女的鞋",
+          "抱爺爺的腳"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "前腳抱住狗的尾巴。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l6-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Five of them pull now. Everyone pulls as hard as they can.",
+        "explanationZh": "五個一起拉。每個都用盡力氣。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch20-l6-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How many are pulling now?",
+        "question": "How many?",
+        "options": [
+          "3️⃣ three",
+          "4️⃣ four",
+          "5️⃣ five",
+          "6️⃣ six"
+        ],
+        "optionsZh": [
+          "三個",
+          "四個",
+          "五個",
+          "六個"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "爺爺 + 奶奶 + 孫女 + 狗 + 貓 = 五個。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l6-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They count again. One, two, three, pull!",
+        "explanationZh": "他們又數一次。一、二、三,拉!",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch20-l6-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The turnip moves a tiny bit. The top wobbles in the dirt.",
+        "question": "What is different this time?",
+        "options": [
+          "the turnip flies up",
+          "the turnip moves a little",
+          "the dirt turns to mud",
+          "a new leaf grows"
+        ],
+        "optionsZh": [
+          "蘿蔔飛起來",
+          "蘿蔔動了一點",
+          "土變泥",
+          "新葉子長出來"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "蘿蔔動了一點點 + 頂搖一下。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch20-l6-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "But after that tiny move, the turnip stops. It is still stuck.",
+        "question": "Why did the turnip move only a little?",
+        "options": [
+          "the cat is too small to help",
+          "almost enough, but one more is needed",
+          "the dirt is too soft",
+          "they are pulling the wrong way"
+        ],
+        "optionsZh": [
+          "貓太小幫不到",
+          "快夠了 + 還差一個",
+          "土太軟",
+          "拉錯方向"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:動了 + 又停 → 快夠了 + 還差一個。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ],
+        "subSkill": "inference"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l6-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "It moved! But not enough. The cat looks at her little friend by the wall...",
+        "explanationZh": "它動了!但還不夠。貓咪看著牆邊的小朋友……",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch20-l7",
+    "chapter": 20,
+    "lessonInChapter": 7,
+    "segmentType": "main-story",
+    "storyId": "enormous-turnip",
+    "storyBeat": "叫小老鼠 — 終於拔出來!全家分享",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch20-l7-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "老鼠",
+            "right": "mouse"
+          },
+          {
+            "left": "六個",
+            "right": "six"
+          },
+          {
+            "left": "出來",
+            "right": "out"
+          },
+          {
+            "left": "分享",
+            "right": "share"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 mouse = 老鼠\n🔑 six = 六個\n🔑 out = 出來\n🔑 share = 分享\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l7-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The cat calls toward the small hole. \"Little mouse, come help us!\"",
+        "explanationZh": "貓咪對著小洞叫:「小老鼠,來幫我們!」",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l7-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A little mouse runs out. She is the smallest of all.",
+        "explanationZh": "一隻小老鼠跑出來。她是所有人裡最小的。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch20-l7-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The mouse is tiny. But she does not say she is too small.",
+        "questionEn": "Does the mouse think size matters here?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:小 + 不說自己太小 → 不在意大小 → 答 No",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip",
+          "inference"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch20-l7-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The little mouse holds on to the cat's tail with both paws.",
+        "question": "How does the mouse hold on?",
+        "options": [
+          "holds the dog by an ear",
+          "grabs the furry one's tail",
+          "pulls a turnip leaf",
+          "sits on Grandpa's boot"
+        ],
+        "optionsZh": [
+          "抓狗的耳朵",
+          "抓住毛毛那隻的尾巴",
+          "扯蘿蔔葉子",
+          "坐在爺爺靴子上"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "貓的尾巴 → 毛毛那隻的尾巴。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l7-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Six of them pull now. The smallest one is at the end.",
+        "explanationZh": "六個一起拉。最小的在最後面。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch20-l7-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How many are pulling at the end?",
+        "question": "How many?",
+        "options": [
+          "4️⃣ four",
+          "5️⃣ five",
+          "6️⃣ six",
+          "7️⃣ seven"
+        ],
+        "optionsZh": [
+          "四個",
+          "五個",
+          "六個",
+          "七個"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "爺爺 + 奶奶 + 孫女 + 狗 + 貓 + 老鼠 = 六個。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l7-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They count one more time. One, two, three, pull!",
+        "explanationZh": "他們再數一次。一、二、三,拉!",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch20-l7-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Out comes the turnip! Everyone falls over backward in a happy pile.",
+        "question": "What happens this time?",
+        "options": [
+          "the turnip stays stuck",
+          "the turnip pops out",
+          "the rope breaks",
+          "a storm comes"
+        ],
+        "optionsZh": [
+          "還是卡住",
+          "蘿蔔出來了",
+          "繩子斷了",
+          "暴風雨來了"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "蘿蔔出來了 + 大家開心倒下。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch20-l7-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The smallest mouse was the last help. That tiny push was the one.",
+        "question": "What does this story teach us?",
+        "options": [
+          "only big helpers count",
+          "even the smallest helper matters",
+          "work alone is fastest",
+          "turnips grow only in summer"
+        ],
+        "optionsZh": [
+          "只有大幫手有用",
+          "再小的幫忙都重要",
+          "一個人最快",
+          "蘿蔔只夏天長"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:最小的老鼠 = 最後那一推 → 再小的幫忙都重要。",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ],
+        "subSkill": "inference"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch20-l7-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The whole family shares a big turnip dinner. Even the mouse gets a seat at the table...",
+        "explanationZh": "全家一起吃大蘿蔔晚餐。連小老鼠都有位子坐……",
+        "tags": [
+          "story",
+          "ch20",
+          "enormous-turnip"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "kt-ch27-l1",
+    "chapter": 27,
+    "lessonInChapter": 1,
+    "segmentType": "main-story",
+    "storyId": "journey-to-west-series",
+    "storyBeat": "和尚 Sanzang — 一個安靜會讀書的人",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch27-l1-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          { "left": "和尚", "right": "monk" },
+          { "left": "寺廟", "right": "temple" },
+          { "left": "讀", "right": "read" },
+          { "left": "安靜的", "right": "quiet" }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 monk = 和尚\n🔑 temple = 寺廟\n🔑 read = 讀\n🔑 quiet = 安靜的\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": ["story", "ch27", "wukong", "vocab", "intro"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l1-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Long ago in China, a young monk named 三藏 (Sanzang) lived in a quiet temple.",
+        "explanationZh": "很久以前在中國,一個叫三藏的年輕和尚住在安靜的寺廟裡。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l1-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "He read holy books every day, from morning until late at night.",
+        "explanationZh": "他每天讀經書,從早上讀到深夜。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch27-l1-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "grandma",
+        "sentence": "He did not like loud talk or big parties.",
+        "questionEn": "Was Sanzang a quiet kind of person?",
+        "options": ["Yes", "No"],
+        "correctIndex": 0,
+        "explanationZh": "推理:不喜歡吵鬧 → 是安靜的人 → 答 Yes",
+        "tags": ["story", "ch27", "wukong", "inference"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l1-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "His heart was soft. He cared about people he had never met.",
+        "explanationZh": "他心地很軟,連沒見過的人也關心。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch27-l1-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Sanzang spent each day with books and tea, and slept on a thin mat.",
+        "question": "How did Sanzang live every day?",
+        "options": [
+          "with big feasts and gold",
+          "with simple things and study",
+          "in a busy market street",
+          "on a fast horse all day"
+        ],
+        "optionsZh": [
+          "豐盛大餐和黃金",
+          "簡單的東西和讀書",
+          "熱鬧的市場街上",
+          "整天騎快馬"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:書 + 茶 + 薄草蓆 → 簡單的東西和讀書 (paraphrase)。",
+        "tags": ["story", "ch27", "wukong"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l1-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "But the books in his temple were old and not enough.",
+        "explanationZh": "但他寺廟裡的書又舊又不夠。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch27-l1-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "He felt there was much more to learn far, far away.",
+        "question": "What did Sanzang feel about his learning?",
+        "options": [
+          "he had learned all he needed",
+          "there was still much more to know",
+          "books were not very useful",
+          "he wanted to stop reading"
+        ],
+        "optionsZh": [
+          "他學完了所有需要的",
+          "還有很多要知道的",
+          "書沒什麼用",
+          "他想停止讀書"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:much more to learn → 還有很多要知道的 (paraphrase)。",
+        "tags": ["story", "ch27", "wukong"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l1-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Sometimes he stood by the gate and looked toward the west.",
+        "explanationZh": "有時他站在寺門口,望向西邊。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch27-l1-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "How did Sanzang feel standing by the gate?",
+        "question": "How did he feel?",
+        "options": [
+          "😴 only sleepy",
+          "🌅 ready for something new",
+          "😡 very angry",
+          "🍔 just hungry"
+        ],
+        "optionsZh": [
+          "只是想睡",
+          "準備好迎接新東西",
+          "很生氣",
+          "只是肚子餓"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "望向西邊想學更多 → 準備好迎接新東西。",
+        "tags": ["story", "ch27", "wukong", "hook"],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l1-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "One morning, a man in fine yellow clothes came to the temple door...",
+        "explanationZh": "有一天早上,一個穿黃色華服的人來到寺廟門口……",
+        "tags": ["story", "ch27", "wukong"]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch27-l2",
+    "chapter": 27,
+    "lessonInChapter": 2,
+    "segmentType": "main-story",
+    "storyId": "journey-to-west-series",
+    "storyBeat": "皇帝的請求 — 去西方拿回真經",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch27-l2-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          { "left": "皇帝", "right": "emperor" },
+          { "left": "請求", "right": "ask" },
+          { "left": "西方", "right": "west" },
+          { "left": "經書", "right": "holy book" }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 emperor = 皇帝\n🔑 ask = 請求\n🔑 west = 西方\n🔑 holy book = 經書\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": ["story", "ch27", "wukong", "vocab", "intro"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l2-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "The man said, \"The 皇帝 (Emperor) wants to see you at his palace.\"",
+        "explanationZh": "那個人說:「皇帝想在宮裡見你。」",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch27-l2-q3",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "grandma",
+        "sentence": "Sanzang put on his clean robe and went without saying no.",
+        "questionEn": "Did Sanzang turn down the invitation?",
+        "options": ["Yes", "No"],
+        "correctIndex": 1,
+        "explanationZh": "推理:他穿衣服就去了 → 沒拒絕 → 答 No",
+        "tags": ["story", "ch27", "wukong", "inference"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l2-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "At the palace, the Emperor sat on a tall chair and looked tired.",
+        "explanationZh": "在皇宮裡,皇帝坐在高高的椅子上,看起來很累。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch27-l2-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "\"My people need new holy books from India. Will you go?\" he asked.",
+        "question": "What did the Emperor want Sanzang to do?",
+        "options": [
+          "stay in the city as a teacher",
+          "travel far and bring back books",
+          "write a brand new song",
+          "build a new wall by the river"
+        ],
+        "optionsZh": [
+          "留在城裡當老師",
+          "走遠路把書帶回來",
+          "寫一首新歌",
+          "在河邊蓋新牆"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:從印度拿經書回來 → 走遠路把書帶回來 (paraphrase)。",
+        "tags": ["story", "ch27", "wukong"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l2-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Sanzang knew the road was long. He knew it could take many years.",
+        "explanationZh": "三藏知道路途很遠,可能要走很多年。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch27-l2-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "But he bowed and said, \"I will go. I will not come back empty.\"",
+        "question": "What did Sanzang promise the Emperor?",
+        "options": [
+          "to come back rich",
+          "to bring the holy books home",
+          "to fight every dragon",
+          "to find a new emperor"
+        ],
+        "optionsZh": [
+          "帶錢回來",
+          "把經書帶回家",
+          "打敗每一隻龍",
+          "找新皇帝"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:will not come back empty → 把經書帶回家 (paraphrase)。",
+        "tags": ["story", "ch27", "wukong"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l2-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "The Emperor stood up and gave Sanzang a soft yellow scarf.",
+        "explanationZh": "皇帝站起來,給三藏一條軟軟的黃色圍巾。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch27-l2-q9",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "grandma",
+        "sentence": "\"From today, you are my brother of the road,\" the Emperor said.",
+        "questionEn": "Did the Emperor treat Sanzang as someone very close?",
+        "options": ["Yes", "No"],
+        "correctIndex": 0,
+        "explanationZh": "推理:叫他兄弟 → 當作親近的人 → 答 Yes",
+        "tags": ["story", "ch27", "wukong", "inference"]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch27-l2-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "How did Sanzang feel after the Emperor's words?",
+        "question": "How did he feel?",
+        "options": [
+          "😴 ready to sleep",
+          "🙏 honored and serious",
+          "😡 angry and loud",
+          "🍎 only hungry"
+        ],
+        "optionsZh": [
+          "想睡",
+          "受到尊重,認真起來",
+          "生氣大聲",
+          "只是肚子餓"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "皇帝叫他兄弟 → 受到尊重,認真起來。",
+        "tags": ["story", "ch27", "wukong", "hook"],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l2-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "That night, Sanzang sat in his room and packed a very small bag...",
+        "explanationZh": "那天晚上,三藏坐在房裡,打包了一個非常小的包……",
+        "tags": ["story", "ch27", "wukong"]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch27-l3",
+    "chapter": 27,
+    "lessonInChapter": 3,
+    "segmentType": "main-story",
+    "storyId": "journey-to-west-series",
+    "storyBeat": "從長安出發 — 一匹馬,一個小包",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch27-l3-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          { "left": "馬", "right": "horse" },
+          { "left": "包", "right": "bag" },
+          { "left": "離開", "right": "leave" },
+          { "left": "城門", "right": "city gate" }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 horse = 馬\n🔑 bag = 包\n🔑 leave = 離開\n🔑 city gate = 城門\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": ["story", "ch27", "wukong", "vocab", "intro"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l3-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "At sunrise, Sanzang stood at the city gate of 長安 (Chang'an).",
+        "explanationZh": "天亮的時候,三藏站在長安的城門口。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch27-l3-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "He had one brown horse and one small bag on his back.",
+        "question": "How much did Sanzang carry?",
+        "options": [
+          "many boxes of gold",
+          "only a horse and a tiny bag",
+          "ten boxes of food",
+          "no horse and no bag"
+        ],
+        "optionsZh": [
+          "很多金子箱",
+          "只有一匹馬和小包",
+          "十箱食物",
+          "沒馬也沒包"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:一匹馬 + 小包 → 只有一匹馬和小包 (paraphrase)。",
+        "tags": ["story", "ch27", "wukong"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch27-l3-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "grandma",
+        "sentence": "Many people waved goodbye, but he did not bring even one friend.",
+        "questionEn": "Was Sanzang starting this long trip alone?",
+        "options": ["Yes", "No"],
+        "correctIndex": 0,
+        "explanationZh": "推理:沒帶半個朋友 → 一個人出發 → 答 Yes",
+        "tags": ["story", "ch27", "wukong", "inference"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l3-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "The Emperor poured a cup of clear water from the city's earth.",
+        "explanationZh": "皇帝倒了一杯城裡泥土的清水。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch27-l3-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "\"Drink this. Remember the dust of your home,\" he said softly.",
+        "question": "Why did the Emperor give the water?",
+        "options": [
+          "so Sanzang would not get lost",
+          "so he would remember his country",
+          "to make him sleep at night",
+          "to pay him for the trip"
+        ],
+        "optionsZh": [
+          "讓三藏不迷路",
+          "讓他記得自己的家鄉",
+          "讓他晚上睡得著",
+          "付他出差費"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:記得家鄉的泥土 → 讓他記得自己的家鄉 (paraphrase)。",
+        "tags": ["story", "ch27", "wukong"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l3-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Sanzang drank it all. He bowed three times to the east.",
+        "explanationZh": "三藏全喝了,並向東邊鞠了三個躬。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l3-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Then he turned the horse to the west and walked out of the gate.",
+        "explanationZh": "然後他把馬頭轉向西邊,走出城門。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch27-l3-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Behind him, the city walls grew small in the morning light.",
+        "question": "What happened as Sanzang walked away?",
+        "options": [
+          "the city walls came closer",
+          "his home looked smaller and smaller",
+          "the sky turned dark and rainy",
+          "his horse ran back home"
+        ],
+        "optionsZh": [
+          "城牆變得更近",
+          "家鄉看起來越來越小",
+          "天空變黑下雨",
+          "他的馬跑回家"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:walls grew small → 看起來越來越小 (paraphrase)。",
+        "tags": ["story", "ch27", "wukong"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch27-l3-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "How did Sanzang feel leaving his home behind?",
+        "question": "How did he feel?",
+        "options": [
+          "🥳 only excited",
+          "🌗 sad but brave",
+          "😡 angry at the king",
+          "😴 ready for a nap"
+        ],
+        "optionsZh": [
+          "只是興奮",
+          "難過但勇敢",
+          "對國王生氣",
+          "想睡覺"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "離開家但仍要走 → 難過但勇敢。",
+        "tags": ["story", "ch27", "wukong", "hook"],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l3-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Step by step, the road ahead opened up like a long brown river...",
+        "explanationZh": "一步又一步,前方的路像一條長長的褐色河流展開……",
+        "tags": ["story", "ch27", "wukong"]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch27-l4",
+    "chapter": 27,
+    "lessonInChapter": 4,
+    "segmentType": "main-story",
+    "storyId": "journey-to-west-series",
+    "storyBeat": "走了好多天 — 沙漠、風、和孤單",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch27-l4-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          { "left": "沙漠", "right": "desert" },
+          { "left": "風", "right": "wind" },
+          { "left": "渴", "right": "thirsty" },
+          { "left": "孤單", "right": "lonely" }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 desert = 沙漠\n🔑 wind = 風\n🔑 thirsty = 渴\n🔑 lonely = 孤單\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": ["story", "ch27", "wukong", "vocab", "intro"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l4-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Day by day, Sanzang walked. The green hills became yellow sand.",
+        "explanationZh": "一天又一天,三藏走著走著,綠色的山變成了黃色的沙。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch27-l4-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "The wind pushed dust into his eyes and into his mouth.",
+        "question": "What did the desert wind do to Sanzang?",
+        "options": [
+          "sang him to sleep",
+          "blew sand into his face",
+          "made a cool shade",
+          "carried him fast"
+        ],
+        "optionsZh": [
+          "唱歌哄他睡",
+          "把沙吹進他臉上",
+          "造涼陰",
+          "把他抬著走"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:dust into his eyes and mouth → 把沙吹進他臉上 (paraphrase)。",
+        "tags": ["story", "ch27", "wukong"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch27-l4-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "grandma",
+        "sentence": "He drank from his bottle in small careful sips.",
+        "questionEn": "Did Sanzang have a lot of water to spare?",
+        "options": ["Yes", "No"],
+        "correctIndex": 1,
+        "explanationZh": "推理:小心地一小口一小口 → 水不多 → 答 No",
+        "tags": ["story", "ch27", "wukong", "inference"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l4-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "At night, the desert was cold. He had only a thin blanket.",
+        "explanationZh": "晚上沙漠很冷,他只有一條薄薄的毯子。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch27-l4-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "He had no friend to talk with. The stars were his only company.",
+        "question": "Who was with Sanzang at night?",
+        "options": [
+          "two close brothers",
+          "no one, just the night sky",
+          "many travel friends",
+          "his old temple teacher"
+        ],
+        "optionsZh": [
+          "兩個親兄弟",
+          "沒人,只有夜空",
+          "很多旅行朋友",
+          "他寺廟的老師"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:no friend, stars only company → 沒人,只有夜空 (paraphrase)。",
+        "tags": ["story", "ch27", "wukong"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l4-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Some nights he closed his eyes and pictured his old temple.",
+        "explanationZh": "有時候晚上他閉上眼睛,在腦中想著舊寺廟。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch27-l4-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Each morning he woke up and walked on, even when his feet hurt.",
+        "question": "What did Sanzang do every morning?",
+        "options": [
+          "rested in his tent",
+          "kept walking west again",
+          "rode home a little way",
+          "looked for a new horse"
+        ],
+        "optionsZh": [
+          "在帳篷裡休息",
+          "繼續往西走",
+          "稍微往家走一段",
+          "找新的馬"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:walked on, even when feet hurt → 繼續往西走 (paraphrase)。",
+        "tags": ["story", "ch27", "wukong"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l4-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "The road did not end. Some days, it felt like the road never would.",
+        "explanationZh": "路沒有盡頭,有些日子,他覺得這條路永遠走不完。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch27-l4-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "How did Sanzang feel after so many days alone?",
+        "question": "How did he feel?",
+        "options": [
+          "🎉 super happy",
+          "😔 lonely but did not stop",
+          "😡 very angry",
+          "🎵 wanted to sing"
+        ],
+        "optionsZh": [
+          "超開心",
+          "孤單但沒停下",
+          "很生氣",
+          "想唱歌"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "走那麼多天還沒到 → 孤單但沒停下。",
+        "tags": ["story", "ch27", "wukong", "hook"],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l4-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Then one afternoon, far ahead, a huge dark shape rose from the sand...",
+        "explanationZh": "然後有一天下午,遠方,有個巨大黑色的形狀從沙地裡升起來……",
+        "tags": ["story", "ch27", "wukong"]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch27-l5",
+    "chapter": 27,
+    "lessonInChapter": 5,
+    "segmentType": "main-story",
+    "storyId": "journey-to-west-series",
+    "storyBeat": "巨大的山 — 一個聲音在叫他",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch27-l5-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          { "left": "山", "right": "mountain" },
+          { "left": "聲音", "right": "voice" },
+          { "left": "叫", "right": "call" },
+          { "left": "巨大的", "right": "huge" }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 mountain = 山\n🔑 voice = 聲音\n🔑 call = 叫\n🔑 huge = 巨大的\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": ["story", "ch27", "wukong", "vocab", "intro"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l5-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Sanzang came close to a huge mountain named 五行山 (Five Phases).",
+        "explanationZh": "三藏走近一座叫五行山的巨大山。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch27-l5-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Five tall stone fingers rose into the sky like a giant hand.",
+        "question": "What did the mountain look like?",
+        "options": [
+          "a flat field",
+          "a giant hand of stone",
+          "a quiet round bowl",
+          "a long city wall"
+        ],
+        "optionsZh": [
+          "平的田地",
+          "石頭的巨人手",
+          "安靜的圓碗",
+          "長長的城牆"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:five stone fingers like a giant hand → 石頭的巨人手 (paraphrase)。",
+        "tags": ["story", "ch27", "wukong"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l5-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "His horse stopped and would not move. Its ears went flat.",
+        "explanationZh": "他的馬停下來,不肯動,耳朵貼平。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch27-l5-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "grandma",
+        "sentence": "The wind around the mountain was very still and very strange.",
+        "questionEn": "Did the place feel like an ordinary spot?",
+        "options": ["Yes", "No"],
+        "correctIndex": 1,
+        "explanationZh": "推理:風很靜很怪 → 不是普通地方 → 答 No",
+        "tags": ["story", "ch27", "wukong", "inference"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l5-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Then a deep voice came from under the rocks. \"Master! Master!\"",
+        "explanationZh": "然後岩石下傳來一個低沉的聲音:「師父!師父!」",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch27-l5-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Sanzang looked all around but saw no person near the path.",
+        "question": "What did Sanzang notice about the voice?",
+        "options": [
+          "it came from a friend",
+          "no one could be seen there",
+          "it was a baby crying",
+          "the wind was singing"
+        ],
+        "optionsZh": [
+          "聲音來自朋友",
+          "看不到那邊有人",
+          "是嬰兒在哭",
+          "是風在唱歌"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:saw no person → 看不到那邊有人 (paraphrase)。",
+        "tags": ["story", "ch27", "wukong"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l5-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "\"I am under the mountain! Please come close!\" the voice called again.",
+        "explanationZh": "「我在山下!請靠近!」那個聲音又叫了一次。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch27-l5-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Sanzang took a slow breath. He stepped closer to the cold stone.",
+        "question": "How did Sanzang move toward the voice?",
+        "options": [
+          "ran and shouted back",
+          "walked slowly and carefully",
+          "jumped over the rocks",
+          "rode his horse very fast"
+        ],
+        "optionsZh": [
+          "邊跑邊喊",
+          "慢慢小心地走",
+          "跳過石頭",
+          "騎馬快跑過去"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:slow breath + stepped closer → 慢慢小心地走 (paraphrase)。",
+        "tags": ["story", "ch27", "wukong"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch27-l5-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "How did Sanzang feel about the strange voice?",
+        "question": "How did he feel?",
+        "options": [
+          "🎉 super happy",
+          "👂 careful and curious",
+          "😡 angry",
+          "😴 sleepy"
+        ],
+        "optionsZh": [
+          "超開心",
+          "小心又好奇",
+          "生氣",
+          "想睡"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "聲音怪但他想知道 → 小心又好奇。",
+        "tags": ["story", "ch27", "wukong", "hook"],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l5-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Between two huge rocks, two bright eyes blinked up at him...",
+        "explanationZh": "兩塊巨石之間,兩顆明亮的眼睛眨著看著他……",
+        "tags": ["story", "ch27", "wukong"]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch27-l6",
+    "chapter": 27,
+    "lessonInChapter": 6,
+    "segmentType": "main-story",
+    "storyId": "journey-to-west-series",
+    "storyBeat": "石下的猴子 — 被壓 500 年了",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch27-l6-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          { "left": "猴子", "right": "monkey" },
+          { "left": "石頭", "right": "stone" },
+          { "left": "下面", "right": "under" },
+          { "left": "鎖住的", "right": "locked" }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 monkey = 猴子\n🔑 stone = 石頭\n🔑 under = 下面\n🔑 locked = 鎖住的\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": ["story", "ch27", "wukong", "vocab", "intro"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l6-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Under the rocks was a small monkey with a brown face and gold eyes.",
+        "explanationZh": "石頭下面有一隻小猴子,棕色臉,金色眼睛。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch27-l6-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Only his head and one arm could move from the heavy stone.",
+        "question": "How much of the monkey could move?",
+        "options": [
+          "his whole body",
+          "only his head and one arm",
+          "only his two feet",
+          "none of him at all"
+        ],
+        "optionsZh": [
+          "整個身體",
+          "只有頭和一隻手",
+          "只有兩隻腳",
+          "完全不能動"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:only head and one arm → 只有頭和一隻手 (paraphrase)。",
+        "tags": ["story", "ch27", "wukong"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch27-l6-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "grandma",
+        "sentence": "He smiled at Sanzang, but he could not even sit up.",
+        "questionEn": "Was the monkey held there by the mountain?",
+        "options": ["Yes", "No"],
+        "correctIndex": 0,
+        "explanationZh": "推理:不能坐起來 → 被山壓住 → 答 Yes",
+        "tags": ["story", "ch27", "wukong", "inference"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l6-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "\"I have been locked here for five hundred years,\" the monkey said.",
+        "explanationZh": "「我被鎖在這裡五百年了。」猴子說。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch27-l6-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Sanzang's eyes grew wide. Five hundred years was so very long.",
+        "question": "How did Sanzang feel about the time?",
+        "options": [
+          "thought it was a short stay",
+          "was surprised by a long, long time",
+          "did not believe one word",
+          "wanted to leave very fast"
+        ],
+        "optionsZh": [
+          "覺得時間不長",
+          "對非常久的時間感到驚訝",
+          "完全不相信",
+          "想很快離開"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:eyes grew wide + 500 years so long → 對非常久的時間感到驚訝 (paraphrase)。",
+        "tags": ["story", "ch27", "wukong"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l6-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "\"Long ago, I was loud and proud. The sky god put me here,\" he added.",
+        "explanationZh": "「很久以前,我又吵又驕傲,天神把我關在這裡。」他又說。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch27-l6-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "\"Now I am sorry. I have had a long time to think.\"",
+        "question": "How did the monkey feel about his past?",
+        "options": [
+          "still angry and loud",
+          "sorry and changed",
+          "happy and free",
+          "scared of Sanzang"
+        ],
+        "optionsZh": [
+          "還是又生氣又吵",
+          "後悔了,變了",
+          "開心又自由",
+          "怕三藏"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:now I am sorry + long time to think → 後悔了,變了 (paraphrase)。",
+        "tags": ["story", "ch27", "wukong"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l6-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Sanzang knelt down by the rocks and listened with a soft heart.",
+        "explanationZh": "三藏跪在石頭旁,用柔軟的心去聽。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch27-l6-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "How did Sanzang feel toward the trapped monkey?",
+        "question": "How did he feel?",
+        "options": [
+          "😡 angry",
+          "💗 kind and sorry for him",
+          "😴 sleepy",
+          "🎉 only happy"
+        ],
+        "optionsZh": [
+          "生氣",
+          "覺得溫柔,替他難過",
+          "想睡",
+          "只是開心"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "三藏心軟 → 覺得溫柔,替他難過。",
+        "tags": ["story", "ch27", "wukong", "hook"],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l6-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "\"Master, please pull the seal from the top. Only you can free me...\"",
+        "explanationZh": "「師父,請把山頂上的封印拿走,只有你能放我自由……」",
+        "tags": ["story", "ch27", "wukong"]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch27-l7",
+    "chapter": 27,
+    "lessonInChapter": 7,
+    "segmentType": "main-story",
+    "storyId": "journey-to-west-series",
+    "storyBeat": "放他自由 — 「我會保護你」",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch27-l7-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          { "left": "自由的", "right": "free" },
+          { "left": "保護", "right": "protect" },
+          { "left": "徒弟", "right": "student" },
+          { "left": "一起", "right": "together" }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 free = 自由的\n🔑 protect = 保護\n🔑 student = 徒弟\n🔑 together = 一起\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": ["story", "ch27", "wukong", "vocab", "intro"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l7-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Sanzang climbed slowly up the side of the huge mountain.",
+        "explanationZh": "三藏慢慢爬上巨山的側面。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch27-l7-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "On the very top was a yellow paper with old gold writing.",
+        "question": "What was at the top of the mountain?",
+        "options": [
+          "a cup of tea",
+          "a paper with old writing",
+          "a sleeping bird",
+          "a pile of nuts"
+        ],
+        "optionsZh": [
+          "一杯茶",
+          "一張有舊字的紙",
+          "睡覺的鳥",
+          "一堆堅果"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:yellow paper + old gold writing → 一張有舊字的紙 (paraphrase)。",
+        "tags": ["story", "ch27", "wukong"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l7-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "He held the corner of the paper and pulled it off the rock.",
+        "explanationZh": "他抓住紙的一角,從石頭上把它撕下來。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch27-l7-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "grandma",
+        "sentence": "Suddenly, the whole mountain shook and bright light came out.",
+        "questionEn": "Was the seal really powerful?",
+        "options": ["Yes", "No"],
+        "correctIndex": 0,
+        "explanationZh": "推理:山搖 + 光亮 → 封印很有力量 → 答 Yes",
+        "tags": ["story", "ch27", "wukong", "inference"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l7-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "The five stone fingers fell away. The monkey jumped up high.",
+        "explanationZh": "五根石頭手指碎開,猴子高高跳起來。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch27-l7-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "He landed in front of Sanzang and bowed his head all the way down.",
+        "question": "What did the monkey do first when free?",
+        "options": [
+          "ran fast into the sky",
+          "thanked Sanzang with a bow",
+          "ate all the fruit nearby",
+          "yelled at the mountain"
+        ],
+        "optionsZh": [
+          "快速飛上天",
+          "鞠躬感謝三藏",
+          "吃光附近水果",
+          "對山大叫"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:bowed his head all the way down → 鞠躬感謝三藏 (paraphrase)。",
+        "tags": ["story", "ch27", "wukong"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l7-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "\"Master, my name is 孫悟空 (Sun Wukong),\" the monkey said.",
+        "explanationZh": "「師父,我的名字是孫悟空。」猴子說。",
+        "tags": ["story", "ch27", "wukong"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch27-l7-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "\"From today, I will walk with you. I will protect you on the road.\"",
+        "question": "What did Wukong promise Sanzang?",
+        "options": [
+          "to live by himself again",
+          "to keep him safe on the trip",
+          "to find another teacher",
+          "to fight only for gold"
+        ],
+        "optionsZh": [
+          "自己一個人生活",
+          "在路上保護他平安",
+          "找別的老師",
+          "只為金子打架"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:walk with you + protect on the road → 在路上保護他平安 (paraphrase)。",
+        "tags": ["story", "ch27", "wukong"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch27-l7-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "How did Sanzang feel about his new student?",
+        "question": "How did he feel?",
+        "options": [
+          "😢 sad and tired",
+          "🤝 warm and not alone",
+          "😡 angry",
+          "😴 only sleepy"
+        ],
+        "optionsZh": [
+          "難過又累",
+          "溫暖,不再孤單",
+          "生氣",
+          "只是想睡"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "他有了徒弟 → 溫暖,不再孤單。",
+        "tags": ["story", "ch27", "wukong", "hook"],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch27-l7-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Master and student turned to the west and walked on together...",
+        "explanationZh": "師父和徒弟轉向西方,一起繼續走……",
+        "tags": ["story", "ch27", "wukong"]
+      }
+    ]
+  }
+]

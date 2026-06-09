@@ -1,0 +1,1661 @@
+[
+  {
+    "id": "kt-ch17-l1",
+    "chapter": 17,
+    "lessonInChapter": 1,
+    "segmentType": "main-story",
+    "storyId": "crane-gratitude",
+    "storyBeat": "老爺爺救受傷的鶴 — 鶴會回來嗎?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch17-l1-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "老人",
+            "right": "old man"
+          },
+          {
+            "left": "雪",
+            "right": "snow"
+          },
+          {
+            "left": "鶴",
+            "right": "crane"
+          },
+          {
+            "left": "陷阱",
+            "right": "trap"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 old man = 老人\n🔑 snow = 雪\n🔑 crane = 鶴\n🔑 trap = 陷阱\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l1-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Long ago, a kind old man lived in the snowy mountains.",
+        "explanationZh": "很久以前,一個好心的老人住在雪山裡。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l1-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He lived alone in a tiny house by the trees.",
+        "explanationZh": "他自己一個人住在樹邊的小房子。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch17-l1-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Every morning he walked through the snow to get firewood.",
+        "questionEn": "Did the old man live a hard life?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 自己一個人 + 走雪地撿柴 → 辛苦 → 答 Yes",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l1-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One cold morning, he heard a soft cry near the trees.",
+        "explanationZh": "一個冷冷的早上,他聽到樹邊有輕輕的叫聲。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch17-l1-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A white crane was caught in a hunter's trap.",
+        "question": "What did the old man find?",
+        "options": [
+          "some lost coins",
+          "a bird stuck in a trap",
+          "his old village friend",
+          "fresh winter flowers"
+        ],
+        "optionsZh": [
+          "一些丟掉的錢",
+          "一隻被困住的鳥",
+          "老朋友",
+          "冬天的花"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 鶴是鳥 + caught in trap → 被困住的鳥 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l1-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Its leg was hurt. Its big eyes were very sad.",
+        "explanationZh": "牠的腿受傷了。牠大大的眼睛很難過。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch17-l1-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He gently opened the trap and let the crane go.",
+        "question": "What did the old man do?",
+        "options": [
+          "took it home",
+          "set it free",
+          "cooked it for dinner",
+          "gave it to a hunter"
+        ],
+        "optionsZh": [
+          "帶回家",
+          "放牠走",
+          "煮來吃",
+          "給獵人"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: opened trap + let go → 放牠走 (set free)。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l1-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The crane spread its big white wings and flew up.",
+        "explanationZh": "鶴展開大大的白翅膀,飛了起來。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch17-l1-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Where did the crane fly?",
+        "question": "Where did it go?",
+        "options": [
+          "☁️ up into the grey sky",
+          "🌊 down to the sea",
+          "🏠 into the old man's house",
+          "🌳 into a tree hole"
+        ],
+        "optionsZh": [
+          "飛上灰灰的天空",
+          "飛到海裡",
+          "飛進老人家裡",
+          "飛進樹洞"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "flew up → up into the sky。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l1-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The crane flies up into the grey sky — will it come back?...",
+        "explanationZh": "鶴飛上灰灰的天空——牠會回來嗎?……",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch17-l2",
+    "chapter": 17,
+    "lessonInChapter": 2,
+    "segmentType": "main-story",
+    "storyId": "crane-gratitude",
+    "storyBeat": "美麗女孩來敲門 — 她是誰?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch17-l2-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "晚上",
+            "right": "evening"
+          },
+          {
+            "left": "敲門",
+            "right": "knock"
+          },
+          {
+            "left": "女孩",
+            "right": "young woman"
+          },
+          {
+            "left": "迷路",
+            "right": "lost"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 evening = 晚上\n🔑 knock = 敲門\n🔑 young woman = 女孩\n🔑 lost = 迷路\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l2-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "That same evening, the snow fell harder and harder.",
+        "explanationZh": "同一天晚上,雪越下越大。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch17-l2-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The old man sat alone by his small warm fire.",
+        "question": "How was the old man's evening?",
+        "options": [
+          "noisy and busy",
+          "quiet and alone",
+          "cold and hungry",
+          "full of friends"
+        ],
+        "optionsZh": [
+          "吵又忙",
+          "安靜一個人",
+          "冷又餓",
+          "滿是朋友"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: alone + by fire → quiet and alone。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l2-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Suddenly, there was a soft knock at the door.",
+        "explanationZh": "突然,門口傳來輕輕的敲門聲。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch17-l2-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "No one ever came to his house in winter nights.",
+        "questionEn": "Was the knock a surprise?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 沒人來過 + 突然敲門 → 驚訝 → 答 Yes",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l2-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He opened the door. A young woman stood in the snow.",
+        "explanationZh": "他打開門。一個女孩站在雪裡。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch17-l2-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did the young woman look?",
+        "question": "How did she look?",
+        "options": [
+          "🌨️ snow on her hair, kind face",
+          "😡 angry and shouting",
+          "👹 like a scary ghost",
+          "🤡 dressed like a clown"
+        ],
+        "optionsZh": [
+          "頭髮上有雪、善良的臉",
+          "生氣又大叫",
+          "像可怕的鬼",
+          "小丑打扮"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "頭髮有雪 + 善良的臉 = 雪 + kind face。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l2-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"I am lost,\" she said. \"May I stay tonight?\"",
+        "explanationZh": "「我迷路了,」她說。「我今晚可以住嗎?」",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch17-l2-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The old man let her in and gave her hot soup.",
+        "question": "What did the old man do?",
+        "options": [
+          "sent her away",
+          "welcomed her warmly",
+          "made her work",
+          "called the police"
+        ],
+        "optionsZh": [
+          "趕她走",
+          "熱情接待她",
+          "叫她做事",
+          "報警"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: let in + 給湯 → welcomed her warmly (paraphrase)。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l2-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She sat by the fire. She smiled with a quiet face.",
+        "explanationZh": "她坐在火邊。她安靜的笑了。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l2-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She smiles with a quiet face. But who is she really?...",
+        "explanationZh": "她安靜的笑著。但她到底是誰?……",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch17-l3",
+    "chapter": 17,
+    "lessonInChapter": 3,
+    "segmentType": "main-story",
+    "storyId": "crane-gratitude",
+    "storyBeat": "女孩織出珍貴的布 — 為什麼她要躲起來織?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch17-l3-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "織",
+            "right": "weave"
+          },
+          {
+            "left": "布",
+            "right": "cloth"
+          },
+          {
+            "left": "房間",
+            "right": "room"
+          },
+          {
+            "left": "答應",
+            "right": "promise"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 weave = 織\n🔑 cloth = 布\n🔑 room = 房間\n🔑 promise = 答應\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l3-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The next morning, the young woman did not leave.",
+        "explanationZh": "第二天早上,女孩沒有離開。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch17-l3-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She cooked the meals. She cleaned the house.",
+        "question": "How did she help the old man?",
+        "options": [
+          "singing songs all day",
+          "doing daily house work",
+          "counting his bags of coins",
+          "cutting wood in the snow"
+        ],
+        "optionsZh": [
+          "唱歌",
+          "做家事",
+          "算錢",
+          "砍柴"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: cooked + cleaned → 做家事 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l3-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She called the old man \"Grandfather\" with a soft voice.",
+        "explanationZh": "她用輕輕的聲音叫老人「爺爺」。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch17-l3-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "They lived together like a real family every day.",
+        "questionEn": "Did the old man feel alone now?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 一家人 → 不孤單 → 答 No",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l3-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Grandfather, I want to weave a cloth for you.\"",
+        "explanationZh": "「爺爺,我想為你織一塊布。」",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch17-l3-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What rule did she give the old man?",
+        "question": "What rule did she give?",
+        "options": [
+          "🚪 never look inside the room",
+          "🍚 always eat rice first",
+          "💤 sleep at noon",
+          "🎵 sing every night"
+        ],
+        "optionsZh": [
+          "不要看房間裡面",
+          "先吃飯",
+          "中午睡覺",
+          "每晚唱歌"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "never look → 不要看房間裡面。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l3-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"I promise. I will not look,\" said the old man.",
+        "explanationZh": "「我答應。我不會看,」老人說。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch17-l3-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The wooden loom began to click and clack all night.",
+        "question": "What sound came from the back room?",
+        "options": [
+          "quiet snoring",
+          "wooden clicking",
+          "soft singing",
+          "loud talking"
+        ],
+        "optionsZh": [
+          "輕輕的打呼",
+          "木頭的喀喀聲",
+          "輕輕的唱歌",
+          "大聲說話"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: wooden loom + click clack → wooden clicking。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l3-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The old man sat by the door. He listened all night.",
+        "explanationZh": "老人坐在門邊。他聽了整晚。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l3-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Why must she hide while she weaves? Why never look?...",
+        "explanationZh": "為什麼她織布時要躲起來?為什麼不能看?……",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch17-l4",
+    "chapter": 17,
+    "lessonInChapter": 4,
+    "segmentType": "main-story",
+    "storyId": "crane-gratitude",
+    "storyBeat": "商人來看布讚不絕口 — 老爺爺好奇了",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch17-l4-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "三天",
+            "right": "three days"
+          },
+          {
+            "left": "市場",
+            "right": "market"
+          },
+          {
+            "left": "商人",
+            "right": "merchant"
+          },
+          {
+            "left": "黃金",
+            "right": "gold"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 three days = 三天\n🔑 market = 市場\n🔑 merchant = 商人\n🔑 gold = 黃金\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l4-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "After three days, the young woman came out of the room.",
+        "explanationZh": "三天後,女孩走出房間。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch17-l4-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She held a soft white cloth. It shone like fresh snow.",
+        "question": "How did the cloth look?",
+        "options": [
+          "dirty and torn",
+          "bright and beautiful",
+          "dark and heavy",
+          "small and rough"
+        ],
+        "optionsZh": [
+          "髒又破",
+          "亮又漂亮",
+          "暗又重",
+          "小又粗"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: shone + like snow → bright and beautiful。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l4-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The old man took the cloth to the village market.",
+        "explanationZh": "老人把布拿到村子的市場。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch17-l4-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "A merchant saw the cloth and gasped at it.",
+        "questionEn": "Did the merchant like the cloth?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 倒抽氣 → 驚艷 → 喜歡 → 答 Yes",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l4-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"This is the finest cloth I have ever seen!\"",
+        "explanationZh": "「這是我看過最棒的布!」",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch17-l4-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What did the merchant pay?",
+        "question": "What did he pay?",
+        "options": [
+          "💰 a big bag of gold",
+          "🥕 some vegetables",
+          "📖 an old book",
+          "🐔 one small chicken"
+        ],
+        "optionsZh": [
+          "一大袋金子",
+          "一些蔬菜",
+          "一本舊書",
+          "一隻小雞"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "big bag of gold = 一大袋金子。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l4-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The old man went home with the heavy bag of gold.",
+        "explanationZh": "老人帶著重重的金子袋回家。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch17-l4-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "But his heart kept asking, \"Who is she really?\"",
+        "question": "How did the old man feel inside?",
+        "options": [
+          "proud and calm",
+          "curious and unsure",
+          "angry and tired",
+          "sleepy and sad"
+        ],
+        "optionsZh": [
+          "驕傲又冷靜",
+          "好奇又不確定",
+          "生氣又累",
+          "想睡又難過"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 心一直問問題 → 好奇又不確定。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l4-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "At night, the small back door stayed closed and quiet.",
+        "explanationZh": "晚上,小後門安安靜靜的關著。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l4-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"How can she weave such magic? Who is she really?...\"",
+        "explanationZh": "「她怎麼會織出這樣的奇蹟?她到底是誰?……」",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch17-l5",
+    "chapter": 17,
+    "lessonInChapter": 5,
+    "segmentType": "main-story",
+    "storyId": "crane-gratitude",
+    "storyBeat": "偷看的衝動越來越強 — 他會偷看嗎?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch17-l5-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "第二",
+            "right": "second"
+          },
+          {
+            "left": "富有",
+            "right": "rich"
+          },
+          {
+            "left": "好奇心",
+            "right": "curiosity"
+          },
+          {
+            "left": "偷看",
+            "right": "peek"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 second = 第二\n🔑 rich = 富有\n🔑 curiosity = 好奇心\n🔑 peek = 偷看\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l5-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The young woman wove a second cloth, then a third.",
+        "explanationZh": "女孩織了第二塊布,然後第三塊。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch17-l5-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Each cloth shone brighter than the one before.",
+        "question": "How were the new cloths?",
+        "options": [
+          "darker each time",
+          "brighter each time",
+          "smaller each time",
+          "rougher each time"
+        ],
+        "optionsZh": [
+          "一次比一次暗",
+          "一次比一次亮",
+          "一次比一次小",
+          "一次比一次粗"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: brighter than before → 一次比一次亮。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l5-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The old man's house was full of bags of gold.",
+        "explanationZh": "老人的家裡擺滿了一袋袋的金子。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch17-l5-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "He had many bags of gold. But his heart felt heavy.",
+        "questionEn": "Was the gold enough to make him happy?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 金子很多 但心沉重 → 不夠快樂 → 答 No",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l5-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Every night, he sat by the door of the back room.",
+        "explanationZh": "每天晚上,他坐在後面房間的門邊。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch17-l5-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What strange sound did he hear?",
+        "question": "What sound did he hear?",
+        "options": [
+          "🪶 feathers brushing wood",
+          "🎻 violin music",
+          "👶 a baby crying",
+          "🐕 a dog barking"
+        ],
+        "optionsZh": [
+          "羽毛擦過木頭",
+          "小提琴音樂",
+          "嬰兒在哭",
+          "狗在叫"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "feathers brushing wood = 羽毛擦過木頭。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l5-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His curiosity grew bigger and bigger every night.",
+        "explanationZh": "他的好奇心一晚比一晚大。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch17-l5-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Just one peek. She will never know,\" he thought.",
+        "question": "What was the old man telling himself?",
+        "options": [
+          "I must keep the promise",
+          "A small look will be safe",
+          "I should leave the house",
+          "She is just an ordinary girl"
+        ],
+        "optionsZh": [
+          "我要守承諾",
+          "看一下不會怎樣",
+          "我該離開家",
+          "她只是普通女孩"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: just one peek + never know → 看一下不會怎樣。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l5-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His hand moved slowly toward the door of the room.",
+        "explanationZh": "他的手慢慢的伸向房間的門。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l5-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Just one small peek,\" he thinks. \"She will never know...\"",
+        "explanationZh": "「只看一下下,」他想。「她不會知道……」",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch17-l6",
+    "chapter": 17,
+    "lessonInChapter": 6,
+    "segmentType": "main-story",
+    "storyId": "crane-gratitude",
+    "storyBeat": "看到鶴在拔自己的羽毛織布 — 她會留下嗎?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch17-l6-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "半夜",
+            "right": "midnight"
+          },
+          {
+            "left": "踮腳",
+            "right": "tiptoe"
+          },
+          {
+            "left": "羽毛",
+            "right": "feather"
+          },
+          {
+            "left": "對到眼",
+            "right": "eyes meet"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 midnight = 半夜\n🔑 tiptoe = 踮腳\n🔑 feather = 羽毛\n🔑 eyes meet = 對到眼\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l6-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One cold midnight, the old man could not wait.",
+        "explanationZh": "一個寒冷的半夜,老人忍不住了。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch17-l6-q3",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "He tiptoed very softly to the door of the small room.",
+        "questionEn": "Was the old man being quiet on purpose?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 踮腳 + 輕輕 → 故意安靜 → 答 Yes",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l6-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He slid the door open, just a little bit.",
+        "explanationZh": "他把門推開,只一點點。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch17-l6-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "There was no young woman. There was a white crane.",
+        "question": "Who was at the loom?",
+        "options": [
+          "the young woman",
+          "a tall white bird",
+          "an old hunter",
+          "no one at all"
+        ],
+        "optionsZh": [
+          "女孩",
+          "一隻高高的白色大鳥",
+          "老獵人",
+          "空無一人"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: white crane = white bird → 一隻高高的白色大鳥 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l6-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She was pulling her own feathers, one by one.",
+        "explanationZh": "她正在一根一根的拔自己的羽毛。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch17-l6-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What did the crane do with her feathers?",
+        "question": "What did she do with them?",
+        "options": [
+          "🧵 wove them into the cloth",
+          "🔥 burned them in fire",
+          "🍲 dropped them in soup",
+          "📦 put them in a box"
+        ],
+        "optionsZh": [
+          "織進布裡",
+          "燒掉",
+          "丟進湯裡",
+          "放進盒子"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "wove them into the cloth = 織進布裡。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l6-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Her body was thin and bare. She looked very tired.",
+        "explanationZh": "她的身體又瘦又光禿。她看起來很累。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch17-l6-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The old man's heart broke. He could not move.",
+        "question": "How did the old man feel?",
+        "options": [
+          "proud of her",
+          "shocked and very sad",
+          "angry and loud",
+          "sleepy and bored"
+        ],
+        "optionsZh": [
+          "以她為榮",
+          "震驚又很難過",
+          "生氣大叫",
+          "想睡又無聊"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: heart broke + 不能動 → 震驚又很難過。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l6-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The crane turned her head. Their eyes met in silence.",
+        "explanationZh": "鶴轉過頭。他們安靜的對到眼。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l6-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Their eyes meet in silence. Will she still stay?...",
+        "explanationZh": "他們安靜的對到眼。她還會留下嗎?……",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch17-l7",
+    "chapter": 17,
+    "lessonInChapter": 7,
+    "segmentType": "main-story",
+    "storyId": "crane-gratitude",
+    "storyBeat": "鶴飛走的天空 — 學到什麼?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch17-l7-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "眼淚",
+            "right": "tear"
+          },
+          {
+            "left": "鞠躬",
+            "right": "bow"
+          },
+          {
+            "left": "翅膀",
+            "right": "wing"
+          },
+          {
+            "left": "天空",
+            "right": "sky"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 tear = 眼淚\n🔑 bow = 鞠躬\n🔑 wing = 翅膀\n🔑 sky = 天空\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l7-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The next morning, the young woman stood at the door.",
+        "explanationZh": "第二天早上,女孩站在門口。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch17-l7-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Tears shone quietly in her soft, dark eyes.",
+        "question": "How did the young woman look?",
+        "options": [
+          "angry and shouting",
+          "sad with tears",
+          "happy and bright",
+          "bored and tired"
+        ],
+        "optionsZh": [
+          "生氣大叫",
+          "難過流淚",
+          "快樂明亮",
+          "無聊又累"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: tears + soft eyes → 難過流淚。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l7-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"I was the crane you saved in the snow,\" she said.",
+        "explanationZh": "「我就是你在雪裡救的那隻鶴,」她說。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch17-l7-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "\"But now you have seen me. I cannot stay.\"",
+        "questionEn": "Will the young woman stay with him?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: cannot stay → 不能留 → 答 No",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l7-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She bowed deeply. She walked slowly to the door.",
+        "explanationZh": "她深深的鞠躬。她慢慢的走向門口。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch17-l7-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What happened when she stepped outside?",
+        "question": "What happened outside?",
+        "options": [
+          "🕊️ she became a white crane",
+          "🌧️ it started to rain",
+          "🌳 a tree fell down",
+          "🐱 a cat ran by"
+        ],
+        "optionsZh": [
+          "她變成白鶴",
+          "開始下雨",
+          "樹倒下",
+          "貓跑過"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "走出去 → 變成白鶴 (magic transform A2 OK)。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l7-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She spread her big white wings in the cold air.",
+        "explanationZh": "她在冷空氣中展開大大的白翅膀。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch17-l7-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She flew up, up, up into the morning sky.",
+        "question": "Where did the crane go?",
+        "options": [
+          "into the warm house",
+          "far up into the sky",
+          "down into the snow",
+          "into the dark forest"
+        ],
+        "optionsZh": [
+          "進溫暖的家",
+          "飛上高高的天空",
+          "掉到雪裡",
+          "進黑森林"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: flew up + into sky → 飛上高高的天空 (非「死」, flew away)。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l7-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The old man held the soft white cloth close to his heart.",
+        "explanationZh": "老人把柔軟的白布緊緊抱在胸口。",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch17-l7-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The sky is empty. But what did we learn from her?...",
+        "explanationZh": "天空空了。但我們從她身上學到了什麼?……",
+        "tags": [
+          "story",
+          "ch17",
+          "crane-gratitude"
+        ]
+      }
+    ]
+  }
+]

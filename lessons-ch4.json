@@ -1,0 +1,1659 @@
+[
+  {
+    "id": "kt-ch4-l1",
+    "chapter": 4,
+    "lessonInChapter": 1,
+    "segmentType": "main-story",
+    "storyId": "camel-hump",
+    "storyBeat": "懶駱駝 — \"Humph\" 是什麼?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch4-l1-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "沙漠",
+            "right": "desert"
+          },
+          {
+            "left": "工作",
+            "right": "work"
+          },
+          {
+            "left": "動物",
+            "right": "animal"
+          },
+          {
+            "left": "世界",
+            "right": "world"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 desert = 沙漠\n🔑 work = 工作\n🔑 animal = 動物\n🔑 world = 世界\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l1-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Long ago, my dear, the world was new and shining.",
+        "explanationZh": "很久以前,親愛的聽眾,世界是嶄新而閃亮的。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l1-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "All the animals began to learn to help Man.",
+        "explanationZh": "所有動物都開始學著幫人類做事。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch4-l1-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The Camel lived alone in the middle of the wide sand.",
+        "questionEn": "Did the Camel live near other animals?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:獨自 + 沙漠中間 → 附近沒別人 → 答 No",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l1-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "You see, my dear, the Camel did nothing all day long.",
+        "explanationZh": "你看,親愛的,駱駝整天什麼也不做。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch4-l1-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "When others asked, the Camel only made a short rude noise.",
+        "question": "How did the Camel feel about the questions?",
+        "options": [
+          "eager to chat",
+          "bothered by them",
+          "sleepy and quiet",
+          "unsure what to say"
+        ],
+        "optionsZh": [
+          "很想聊天",
+          "覺得被打擾",
+          "想睡又安靜",
+          "不知道怎麼回"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:粗魯短聲 + 別人問就打發 → 他覺得被打擾 → 答 bothered。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l1-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He only said one thing: \"Humph!\" and turned away.",
+        "explanationZh": "他只說一個字:「Humph!」然後就轉開。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch4-l1-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "It was his lazy way to push the others off.",
+        "question": "Why did the Camel use that word?",
+        "options": [
+          "greeting a kind friend",
+          "keeping his peace alone",
+          "sharing an old song",
+          "thanking Man for food"
+        ],
+        "optionsZh": [
+          "打招呼問候朋友",
+          "想自己一個人安靜",
+          "分享老歌",
+          "感謝人類給食物"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:懶 + 推開別人 → 他想自己安靜不被打擾 → 答 keep peace alone。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l1-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The other animals all worked hard from sun-up to sun-down.",
+        "explanationZh": "其他動物從日出工作到日落。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch4-l1-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The other animals slowly stopped coming to see him.",
+        "question": "How might the Camel feel each evening?",
+        "options": [
+          "😶 quiet and apart",
+          "🥳 happy and busy",
+          "😡 angry at his friends",
+          "😴 ready for a long sleep"
+        ],
+        "optionsZh": [
+          "安靜又疏離",
+          "開心又忙碌",
+          "生朋友的氣",
+          "準備長眠"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理:大家漸漸不來 + 他總說 humph → 他變孤單疏離 → 答 quiet and apart。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l1-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "And all he ever said was that one short word: \"Humph!\"",
+        "explanationZh": "而他始終就只說這一個短短的字:「Humph!」……",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch4-l2",
+    "chapter": 4,
+    "lessonInChapter": 2,
+    "segmentType": "main-story",
+    "storyId": "camel-hump",
+    "storyBeat": "三個夥伴去找他 — 他們要告狀嗎?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch4-l2-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "馬",
+            "right": "horse"
+          },
+          {
+            "left": "狗",
+            "right": "dog"
+          },
+          {
+            "left": "牛",
+            "right": "ox"
+          },
+          {
+            "left": "答話",
+            "right": "answer"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 horse = 馬\n🔑 dog = 狗\n🔑 ox = 牛\n🔑 answer = 答話\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l2-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Now you see, my dear, the Horse came first to the Camel.",
+        "explanationZh": "現在你看,親愛的,馬第一個來找駱駝。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l2-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He said, \"Come and trot with me like the rest of us.\"",
+        "explanationZh": "他說:「跟我一起小跑,像我們其他人一樣。」",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch4-l2-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The Camel made the same short sound and turned his face away.",
+        "questionEn": "Did the Camel agree to help?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:同樣的短聲 + 把臉轉開 → 拒絕 → 答 No",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l2-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Then the Dog ran up with a bone in his teeth.",
+        "explanationZh": "然後狗叼著一根骨頭跑過來。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch4-l2-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The Dog wanted help to bring and pick up things for Man.",
+        "question": "What did the Dog ask the Camel to do?",
+        "options": [
+          "sleep with him",
+          "help with carrying jobs",
+          "eat his bone",
+          "leave the desert"
+        ],
+        "optionsZh": [
+          "跟他睡",
+          "幫忙搬東西",
+          "吃他骨頭",
+          "離開沙漠"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "帶東西回來 + 撿起來 → 幫忙搬。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l2-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Last of all, my dear, the Ox came slowly with his big head.",
+        "explanationZh": "最後,親愛的,牛慢慢地用他的大頭走來。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch4-l2-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Each time, the Camel gave them the same short rude reply.",
+        "question": "How did the Camel answer the three?",
+        "options": [
+          "kindly each time",
+          "in three different ways",
+          "the same rude way",
+          "with a long song"
+        ],
+        "optionsZh": [
+          "每次都親切",
+          "用三種不同方式",
+          "同樣粗魯的方式",
+          "用一首長歌"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "每次都同樣粗魯 → 同樣粗魯的方式。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l2-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The three friends looked at each other for a long moment.",
+        "explanationZh": "三個朋友互相看了很久。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch4-l2-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Three animals came one by one, and each one walked away with no help.",
+        "question": "What does this scene tell us about the team?",
+        "options": [
+          "they will soon need help from someone else",
+          "the Camel is a great team leader",
+          "the desert will be empty by morning",
+          "Man already knows about everything"
+        ],
+        "optionsZh": [
+          "他們很快要找別人幫忙",
+          "駱駝是好的領隊",
+          "沙漠到早上會空了",
+          "人類早就知道一切"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理:三人沒得到幫助 → 工作做不完 → 必須去找別人 → 答 need help from someone else。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump",
+          "gist"
+        ],
+        "subSkill": "gist"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l2-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Then, without a word, the three turned and walked off to find Man...",
+        "explanationZh": "然後三人一句話也沒說,轉身去找人類……",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch4-l3",
+    "chapter": 4,
+    "lessonInChapter": 3,
+    "segmentType": "main-story",
+    "storyId": "camel-hump",
+    "storyBeat": "Man 訂規矩 — 沙塵裡誰來了?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch4-l3-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "規矩",
+            "right": "rule"
+          },
+          {
+            "left": "累",
+            "right": "tired"
+          },
+          {
+            "left": "生氣",
+            "right": "angry"
+          },
+          {
+            "left": "雲",
+            "right": "cloud"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 rule = 規矩\n🔑 tired = 累\n🔑 angry = 生氣\n🔑 cloud = 雲\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l3-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "You can guess, my dear, where the three went to tell their story.",
+        "explanationZh": "你可以猜到,親愛的,三人去找誰說這件事。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l3-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They told Man that the Camel would not lift a finger.",
+        "explanationZh": "他們告訴人,駱駝連一根手指都不肯動。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch4-l3-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Man stood up at once and put both hands on his hips.",
+        "questionEn": "Was Man pleased with the news?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:馬上站起 + 雙手叉腰 → 嚴肅不高興 → 答 No",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l3-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Man said, \"Then you three must work double every day.\"",
+        "explanationZh": "人說:「那麼你們三個每天要做雙倍的工作。」",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch4-l3-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They had to do their own work and the Camel's work too.",
+        "question": "How would their days now feel?",
+        "options": [
+          "shorter than usual",
+          "much longer and harder",
+          "lighter and easier",
+          "full of free time"
+        ],
+        "optionsZh": [
+          "比平常更短",
+          "更長更累",
+          "更輕鬆",
+          "充滿空閒時間"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:自己的工作 + 駱駝的工作 → 時間不夠 → 答 longer and harder。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l3-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "And so the three grew very tired and very, very angry.",
+        "explanationZh": "於是三人變得非常累,而且非常非常生氣。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch4-l3-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Their backs hurt and they kicked the sand each evening.",
+        "question": "How did the three feel after many days?",
+        "options": [
+          "fresh and happy",
+          "sore and upset",
+          "rich and lucky",
+          "sleepy and bored"
+        ],
+        "optionsZh": [
+          "有精神又開心",
+          "痠痛又難過",
+          "富有又幸運",
+          "想睡又無聊"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "背痛 + 踢沙 → 痠痛又難過。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l3-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One evening, a tall pillar of dust came rolling across the sand.",
+        "explanationZh": "一個晚上,一根高高的沙柱從沙地上滾過來。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch4-l3-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What came toward them across the desert?",
+        "question": "What came toward them?",
+        "options": [
+          "☁️ a cloud of dust",
+          "🌧️ a rain cloud",
+          "🦅 a big eagle",
+          "🚂 a train"
+        ],
+        "optionsZh": [
+          "沙塵雲",
+          "雨雲",
+          "大老鷹",
+          "火車"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "滾來的沙柱 → 沙塵雲。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l3-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The dust rolled closer and closer, and inside it something moved...",
+        "explanationZh": "沙塵越滾越近,裡面有東西在動……",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch4-l4",
+    "chapter": 4,
+    "lessonInChapter": 4,
+    "segmentType": "main-story",
+    "storyId": "camel-hump",
+    "storyBeat": "Djinn 來了 — 他會幫誰?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch4-l4-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "精靈",
+            "right": "djinn"
+          },
+          {
+            "left": "故事",
+            "right": "story"
+          },
+          {
+            "left": "問",
+            "right": "ask"
+          },
+          {
+            "left": "幫忙",
+            "right": "help"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 djinn = 精靈\n🔑 story = 故事\n🔑 ask = 問\n🔑 help = 幫忙\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l4-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Now, O dear listener, the dust opened and a Djinn stepped out.",
+        "explanationZh": "親愛的聽眾,沙塵打開,一個精靈走了出來。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l4-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He looked at the three tired animals with kind eyes.",
+        "explanationZh": "他用親切的眼睛看著三個疲累的動物。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch4-l4-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The Djinn sat down low so he was the same height as the Dog.",
+        "questionEn": "Did the Djinn act in a friendly way?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理:坐低平視狗 → 友善 → 答 Yes",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l4-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The Horse and Dog and Ox shared every part of their story.",
+        "explanationZh": "馬、狗、牛把整件事都告訴他。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch4-l4-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They said one friend would not help and they did all his jobs.",
+        "question": "Why were they upset at the Camel?",
+        "options": [
+          "eating too much food",
+          "walking away from work",
+          "singing too loud",
+          "stealing from Man"
+        ],
+        "optionsZh": [
+          "吃太多",
+          "逃避工作",
+          "唱太大聲",
+          "偷人東西"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "不幫忙 + 別人做他的工 → 他逃避工作。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l4-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The Djinn rubbed his chin and thought for a long while.",
+        "explanationZh": "精靈搓著下巴,想了很久。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch4-l4-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He wanted to find out where this lazy friend was hiding.",
+        "question": "Why did the Djinn want to find that place?",
+        "options": [
+          "bringing him a meal",
+          "speaking with him face to face",
+          "walking him home for tea",
+          "singing him a new song"
+        ],
+        "optionsZh": [
+          "送他一頓飯",
+          "當面跟他談",
+          "帶他回家喝茶",
+          "教他唱新歌"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:聽完三人不平 + 想找懶夥伴 → 要去當面處理 → 答 talk face to face。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l4-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Where is this Camel?\" the Djinn asked in a deep, soft voice.",
+        "explanationZh": "「這隻駱駝在哪裡?」精靈用低沉柔軟的聲音問。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch4-l4-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "A new friend has come, has heard the three sad stories, and is ready to act.",
+        "question": "What is this scene mainly showing?",
+        "options": [
+          "the Djinn meeting the three and getting ready",
+          "the Camel learning to dance",
+          "Man cooking dinner for the animals",
+          "the Horse winning a race"
+        ],
+        "optionsZh": [
+          "精靈見三人並準備行動",
+          "駱駝學跳舞",
+          "人煮晚餐給動物",
+          "馬贏比賽"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "主旨 = 精靈見三人後準備出手。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump",
+          "gist"
+        ],
+        "subSkill": "gist"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l4-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"I will go to him myself,\" the Djinn said, and rose into the air...",
+        "explanationZh": "「我自己去找他,」精靈說著,飛上了天空……",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch4-l5",
+    "chapter": 4,
+    "lessonInChapter": 5,
+    "segmentType": "main-story",
+    "storyId": "camel-hump",
+    "storyBeat": "Djinn 警告 — 是什麼魔法?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch4-l5-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "朋友",
+            "right": "friend"
+          },
+          {
+            "left": "聽見",
+            "right": "hear"
+          },
+          {
+            "left": "坐下",
+            "right": "sit down"
+          },
+          {
+            "left": "魔法",
+            "right": "magic"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 friend = 朋友\n🔑 hear = 聽見\n🔑 sit down = 坐下\n🔑 magic = 魔法\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l5-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "You see, my dear, the Djinn flew to the Howling Desert.",
+        "explanationZh": "你看,親愛的,精靈飛到了 Howling Desert。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l5-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The Camel sat under a thorn tree, doing nothing at all.",
+        "explanationZh": "駱駝坐在一棵帶刺的樹下,什麼也沒做。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch4-l5-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The Djinn watched him for many slow, quiet minutes.",
+        "questionEn": "Did the Djinn act in a rushed way?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:好幾分鐘 + 靜靜 → 不急 → 答 No",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l5-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The Djinn said, \"My friend, I have heard a sad report.\"",
+        "explanationZh": "精靈說:「我的朋友,我聽到一個難過的報告。」",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch4-l5-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He spoke about a friend who would not lift his share.",
+        "question": "Who ended up paying for that choice?",
+        "options": [
+          "Man alone",
+          "the other animals",
+          "the Djinn himself",
+          "no one at all"
+        ],
+        "optionsZh": [
+          "只有人類",
+          "其他動物",
+          "精靈自己",
+          "完全沒人"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:他不抬自己的份 → 別人要替他扛 → 答 the other animals。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l5-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The Camel only said his one rude word once more: \"Humph!\"",
+        "explanationZh": "駱駝再次只說他那個粗魯的字:「Humph!」",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch4-l5-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He chose to stick with the same lazy reply once again.",
+        "question": "How did the Camel choose to act?",
+        "options": [
+          "agreed quickly",
+          "gave the same rude reply",
+          "ran far away",
+          "asked for food"
+        ],
+        "optionsZh": [
+          "很快答應",
+          "同樣的粗魯回答",
+          "逃跑",
+          "要食物"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "又是那個粗魯字 → 同樣的粗魯回答。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l5-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The Djinn sat down and placed his chin upon his hand.",
+        "explanationZh": "精靈坐下,把下巴擱在手上。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch4-l5-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What was the Djinn about to do?",
+        "question": "What was he about to do?",
+        "options": [
+          "✨ make a magic",
+          "🍞 cook some bread",
+          "🛏️ take a nap",
+          "📚 read a book"
+        ],
+        "optionsZh": [
+          "施魔法",
+          "煮麵包",
+          "睡午覺",
+          "讀書"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "坐下 + 下巴在手 → 進入施法姿勢。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l5-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Then, very slowly, the Djinn began to make a great Magic...",
+        "explanationZh": "然後,很慢很慢地,精靈開始施一個大魔法……",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch4-l6",
+    "chapter": 4,
+    "lessonInChapter": 6,
+    "segmentType": "main-story",
+    "storyId": "camel-hump",
+    "storyBeat": "駝峰出現 — 背還會停嗎?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch4-l6-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "平的",
+            "right": "flat"
+          },
+          {
+            "left": "背",
+            "right": "back"
+          },
+          {
+            "left": "後面",
+            "right": "behind"
+          },
+          {
+            "left": "駝峰",
+            "right": "hump"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 flat = 平的\n🔑 back = 背\n🔑 behind = 後面\n🔑 hump = 駝峰\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l6-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Now watch, my dear, what happened next under that hot sun.",
+        "explanationZh": "現在仔細看,親愛的,在那烈日下發生了什麼。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l6-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The Camel's back was flat and smooth, like a wide soft mat.",
+        "explanationZh": "駱駝的背平平滑滑,像一塊寬寬的軟墊。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch4-l6-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "You could place a small cup on his back and it would not slide.",
+        "questionEn": "Did the Camel already have a hump?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:杯子不滑 → 背平的 → 還沒駝峰 → 答 No",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l6-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The Camel said \"Humph!\" one more time, just to be rude.",
+        "explanationZh": "駱駝又說了一次「Humph!」,只是為了無禮。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch4-l6-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "And as he said that word, his flat back began to push up.",
+        "question": "What does this tell us about his rude word?",
+        "options": [
+          "no power at all",
+          "a force changing his body",
+          "something making the sun hotter",
+          "a call to other animals"
+        ],
+        "optionsZh": [
+          "完全沒影響",
+          "一股改變他身體的力量",
+          "讓太陽更熱的東西",
+          "對其他動物的呼叫"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:一說 humph 背就變 → 那個字觸發了身體變化 → 答 changing his body。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l6-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "It puffed up and puffed up and puffed up some more.",
+        "explanationZh": "它鼓起來、又鼓起來、又再鼓起來。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch4-l6-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "When he turned his head, a great soft shape was rising up behind.",
+        "question": "What did the Camel see behind him?",
+        "options": [
+          "his tail growing long",
+          "a new bump on his back",
+          "one green tree",
+          "two small birds"
+        ],
+        "optionsZh": [
+          "尾巴變長",
+          "背上一個新隆起",
+          "一棵綠樹",
+          "兩隻小鳥"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "又大又軟的形狀在背後 → 背上新隆起。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l6-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "It was, my dear, his very own big hump — and it stayed.",
+        "explanationZh": "親愛的,那是他自己的大駝峰 — 而且不會消失。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch4-l6-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The soft shape stayed on him, and it did not go down again.",
+        "question": "What might this new shape mean for his future?",
+        "options": [
+          "he can keep saying humph and stay free",
+          "he will carry something every single day",
+          "the other animals will give him gifts",
+          "Man will let him sleep all year"
+        ],
+        "optionsZh": [
+          "他能繼續說 humph 保持自由",
+          "他每天都要帶著一個東西",
+          "其他動物會送他禮物",
+          "人類會讓他睡一整年"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:形狀留在身上不消失 → 他從此天天帶著它 → 答 carry something every day。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ],
+        "subSkill": "inference"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l6-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "And the great hump rose higher and higher above his back...",
+        "explanationZh": "巨大的駝峰在他背上越長越高、越長越高……",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch4-l7",
+    "chapter": 4,
+    "lessonInChapter": 7,
+    "segmentType": "main-story",
+    "storyId": "camel-hump",
+    "storyBeat": "教訓 — 你背上的是什麼?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch4-l7-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "自己",
+            "right": "own"
+          },
+          {
+            "left": "帶來",
+            "right": "bring"
+          },
+          {
+            "left": "三天",
+            "right": "three days"
+          },
+          {
+            "left": "忘記",
+            "right": "forget"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 own = 自己\n🔑 bring = 帶來\n🔑 three days = 三天\n🔑 forget = 忘記\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l7-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Then the Djinn turned, my dear, and spoke clear and slow.",
+        "explanationZh": "然後精靈轉過身,親愛的,慢慢清楚地說。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l7-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He said, \"That hump is what you brought upon yourself.\"",
+        "explanationZh": "他說:「那個駝峰是你自己帶到自己身上的。」",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch4-l7-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The Camel hung his head and looked at the sand for a long time.",
+        "questionEn": "Did the Camel feel proud of his new hump?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:低頭看沙看很久 → 不是驕傲,是難過 → 答 No",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l7-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The Djinn said, \"Now you can work three days with no food.\"",
+        "explanationZh": "精靈說:「現在你可以三天不吃東西也能工作。」",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch4-l7-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The big shape stored what he needed to live on the road.",
+        "question": "Why was that helpful for the Camel?",
+        "options": [
+          "winning every race",
+          "traveling long without stopping",
+          "resting under shady trees",
+          "speaking with the wind"
+        ],
+        "optionsZh": [
+          "每場賽跑都贏",
+          "走很遠不用停",
+          "在樹蔭下休息",
+          "跟風說話"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:身上有存糧 → 路上不必常停下 → 答 travel long without stopping。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l7-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "And so, my dear, the Camel went off to find the other three.",
+        "explanationZh": "於是,親愛的,駱駝去找另外三個夥伴。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch4-l7-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "From that day, he carried bags across the sand with them.",
+        "question": "How did the Camel join the team at last?",
+        "options": [
+          "singing songs",
+          "carrying bags",
+          "hiding from work",
+          "giving small gifts"
+        ],
+        "optionsZh": [
+          "唱歌",
+          "搬東西",
+          "躲工作",
+          "送小禮物"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "搬袋子過沙 → 搬東西。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l7-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He still has that hump today, my dear, so he will never forget.",
+        "explanationZh": "他至今還有那個駝峰,親愛的,所以他永遠不會忘。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch4-l7-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The thing he tried to skip became the thing he carries every day.",
+        "question": "What does the hump teach us, my dear?",
+        "options": [
+          "skipping work makes life easier",
+          "work you skip can come back heavier",
+          "all camels are born with humps",
+          "magic is the best way to fix things"
+        ],
+        "optionsZh": [
+          "逃避工作會輕鬆",
+          "你逃的工作會變成包袱",
+          "所有駱駝天生有駝峰",
+          "魔法是最好辦法"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:他逃的工作 → 變成背上的駝峰 → 逃 = 包袱。",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ],
+        "subSkill": "inference"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch4-l7-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "And you, my dear — what hump might you be carrying tonight?",
+        "explanationZh": "而你,親愛的 — 今晚你背上又是什麼樣的駝峰呢?",
+        "tags": [
+          "story",
+          "ch4",
+          "camel-hump"
+        ]
+      }
+    ]
+  }
+]

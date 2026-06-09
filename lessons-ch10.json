@@ -1,0 +1,1661 @@
+[
+  {
+    "id": "kt-ch10-l1",
+    "chapter": 10,
+    "lessonInChapter": 1,
+    "segmentType": "main-story",
+    "storyId": "change",
+    "storyBeat": "后羿射日 + 娶嫦娥 — 神會盯著他們嗎?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch10-l1-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "太陽",
+            "right": "sun"
+          },
+          {
+            "left": "天空",
+            "right": "sky"
+          },
+          {
+            "left": "弓",
+            "right": "bow"
+          },
+          {
+            "left": "英雄",
+            "right": "hero"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 sun = 太陽\n🔑 sky = 天空\n🔑 bow = 弓\n🔑 hero = 英雄\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch10",
+          "change",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l1-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Long ago in old China, ten suns came up in the sky.",
+        "explanationZh": "很久以前,在古老的中國,天上有十個太陽。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l1-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The land was hot. The rivers dried up. The plants died.",
+        "explanationZh": "土地很熱。河水乾了。植物死了。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch10-l1-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "No rain fell. No green grass grew.",
+        "questionEn": "Was life easy for the people?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 沒雨沒綠草 → 生活很苦 → 答 No",
+        "tags": [
+          "story",
+          "ch10",
+          "change",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l1-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A strong young man named Hou Yi lifted his bow.",
+        "explanationZh": "一個強壯的年輕人,叫后羿,舉起了他的弓。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch10-l1-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He shot the suns one by one. Only one sun was left.",
+        "question": "What did Hou Yi do to the suns?",
+        "options": [
+          "painted them gold",
+          "made them go away",
+          "put them in a box",
+          "sent them rain"
+        ],
+        "optionsZh": [
+          "畫成金色",
+          "讓它們消失",
+          "放進盒子",
+          "送雨給它們"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: shot the suns → made them go away (paraphrase, anti-violence)。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l1-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The land was saved. The people loved Hou Yi.",
+        "explanationZh": "土地得救了。人民愛戴后羿。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch10-l1-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The Queen Mother said he could marry a sweet young woman.",
+        "question": "What did the Queen Mother say?",
+        "options": [
+          "live alone for life",
+          "take a kind wife",
+          "go away far away",
+          "fight more battles"
+        ],
+        "optionsZh": [
+          "一生獨居",
+          "娶善良妻子",
+          "遠走他鄉",
+          "繼續打仗"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: marry a sweet young woman → take a kind wife (paraphrase)。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l1-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He married Chang'e. They lived in a small house.",
+        "explanationZh": "他娶了嫦娥。他們住在一間小房子裡。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch10-l1-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did the people feel about Hou Yi?",
+        "question": "How did the people feel?",
+        "options": [
+          "💖 they loved him",
+          "😠 they were angry",
+          "😨 they ran away",
+          "😴 they were sleepy"
+        ],
+        "optionsZh": [
+          "他們愛他",
+          "生氣",
+          "逃走",
+          "想睡"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "人民愛戴他 → they loved him。",
+        "tags": [
+          "story",
+          "ch10",
+          "change",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l1-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The people loved them both. Would the gods watch them, too?",
+        "explanationZh": "人民都愛他們倆。神,會也盯著他們嗎?",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch10-l2",
+    "chapter": 10,
+    "lessonInChapter": 2,
+    "segmentType": "main-story",
+    "storyId": "change",
+    "storyBeat": "西王母給仙藥 — 仙藥是什麼?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch10-l2-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "山",
+            "right": "hill"
+          },
+          {
+            "left": "藥丸",
+            "right": "pill"
+          },
+          {
+            "left": "白色",
+            "right": "white"
+          },
+          {
+            "left": "藏",
+            "right": "hide"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 hill = 山\n🔑 pill = 藥丸\n🔑 white = 白色\n🔑 hide = 藏\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch10",
+          "change",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l2-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One spring day, the Queen Mother came down from her hill.",
+        "explanationZh": "一個春天,西王母從她的山上下來。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch10-l2-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She walked to Hou Yi's home. Her face was kind.",
+        "question": "Why did the Queen Mother come?",
+        "options": [
+          "picked a fight",
+          "paid him a visit",
+          "wanted his bow",
+          "sought his cat"
+        ],
+        "optionsZh": [
+          "挑戰打架",
+          "拜訪他",
+          "想拿他的弓",
+          "找他的貓"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: walked to his home + kind face → paid a visit (paraphrase)。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l2-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She gave Hou Yi a small white pill in her hand.",
+        "explanationZh": "她在手心裡,給了后羿一顆白色的小藥丸。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch10-l2-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The pill shone with a soft warm light.",
+        "questionEn": "Was the pill an ordinary pill?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 發光 → 不是普通藥 → 答 No",
+        "tags": [
+          "story",
+          "ch10",
+          "change",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l2-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"This pill can let one live for ever,\" she said.",
+        "explanationZh": "「這顆藥丸可以讓一個人永遠活著,」她說。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch10-l2-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What can the white pill do?",
+        "question": "What can the pill do?",
+        "options": [
+          "💤 make sleep",
+          "♾️ give long life",
+          "🌧️ bring rain",
+          "🔥 light a fire"
+        ],
+        "optionsZh": [
+          "讓人睡覺",
+          "給長生",
+          "降雨",
+          "點火"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "永遠活著 → give long life。",
+        "tags": [
+          "story",
+          "ch10",
+          "change",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l2-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"But only one of you can take it,\" she said.",
+        "explanationZh": "「但是,你們只有一個人可以吃,」她說。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch10-l2-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "There was just one pill. There were two of them.",
+        "question": "What was the problem with the pill?",
+        "options": [
+          "it was too small",
+          "they could not share",
+          "it tasted bad",
+          "it was too cold"
+        ],
+        "optionsZh": [
+          "太小",
+          "兩人不能分",
+          "不好吃",
+          "太冷"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 一顆藥 + 兩個人 → could not share (paraphrase)。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l2-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Hou Yi put the pill in a small box. He hid the box.",
+        "explanationZh": "后羿把藥丸放進一個小盒子。他把盒子藏起來。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l2-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The little white pill sat alone in its box. What was it really?",
+        "explanationZh": "小小的白藥丸,獨自躺在盒子裡。它,究竟是什麼?",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch10-l3",
+    "chapter": 10,
+    "lessonInChapter": 3,
+    "segmentType": "main-story",
+    "storyId": "change",
+    "storyBeat": "壞學生覬覦仙藥 — 誰會吃?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch10-l3-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "學生",
+            "right": "student"
+          },
+          {
+            "left": "心",
+            "right": "heart"
+          },
+          {
+            "left": "壞",
+            "right": "bad"
+          },
+          {
+            "left": "打獵",
+            "right": "hunt"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 student = 學生\n🔑 heart = 心\n🔑 bad = 壞\n🔑 hunt = 打獵\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch10",
+          "change",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l3-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Hou Yi had a student. The student was strong.",
+        "explanationZh": "后羿有一個學生。學生很強壯。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch10-l3-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "But his heart was bad. He thought only of himself.",
+        "question": "What kind of person was the student?",
+        "options": [
+          "kind and brave",
+          "mean and selfish",
+          "shy and quiet",
+          "old and sleepy"
+        ],
+        "optionsZh": [
+          "善良勇敢",
+          "又壞又自私",
+          "害羞安靜",
+          "年老想睡"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 心壞 + 只想自己 → mean and selfish (paraphrase)。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l3-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One day, the student saw Hou Yi open the box.",
+        "explanationZh": "一天,學生看見后羿打開盒子。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch10-l3-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The student's eyes locked on the white pill.",
+        "questionEn": "Did the student want the pill?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 眼睛緊盯 → 想要 → 答 Yes",
+        "tags": [
+          "story",
+          "ch10",
+          "change",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l3-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He wanted to live for ever, too. He waited.",
+        "explanationZh": "他也想要永遠活著。他等著。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch10-l3-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Day after day, he watched the door of the house.",
+        "question": "Why did the student watch the door?",
+        "options": [
+          "to clean it well",
+          "for the right moment",
+          "to fix it shut",
+          "to paint it red"
+        ],
+        "optionsZh": [
+          "打掃乾淨",
+          "等對的時機",
+          "修好它",
+          "漆紅"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 一直觀察 → 等對的時機 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l3-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One morning, Hou Yi went out to hunt.",
+        "explanationZh": "一個早上,后羿出去打獵。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch10-l3-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Where did Hou Yi go that morning?",
+        "question": "Where did Hou Yi go?",
+        "options": [
+          "🏠 stayed home",
+          "🏹 went hunting",
+          "⛰️ climbed the hill",
+          "🌊 went to the sea"
+        ],
+        "optionsZh": [
+          "留家",
+          "打獵",
+          "爬山",
+          "到海邊"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "打獵 → went hunting。",
+        "tags": [
+          "story",
+          "ch10",
+          "change",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l3-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Chang'e was home alone. The box was inside.",
+        "explanationZh": "嫦娥獨自在家。盒子就在屋內。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l3-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One day Hou Yi went out to hunt. Chang'e was home alone with the pill...",
+        "explanationZh": "一天后羿出去打獵。嫦娥獨自在家,身邊就是仙藥……",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch10-l4",
+    "chapter": 10,
+    "lessonInChapter": 4,
+    "segmentType": "main-story",
+    "storyId": "change",
+    "storyBeat": "壞學生拿刀威脅 — 她會吞下去嗎?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch10-l4-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "刀",
+            "right": "knife"
+          },
+          {
+            "left": "尖",
+            "right": "sharp"
+          },
+          {
+            "left": "房間",
+            "right": "room"
+          },
+          {
+            "left": "不動",
+            "right": "still"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 knife = 刀\n🔑 sharp = 尖\n🔑 room = 房間\n🔑 still = 不動\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch10",
+          "change",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l4-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The bad student walked into the house.",
+        "explanationZh": "壞學生走進屋子。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch10-l4-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He pulled out a long sharp knife from his coat.",
+        "question": "What did the student bring with him?",
+        "options": [
+          "food in a bag",
+          "one thin long blade",
+          "soft cloth and rope",
+          "books and paper"
+        ],
+        "optionsZh": [
+          "一袋食物",
+          "一把長薄刀",
+          "軟布和繩子",
+          "書和紙"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: long sharp knife → one thin long blade (paraphrase)。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l4-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Give me the pill!\" he said in a hard voice.",
+        "explanationZh": "「把藥丸給我!」他用嚴厲的聲音說。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch10-l4-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "His face was red. His hand did not shake.",
+        "questionEn": "Was the student playing a joke?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 臉紅 + 手穩 → 認真威脅 → 答 No",
+        "tags": [
+          "story",
+          "ch10",
+          "change",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l4-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Chang'e stood very still. She thought fast.",
+        "explanationZh": "嫦娥站著不動。她快速地想。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch10-l4-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "If she gave him the pill, he would hurt many people.",
+        "question": "Why could Chang'e not just give him the pill?",
+        "options": [
+          "it was too small",
+          "others would not be safe",
+          "her hand was tired",
+          "the box was locked"
+        ],
+        "optionsZh": [
+          "太小",
+          "別人會不安全",
+          "手累",
+          "盒子鎖了"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 他會傷害很多人 → others would not be safe (paraphrase)。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l4-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She opened the box. She picked up the small white pill.",
+        "explanationZh": "她打開盒子。她拿起白色的小藥丸。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch10-l4-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What did Chang'e hold in her hand?",
+        "question": "What did she hold?",
+        "options": [
+          "🍞 a piece of bread",
+          "💊 the white pill",
+          "📕 a small book",
+          "🗝️ a tiny key"
+        ],
+        "optionsZh": [
+          "一塊麵包",
+          "白藥丸",
+          "一本小書",
+          "小鑰匙"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "白藥丸 → the white pill。",
+        "tags": [
+          "story",
+          "ch10",
+          "change",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l4-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She held the pill close to her mouth.",
+        "explanationZh": "她把藥丸靠近嘴邊。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l4-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Chang'e looked at the pill. She picked it up. She held it close to her mouth...",
+        "explanationZh": "嫦娥看著藥丸。她拿了起來。她把藥丸靠到嘴邊……",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch10-l5",
+    "chapter": 10,
+    "lessonInChapter": 5,
+    "segmentType": "main-story",
+    "storyId": "change",
+    "storyBeat": "嫦娥吞藥 — 接下來會發生什麼?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch10-l5-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "吞",
+            "right": "swallow"
+          },
+          {
+            "left": "腳",
+            "right": "feet"
+          },
+          {
+            "left": "輕",
+            "right": "light"
+          },
+          {
+            "left": "浮",
+            "right": "float"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 swallow = 吞\n🔑 feet = 腳\n🔑 light = 輕\n🔑 float = 浮\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch10",
+          "change",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l5-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Chang'e put the pill in her mouth.",
+        "explanationZh": "嫦娥把藥丸放進嘴裡。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch10-l5-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She closed her eyes. She let it go down her throat.",
+        "question": "What did Chang'e do with the pill?",
+        "options": [
+          "kept it on her tongue",
+          "drank it down inside her",
+          "spit it out fast",
+          "gave it to a bird"
+        ],
+        "optionsZh": [
+          "含舌上",
+          "把它吞進身體",
+          "吐出來",
+          "給鳥"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: let it go down her throat → drank it down inside (paraphrase)。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l5-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Her feet left the floor. Her hair flew up.",
+        "explanationZh": "她的腳離開地板。她的頭髮飛起。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch10-l5-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Her long dress lifted in the air around her.",
+        "questionEn": "Did Chang'e stay on the ground?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 腳離地 + 裙飄起 → 沒留在地上 → 答 No",
+        "tags": [
+          "story",
+          "ch10",
+          "change",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l5-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The bad student stopped. His mouth fell open.",
+        "explanationZh": "壞學生停住。嘴巴張開。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch10-l5-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He could not move. He could not say a word.",
+        "question": "How did the student look?",
+        "options": [
+          "ready to fight",
+          "frozen with shock",
+          "happy and calm",
+          "fast asleep"
+        ],
+        "optionsZh": [
+          "準備打架",
+          "驚呆不動",
+          "開心冷靜",
+          "熟睡"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 不能動 + 說不出話 → frozen with shock (paraphrase)。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l5-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Chang'e began to float to the door.",
+        "explanationZh": "嫦娥開始浮向門口。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch10-l5-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did Chang'e's body feel now?",
+        "question": "How did her body feel?",
+        "options": [
+          "🪨 heavy as rock",
+          "🎈 light as air",
+          "🔥 hot as fire",
+          "🧊 cold as ice"
+        ],
+        "optionsZh": [
+          "像石頭重",
+          "像空氣輕",
+          "像火燙",
+          "像冰冷"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "腳離地 + 浮起 → 像空氣輕。",
+        "tags": [
+          "story",
+          "ch10",
+          "change",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l5-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Then to the window. Then to the open sky.",
+        "explanationZh": "然後到窗邊。然後到敞開的天空。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l5-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She began to float to the window. To the open sky. What now?",
+        "explanationZh": "她開始飄向窗邊。飄向敞開的天空。接下來呢?",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch10-l6",
+    "chapter": 10,
+    "lessonInChapter": 6,
+    "segmentType": "main-story",
+    "storyId": "change",
+    "storyBeat": "飛向月亮 — 后羿會怎麼樣?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch10-l6-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "雲",
+            "right": "cloud"
+          },
+          {
+            "left": "月亮",
+            "right": "moon"
+          },
+          {
+            "left": "亮",
+            "right": "bright"
+          },
+          {
+            "left": "太晚",
+            "right": "too late"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 cloud = 雲\n🔑 moon = 月亮\n🔑 bright = 亮\n🔑 too late = 太晚\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch10",
+          "change",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l6-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Chang'e went up and up into the sky.",
+        "explanationZh": "嫦娥越飛越高,進入天空。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch10-l6-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She went past the trees. Past the hills. Past the clouds.",
+        "question": "How did Chang'e move through the sky?",
+        "options": [
+          "sat in a boat",
+          "climbed higher and higher",
+          "hid in a cave",
+          "rode a fast horse"
+        ],
+        "optionsZh": [
+          "坐船",
+          "越升越高",
+          "躲山洞",
+          "騎快馬"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 飛過樹、山、雲 → climbed higher and higher (paraphrase)。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l6-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The moon was big and bright that night.",
+        "explanationZh": "那晚的月亮又大又亮。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch10-l6-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The moon felt closest to her. The stars felt far.",
+        "questionEn": "Was Chang'e flying toward the moon?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 月最近 + 星最遠 → 朝月飛 → 答 Yes",
+        "tags": [
+          "story",
+          "ch10",
+          "change",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l6-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She landed on the cold grey ground of the moon.",
+        "explanationZh": "她降落在月亮冰冷灰白的地上。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch10-l6-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What did the moon's ground feel like?",
+        "question": "How did the moon feel?",
+        "options": [
+          "🔥 hot and dry",
+          "🧊 cold and grey",
+          "🌱 soft and green",
+          "💧 wet and warm"
+        ],
+        "optionsZh": [
+          "熱又乾",
+          "冷又灰",
+          "軟又綠",
+          "濕又暖"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "又冷又灰 → cold and grey。",
+        "tags": [
+          "story",
+          "ch10",
+          "change",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l6-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "From up there, she could still see her home far below.",
+        "explanationZh": "從那上面,她還能看見遠遠下面的家。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch10-l6-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Hou Yi was running back home. He looked up at the sky.",
+        "question": "How did Hou Yi feel when he saw her?",
+        "options": [
+          "proud and tall",
+          "sad — he missed his chance",
+          "angry at the moon",
+          "sleepy and slow"
+        ],
+        "optionsZh": [
+          "驕傲",
+          "難過 — 來不及了",
+          "對月生氣",
+          "想睡"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 跑回家 + 抬頭看天 + 嫦娥已在月 → missed his chance (paraphrase)。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l6-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He was too late. She was already on the moon.",
+        "explanationZh": "他太晚了。她已經在月亮上。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l6-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Hou Yi was running back home. He looked up at the sky. He was too late.",
+        "explanationZh": "后羿正跑回家。他抬頭望天。已經來不及了。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch10-l7",
+    "chapter": 10,
+    "lessonInChapter": 7,
+    "segmentType": "main-story",
+    "storyId": "change",
+    "storyBeat": "玉兔陪伴 + 中秋月圓 — 你想念的人是誰?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch10-l7-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "兔子",
+            "right": "rabbit"
+          },
+          {
+            "left": "朋友",
+            "right": "friend"
+          },
+          {
+            "left": "秋天",
+            "right": "autumn"
+          },
+          {
+            "left": "想念",
+            "right": "miss"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 rabbit = 兔子\n🔑 friend = 朋友\n🔑 autumn = 秋天\n🔑 miss = 想念\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch10",
+          "change",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l7-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "On the moon, Chang'e was not alone.",
+        "explanationZh": "在月亮上,嫦娥並不孤單。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch10-l7-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A small white rabbit lived there. It came to her.",
+        "question": "Who did Chang'e meet on the moon?",
+        "options": [
+          "one sleeping bear",
+          "tiny soft creature",
+          "tall strong man",
+          "flying golden fish"
+        ],
+        "optionsZh": [
+          "熟睡的熊",
+          "小巧柔軟的小動物",
+          "又高又壯的男人",
+          "會飛的金魚"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: small white rabbit → tiny soft creature (paraphrase)。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l7-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The rabbit was soft and warm. It sat next to her.",
+        "explanationZh": "兔子柔軟又溫暖。牠坐在她身邊。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch10-l7-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "It put its little nose on her hand.",
+        "questionEn": "Did the rabbit become her friend?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 鼻子靠手 → 親近 → 朋友 → 答 Yes",
+        "tags": [
+          "story",
+          "ch10",
+          "change",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l7-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Down on earth, Hou Yi looked up every night.",
+        "explanationZh": "在地上,后羿每晚都抬頭看。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch10-l7-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He put out her favourite food in the yard each night.",
+        "question": "Why did Hou Yi put food in the yard?",
+        "options": [
+          "for the cat to eat",
+          "to show he still loved her",
+          "to feed the moon",
+          "to call the rain"
+        ],
+        "optionsZh": [
+          "給貓吃",
+          "表示他還愛她",
+          "餵月亮",
+          "招雨"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 把她愛吃的擺出來 → 表示他還愛她 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l7-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Once each year, in autumn, the moon is full and round.",
+        "explanationZh": "每年一次,在秋天,月亮又圓又滿。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch10-l7-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "When is the moon full and round each year?",
+        "question": "When?",
+        "options": [
+          "🌸 in spring",
+          "🍂 in autumn",
+          "☀️ in summer",
+          "❄️ in winter"
+        ],
+        "optionsZh": [
+          "春天",
+          "秋天",
+          "夏天",
+          "冬天"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "秋天 → in autumn。",
+        "tags": [
+          "story",
+          "ch10",
+          "change",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l7-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "People look up. They see the moon. They miss the ones they love.",
+        "explanationZh": "人們抬頭看。他們看見月亮。他們想念心愛的人。",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch10-l7-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Once each year, the moon is full and round. People look up. They miss the ones they love...",
+        "explanationZh": "每年一次,月亮又圓又滿。人們抬頭。他們想念心愛的人……",
+        "tags": [
+          "story",
+          "ch10",
+          "change"
+        ]
+      }
+    ]
+  }
+]

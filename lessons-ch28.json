@@ -1,0 +1,1500 @@
+[
+  {
+    "id": "kt-ch28-l1",
+    "chapter": 28,
+    "lessonInChapter": 1,
+    "segmentType": "main-story",
+    "storyId": "zhuge-liang-strategems",
+    "storyBeat": "Liu Bei 是好領袖 — 他需要一位有智慧的朋友",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch28-l1-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          { "left": "領袖", "right": "leader" },
+          { "left": "善良", "right": "kind" },
+          { "left": "需要", "right": "need" },
+          { "left": "聰明", "right": "smart" }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 leader = 領袖\n🔑 kind = 善良\n🔑 need = 需要\n🔑 smart = 聰明\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": ["story", "ch28", "zhuge", "vocab", "intro"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l1-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Long ago in China, there lived a kind leader named Liu Bei.",
+        "explanationZh": "很久以前在中國,住著一位善良的領袖,叫劉備。",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch28-l1-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Liu Bei was warm to his soldiers and gentle with the village people.",
+        "question": "How did Liu Bei treat the people around him?",
+        "options": [
+          "with cold harsh words",
+          "with warmth and care",
+          "with no words at all",
+          "with loud orders"
+        ],
+        "optionsZh": [
+          "用冷酷嚴厲的話",
+          "用溫暖和關心",
+          "完全不說話",
+          "用大聲的命令"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: warm + gentle → 用溫暖和關心 (paraphrase)。",
+        "tags": ["story", "ch28", "zhuge"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch28-l1-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "grandma",
+        "sentence": "But fighting and trouble filled the land in those years.",
+        "questionEn": "Were times peaceful when Liu Bei lived?",
+        "options": ["Yes", "No"],
+        "correctIndex": 1,
+        "explanationZh": "推理: 戰亂 + 麻煩 → 不和平 → 答 No",
+        "tags": ["story", "ch28", "zhuge", "inference"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l1-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Liu Bei had two brave brothers, but no one with a clever mind.",
+        "explanationZh": "劉備有兩個勇敢的兄弟,但沒有一個有聰明頭腦的人。",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch28-l1-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Brave hearts could fight, but a smart head was needed to plan.",
+        "question": "What did Liu Bei's team still need?",
+        "options": [
+          "more swords and shields",
+          "a person with a clever head",
+          "a faster horse",
+          "bigger warm coats"
+        ],
+        "optionsZh": [
+          "更多劍和盾",
+          "一個有聰明頭腦的人",
+          "更快的馬",
+          "更大的暖外套"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: smart head was needed → 有聰明頭腦的人 (paraphrase)。",
+        "tags": ["story", "ch28", "zhuge"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l1-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "He sat by his window at night, thinking about the years ahead.",
+        "explanationZh": "他晚上坐在窗邊,想著未來的日子。",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch28-l1-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "\"I must find a wise friend, or our work will fail.\"",
+        "question": "What did Liu Bei decide he must do?",
+        "options": [
+          "give up and go home",
+          "look for a wise friend",
+          "sell all his swords",
+          "sleep for many days"
+        ],
+        "optionsZh": [
+          "放棄回家",
+          "去找一位有智慧的朋友",
+          "賣掉所有的劍",
+          "睡很多天"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: must find a wise friend → 去找有智慧的朋友 (paraphrase)。",
+        "tags": ["story", "ch28", "zhuge"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch28-l1-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "How did Liu Bei feel about his future?",
+        "question": "How did Liu Bei feel?",
+        "options": [
+          "😴 sleepy and lazy",
+          "🤔 worried but hopeful",
+          "😡 angry at everyone",
+          "🎉 carefree and loud"
+        ],
+        "optionsZh": [
+          "想睡又懶",
+          "擔心但有希望",
+          "對每個人生氣",
+          "無憂又大聲"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "戰亂年代 + 想找智慧朋友 → 擔心但有希望。",
+        "tags": ["story", "ch28", "zhuge", "hook"],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l1-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "He shared his worry with the two brothers by the warm fire.",
+        "explanationZh": "他在暖暖的火堆邊,把擔心跟兩個兄弟說。",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch28-l1-q11",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "grandma",
+        "sentence": "Liu Bei had brave fighters, but he was missing one important kind of help.",
+        "question": "What is this scene mainly showing?",
+        "options": [
+          "Liu Bei needs a wise mind on his team",
+          "Liu Bei wants to sell his sword",
+          "Liu Bei plans a big party",
+          "Liu Bei goes back to farming"
+        ],
+        "optionsZh": [
+          "劉備需要一個有智慧的人加入",
+          "劉備想賣劍",
+          "劉備計畫大派對",
+          "劉備回去種田"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "主旨 = 劉備需要一個有智慧的人。",
+        "tags": ["story", "ch28", "zhuge", "gist"],
+        "subSkill": "gist"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l1-q12",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "\"Tomorrow,\" he said softly, \"we begin the search...\"",
+        "explanationZh": "「明天,」他輕聲說,「我們開始找……」",
+        "tags": ["story", "ch28", "zhuge"]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch28-l2",
+    "chapter": 28,
+    "lessonInChapter": 2,
+    "segmentType": "main-story",
+    "storyId": "zhuge-liang-strategems",
+    "storyBeat": "村人指路 — Zhuge Liang 住在山上的小屋",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch28-l2-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          { "left": "村人", "right": "villager" },
+          { "left": "山", "right": "hill" },
+          { "left": "小屋", "right": "small house" },
+          { "left": "靜的", "right": "quiet" }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 villager = 村人\n🔑 hill = 山\n🔑 small house = 小屋\n🔑 quiet = 靜的\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": ["story", "ch28", "zhuge", "vocab", "intro"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l2-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Liu Bei asked the villagers about smart people in the land.",
+        "explanationZh": "劉備問村人,這片土地上有哪些聰明的人。",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch28-l2-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "An old man stepped forward and tapped his walking stick.",
+        "question": "Who answered Liu Bei first?",
+        "options": [
+          "a young child",
+          "an old man with a stick",
+          "a passing soldier",
+          "a busy cook"
+        ],
+        "optionsZh": [
+          "一個小孩",
+          "一個拿拐杖的老人",
+          "路過的士兵",
+          "忙碌的廚師"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: old man + walking stick → 拿拐杖的老人 (paraphrase)。",
+        "tags": ["story", "ch28", "zhuge"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch28-l2-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "grandma",
+        "sentence": "The old man's eyes shone when he heard the name Zhuge Liang.",
+        "questionEn": "Did the old man know about Zhuge Liang?",
+        "options": ["Yes", "No"],
+        "correctIndex": 0,
+        "explanationZh": "推理: 眼睛發亮 → 認識他 → 答 Yes",
+        "tags": ["story", "ch28", "zhuge", "inference"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l2-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "\"Zhuge Liang is the smartest man in all the hills,\" he said.",
+        "explanationZh": "「諸葛亮是這些山裡最聰明的人。」他說。",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch28-l2-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "\"He lives in a small house far up the green hill.\"",
+        "question": "Where does Zhuge Liang live?",
+        "options": [
+          "in a busy town market",
+          "in a small house on a hill",
+          "inside the king's palace",
+          "by the river in a boat"
+        ],
+        "optionsZh": [
+          "在熱鬧的市集",
+          "在山上的小屋",
+          "在國王的皇宮裡",
+          "在河邊的船上"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: small house, up the green hill → 山上的小屋 (paraphrase)。",
+        "tags": ["story", "ch28", "zhuge"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l2-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "\"He reads many books and grows his own food there.\"",
+        "explanationZh": "「他在那裡讀很多書,自己種食物。」",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch28-l2-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Liu Bei's eyes lit up at every word the old man said.",
+        "question": "How did Liu Bei feel about the news?",
+        "options": [
+          "tired and bored",
+          "excited and full of hope",
+          "afraid and shaking",
+          "angry and red"
+        ],
+        "optionsZh": [
+          "累又無聊",
+          "興奮又充滿希望",
+          "害怕又發抖",
+          "生氣又臉紅"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: eyes lit up → 興奮又充滿希望 (paraphrase)。",
+        "tags": ["story", "ch28", "zhuge"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l2-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "He thanked the old man with a deep bow and a soft voice.",
+        "explanationZh": "他深深一鞠躬,用輕柔的聲音謝謝老人。",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch28-l2-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "What did Liu Bei plan to do next?",
+        "question": "What was his next step?",
+        "options": [
+          "🏠 go straight to bed",
+          "⛰️ climb the hill to the house",
+          "🛒 visit the busy market",
+          "📜 write a long letter"
+        ],
+        "optionsZh": [
+          "直接去睡覺",
+          "爬山到那間小屋",
+          "去熱鬧市集",
+          "寫一封長信"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "知道地點 → 要爬山去拜訪。",
+        "tags": ["story", "ch28", "zhuge", "hook"],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch28-l2-q11",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "grandma",
+        "sentence": "The old man told Liu Bei that the wisest man he knew was hiding in the quiet hills.",
+        "question": "What is this scene mainly showing?",
+        "options": [
+          "Liu Bei finds out where the wise man lives",
+          "Liu Bei loses his map",
+          "Liu Bei sells his sword",
+          "Liu Bei meets a king"
+        ],
+        "optionsZh": [
+          "劉備知道智者住在哪裡",
+          "劉備弄丟地圖",
+          "劉備賣劍",
+          "劉備見國王"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "主旨 = 劉備知道智者住在哪裡。",
+        "tags": ["story", "ch28", "zhuge", "gist"],
+        "subSkill": "gist"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l2-q12",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "He called his brothers, and the three set off the next morning...",
+        "explanationZh": "他叫上兩個兄弟,三人第二天早上出發……",
+        "tags": ["story", "ch28", "zhuge"]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch28-l3",
+    "chapter": 28,
+    "lessonInChapter": 3,
+    "segmentType": "main-story",
+    "storyId": "zhuge-liang-strategems",
+    "storyBeat": "第一次拜訪 — 小屋的門關著, Zhuge Liang 不在家",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch28-l3-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          { "left": "拜訪", "right": "visit" },
+          { "left": "門", "right": "door" },
+          { "left": "敲", "right": "knock" },
+          { "left": "走開", "right": "away" }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 visit = 拜訪\n🔑 door = 門\n🔑 knock = 敲\n🔑 away = 走開\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": ["story", "ch28", "zhuge", "vocab", "intro"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l3-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "The three rode their horses up the green hill in the spring sun.",
+        "explanationZh": "三人騎馬,在春日的陽光下走上綠綠的山。",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch28-l3-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "They saw a small wooden house with bamboo around it.",
+        "question": "What was around Zhuge Liang's house?",
+        "options": [
+          "tall thick walls",
+          "green bamboo plants",
+          "a deep dark pond",
+          "many noisy people"
+        ],
+        "optionsZh": [
+          "高厚的牆",
+          "綠色的竹子",
+          "又深又黑的池塘",
+          "很多吵的人"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: bamboo around it → 綠色的竹子 (paraphrase)。",
+        "tags": ["story", "ch28", "zhuge"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l3-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Liu Bei stepped down from his horse and walked to the door.",
+        "explanationZh": "劉備下馬,走到門前。",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch28-l3-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "He knocked three times, soft and slow, with the back of his hand.",
+        "question": "How did Liu Bei knock on the door?",
+        "options": [
+          "loud and fast",
+          "soft and slow",
+          "with his foot",
+          "with a heavy stone"
+        ],
+        "optionsZh": [
+          "大聲又快",
+          "輕輕又慢",
+          "用腳",
+          "用大石頭"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: soft and slow → 輕輕又慢 (paraphrase)。",
+        "tags": ["story", "ch28", "zhuge"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch28-l3-q6",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "grandma",
+        "sentence": "A young boy opened the door and looked up at Liu Bei.",
+        "questionEn": "Was Zhuge Liang the one who opened the door?",
+        "options": ["Yes", "No"],
+        "correctIndex": 1,
+        "explanationZh": "推理: 是男孩開門 → 不是諸葛亮 → 答 No",
+        "tags": ["story", "ch28", "zhuge", "inference"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l3-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "\"My teacher is away today. He has gone to see a friend.\"",
+        "explanationZh": "「我老師今天不在,他去看朋友了。」",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch28-l3-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Liu Bei kept his soft smile, even though his heart felt heavy.",
+        "question": "How did Liu Bei show his feelings?",
+        "options": [
+          "he shouted at the boy",
+          "he hid them behind a smile",
+          "he cried out loud",
+          "he turned and ran"
+        ],
+        "optionsZh": [
+          "對男孩大喊",
+          "用微笑藏起來",
+          "大聲哭出來",
+          "轉身就跑"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: kept soft smile, heart felt heavy → 用微笑藏感受 (paraphrase)。",
+        "tags": ["story", "ch28", "zhuge"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l3-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "\"Please tell him Liu Bei came today,\" he said with a bow.",
+        "explanationZh": "「請告訴他,劉備今天來過。」他鞠躬說。",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch28-l3-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "How did Liu Bei feel as he rode back down?",
+        "question": "How did Liu Bei feel?",
+        "options": [
+          "🎉 very happy",
+          "😞 a little sad",
+          "😡 very angry",
+          "😴 ready to sleep"
+        ],
+        "optionsZh": [
+          "非常開心",
+          "有一點難過",
+          "非常生氣",
+          "想睡覺"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "白跑一趟見不到人 → 有一點難過。",
+        "tags": ["story", "ch28", "zhuge", "hook"],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch28-l3-q11",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "grandma",
+        "sentence": "Liu Bei climbed the hill, but the wise man's door opened to a boy, not to him.",
+        "question": "What is this scene mainly showing?",
+        "options": [
+          "the first visit ends without a meeting",
+          "Liu Bei moves into the house",
+          "Liu Bei meets the wise man at last",
+          "the boy becomes Liu Bei's teacher"
+        ],
+        "optionsZh": [
+          "第一次拜訪沒見到人",
+          "劉備搬進小屋",
+          "劉備終於見到智者",
+          "男孩變成劉備老師"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "主旨 = 第一次拜訪沒見到人。",
+        "tags": ["story", "ch28", "zhuge", "gist"],
+        "subSkill": "gist"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l3-q12",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "He looked back at the small house and said, \"I will come again...\"",
+        "explanationZh": "他回頭看那間小屋,說:「我會再來……」",
+        "tags": ["story", "ch28", "zhuge"]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch28-l4",
+    "chapter": 28,
+    "lessonInChapter": 4,
+    "segmentType": "main-story",
+    "storyId": "zhuge-liang-strategems",
+    "storyBeat": "第二次拜訪 — 雪天再去, 還是不在家",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch28-l4-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          { "left": "雪", "right": "snow" },
+          { "left": "冷", "right": "cold" },
+          { "left": "再", "right": "again" },
+          { "left": "等", "right": "wait" }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 snow = 雪\n🔑 cold = 冷\n🔑 again = 再\n🔑 wait = 等\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": ["story", "ch28", "zhuge", "vocab", "intro"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l4-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Winter came, and white snow covered every road and tree.",
+        "explanationZh": "冬天來了,白雪蓋住每條路和每棵樹。",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch28-l4-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Liu Bei said, \"Today we will visit the small house again.\"",
+        "question": "What did Liu Bei plan to do that day?",
+        "options": [
+          "stay inside and rest",
+          "go to the small house once more",
+          "buy new winter boots",
+          "wait for the spring"
+        ],
+        "optionsZh": [
+          "待在家休息",
+          "再去一次小屋",
+          "買新冬靴",
+          "等到春天"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: visit small house again → 再去一次小屋 (paraphrase)。",
+        "tags": ["story", "ch28", "zhuge"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch28-l4-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "grandma",
+        "sentence": "The brothers told him it was too cold and too far to ride that day.",
+        "questionEn": "Did the brothers want to go with him?",
+        "options": ["Yes", "No"],
+        "correctIndex": 1,
+        "explanationZh": "推理: 嫌冷又遠 → 不想去 → 答 No",
+        "tags": ["story", "ch28", "zhuge", "inference"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l4-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "But Liu Bei put on his thick coat and got on his horse anyway.",
+        "explanationZh": "但劉備穿上厚外套,還是上馬出發。",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch28-l4-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Snow fell on his hat and the horse's mane all the way up the hill.",
+        "question": "What was the weather like on the trip?",
+        "options": [
+          "warm and sunny",
+          "snowy and cold",
+          "rainy and windy",
+          "dry and dusty"
+        ],
+        "optionsZh": [
+          "溫暖晴朗",
+          "下雪又冷",
+          "下雨又有風",
+          "乾燥多塵"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: snow fell + thick coat → 下雪又冷 (paraphrase)。",
+        "tags": ["story", "ch28", "zhuge"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l4-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "He knocked on the small door, with snow still on his shoulders.",
+        "explanationZh": "他敲了敲小門,肩膀上還有雪。",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch28-l4-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "The same young boy opened the door and gave a small bow.",
+        "question": "Who opened the door this time?",
+        "options": [
+          "Zhuge Liang himself",
+          "the same boy as before",
+          "an old grey cat",
+          "no one at all"
+        ],
+        "optionsZh": [
+          "諸葛亮本人",
+          "同一個男孩",
+          "一隻灰色老貓",
+          "沒人"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: same young boy → 同一個男孩 (paraphrase)。",
+        "tags": ["story", "ch28", "zhuge"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l4-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "\"My teacher is still away. He went out before the snow began.\"",
+        "explanationZh": "「我老師還是不在,他在下雪前就出門了。」",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch28-l4-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "How did Liu Bei look as he rode home in the snow?",
+        "question": "How did he look?",
+        "options": [
+          "😄 carefree",
+          "😔 quiet and tired",
+          "😡 red with rage",
+          "🤩 full of party joy"
+        ],
+        "optionsZh": [
+          "無憂無慮",
+          "安靜又疲倦",
+          "氣得臉紅",
+          "派對般狂喜"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "雪天白跑兩次 → 安靜又疲倦。",
+        "tags": ["story", "ch28", "zhuge", "hook"],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch28-l4-q11",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "grandma",
+        "sentence": "Even in deep snow, Liu Bei made the long ride, but the wise man was still not there.",
+        "question": "What is this scene mainly showing?",
+        "options": [
+          "the second visit also fails",
+          "Liu Bei moves to the hill",
+          "Zhuge Liang becomes his friend",
+          "the brothers go alone"
+        ],
+        "optionsZh": [
+          "第二次拜訪也失敗",
+          "劉備搬到山上",
+          "諸葛亮變成他朋友",
+          "兄弟自己去"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "主旨 = 第二次拜訪也失敗。",
+        "tags": ["story", "ch28", "zhuge", "gist"],
+        "subSkill": "gist"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l4-q12",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "On the cold ride home, he made a quiet promise to try once more...",
+        "explanationZh": "在寒冷的回程路上,他默默承諾再試一次……",
+        "tags": ["story", "ch28", "zhuge"]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch28-l5",
+    "chapter": 28,
+    "lessonInChapter": 5,
+    "segmentType": "main-story",
+    "storyId": "zhuge-liang-strategems",
+    "storyBeat": "兄弟說「他只是農夫」— 劉備堅持要第三次",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch28-l5-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          { "left": "兄弟", "right": "brother" },
+          { "left": "農夫", "right": "farmer" },
+          { "left": "只是", "right": "just" },
+          { "left": "為什麼", "right": "why" }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 brother = 兄弟\n🔑 farmer = 農夫\n🔑 just = 只是\n🔑 why = 為什麼\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": ["story", "ch28", "zhuge", "vocab", "intro"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l5-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Spring came around again, and Liu Bei put on his riding boots.",
+        "explanationZh": "春天又來了,劉備穿上騎馬的靴子。",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch28-l5-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "\"I will go up the hill one more time,\" he said to his brothers.",
+        "question": "What did Liu Bei tell his brothers?",
+        "options": [
+          "he was giving up",
+          "he would try a third visit",
+          "he was moving to a new town",
+          "he had a new plan to fight"
+        ],
+        "optionsZh": [
+          "他要放棄",
+          "他要再去第三次",
+          "他要搬到新城",
+          "他有新作戰計畫"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: go up the hill one more time → 再去第三次 (paraphrase)。",
+        "tags": ["story", "ch28", "zhuge"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch28-l5-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "grandma",
+        "sentence": "His big brother folded his arms and turned away with a hard face.",
+        "questionEn": "Was the brother happy about the third trip?",
+        "options": ["Yes", "No"],
+        "correctIndex": 1,
+        "explanationZh": "推理: 雙手交叉 + 板臉轉身 → 不開心 → 答 No",
+        "tags": ["story", "ch28", "zhuge", "inference"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l5-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "\"Why try again? He is just a farmer who reads books.\"",
+        "explanationZh": "「為什麼還要再去?他只是個讀書的農夫。」",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch28-l5-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "The brother said the wise man was not worth two visits, much less three.",
+        "question": "What did the brother think of Zhuge Liang?",
+        "options": [
+          "he was the smartest man",
+          "he was not worth so many visits",
+          "he was a dear old friend",
+          "he was sick and weak"
+        ],
+        "optionsZh": [
+          "他是最聰明的人",
+          "他不值得去那麼多次",
+          "他是老朋友",
+          "他生病又虛弱"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: not worth two visits → 不值得去那麼多次 (paraphrase)。",
+        "tags": ["story", "ch28", "zhuge"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l5-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Liu Bei put a soft hand on his brother's shoulder.",
+        "explanationZh": "劉備輕輕把手放在兄弟肩上。",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch28-l5-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "\"A good leader shows that he honors the wise, not the other way.\"",
+        "question": "What did Liu Bei believe about good leaders?",
+        "options": [
+          "they should win every fight",
+          "they should show honor to wise people",
+          "they should never ride a horse",
+          "they should keep all gold for themselves"
+        ],
+        "optionsZh": [
+          "每場仗都要贏",
+          "要對有智慧的人表現尊重",
+          "永遠不騎馬",
+          "金子全留給自己"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: leader honors the wise → 對有智慧的人表現尊重 (paraphrase)。",
+        "tags": ["story", "ch28", "zhuge"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l5-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "The brothers looked at each other and slowly nodded their heads.",
+        "explanationZh": "兩個兄弟互看一眼,慢慢點點頭。",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch28-l5-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "What did Liu Bei show in this scene?",
+        "question": "What did he show?",
+        "options": [
+          "🛌 a love of sleep",
+          "🌱 patience and respect",
+          "⚔️ a love of fighting",
+          "💰 a love of money"
+        ],
+        "optionsZh": [
+          "愛睡覺",
+          "耐心和尊重",
+          "愛打仗",
+          "愛錢"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "他堅持再去 + 不嫌煩 → 耐心和尊重。",
+        "tags": ["story", "ch28", "zhuge", "hook"],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch28-l5-q11",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "grandma",
+        "sentence": "His brothers wanted to stop, but Liu Bei would not give up on the wise man.",
+        "question": "What is this scene mainly showing?",
+        "options": [
+          "Liu Bei's patience and respect",
+          "the brothers leave him for good",
+          "Liu Bei sells his house",
+          "the brothers find another teacher"
+        ],
+        "optionsZh": [
+          "劉備的耐心和尊重",
+          "兄弟永遠離開他",
+          "劉備賣房子",
+          "兄弟找別的老師"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "主旨 = 劉備的耐心和尊重。",
+        "tags": ["story", "ch28", "zhuge", "gist"],
+        "subSkill": "gist"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l5-q12",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "The three got on their horses one more time and rode toward the hill...",
+        "explanationZh": "三人再次上馬,朝著山騎去……",
+        "tags": ["story", "ch28", "zhuge"]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch28-l6",
+    "chapter": 28,
+    "lessonInChapter": 6,
+    "segmentType": "main-story",
+    "storyId": "zhuge-liang-strategems",
+    "storyBeat": "第三次拜訪 — 風很冷, 他們在門外等",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch28-l6-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          { "left": "風", "right": "wind" },
+          { "left": "睡著", "right": "asleep" },
+          { "left": "輕輕", "right": "softly" },
+          { "left": "外面", "right": "outside" }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 wind = 風\n🔑 asleep = 睡著\n🔑 softly = 輕輕\n🔑 outside = 外面\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": ["story", "ch28", "zhuge", "vocab", "intro"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l6-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "The wind was cold and sharp that morning on the hill.",
+        "explanationZh": "那天早上山上的風又冷又刺。",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch28-l6-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "The same young boy opened the door, and his eyes went wide.",
+        "question": "How did the boy react to seeing Liu Bei again?",
+        "options": [
+          "he was bored",
+          "he was very surprised",
+          "he was angry",
+          "he was asleep"
+        ],
+        "optionsZh": [
+          "他很無聊",
+          "他非常驚訝",
+          "他生氣",
+          "他睡著了"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: eyes went wide → 非常驚訝 (paraphrase)。",
+        "tags": ["story", "ch28", "zhuge"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l6-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "\"My teacher is at home today, but he is asleep on his couch.\"",
+        "explanationZh": "「我老師今天在家,但他在椅子上睡著了。」",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch28-l6-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "grandma",
+        "sentence": "Liu Bei told the boy not to wake his teacher up.",
+        "questionEn": "Did Liu Bei want the boy to wake the wise man?",
+        "options": ["Yes", "No"],
+        "correctIndex": 1,
+        "explanationZh": "推理: 叫男孩不要叫醒 → 不想 → 答 No",
+        "tags": ["story", "ch28", "zhuge", "inference"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch28-l6-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "\"We will wait outside in the wind. Let him rest.\"",
+        "question": "Where did Liu Bei choose to wait?",
+        "options": [
+          "in the warm kitchen",
+          "out in the cold wind",
+          "back at his own home",
+          "down by the river"
+        ],
+        "optionsZh": [
+          "在溫暖的廚房",
+          "在外面冷風裡",
+          "回自己家",
+          "下到河邊"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: wait outside in the wind → 在外面冷風裡 (paraphrase)。",
+        "tags": ["story", "ch28", "zhuge"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l6-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "The brothers shook in the cold, but Liu Bei stood still and quiet.",
+        "explanationZh": "兄弟們冷得發抖,但劉備靜靜地站著。",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch28-l6-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Time passed slowly, and the sun moved across the cold sky.",
+        "question": "How long did Liu Bei wait?",
+        "options": [
+          "only a moment",
+          "a long while",
+          "no time at all",
+          "a whole month"
+        ],
+        "optionsZh": [
+          "只一下子",
+          "很長一段時間",
+          "完全沒等",
+          "整整一個月"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: time passed slowly + sun moved → 很長一段時間 (paraphrase)。",
+        "tags": ["story", "ch28", "zhuge"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l6-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "At last, the wise man inside turned over and let out a soft sound.",
+        "explanationZh": "最後,屋裡的智者翻了個身,輕輕出聲。",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch28-l6-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "What did Liu Bei show by waiting in the cold?",
+        "question": "What did he show?",
+        "options": [
+          "🛌 he was sleepy",
+          "🤝 he was full of respect",
+          "🍔 he was hungry",
+          "🎯 he was in a rush"
+        ],
+        "optionsZh": [
+          "他想睡",
+          "他充滿尊重",
+          "他餓了",
+          "他很急"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "為了不打擾智者休息而在冷風裡等 → 充滿尊重。",
+        "tags": ["story", "ch28", "zhuge", "hook"],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch28-l6-q11",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "grandma",
+        "sentence": "On his third trip, Liu Bei stayed in the cold wind so the sleeping wise man could rest.",
+        "question": "What is this scene mainly showing?",
+        "options": [
+          "Liu Bei's deep respect for the wise man",
+          "Liu Bei's wish to leave fast",
+          "the brothers' new plan",
+          "the boy's clever trick"
+        ],
+        "optionsZh": [
+          "劉備對智者深深的尊重",
+          "劉備想快點走",
+          "兄弟的新計畫",
+          "男孩的聰明小把戲"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "主旨 = 劉備對智者深深的尊重。",
+        "tags": ["story", "ch28", "zhuge", "gist"],
+        "subSkill": "gist"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l6-q12",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Slow steps came toward the door from inside the small house...",
+        "explanationZh": "慢慢的腳步聲從屋裡走向門口……",
+        "tags": ["story", "ch28", "zhuge"]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch28-l7",
+    "chapter": 28,
+    "lessonInChapter": 7,
+    "segmentType": "main-story",
+    "storyId": "zhuge-liang-strategems",
+    "storyBeat": "Zhuge Liang 開門 — 「你來了三次, 我會幫你」",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch28-l7-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          { "left": "三次", "right": "three times" },
+          { "left": "幫", "right": "help" },
+          { "left": "謝謝", "right": "thank" },
+          { "left": "心", "right": "heart" }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 three times = 三次\n🔑 help = 幫\n🔑 thank = 謝謝\n🔑 heart = 心\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": ["story", "ch28", "zhuge", "vocab", "intro"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l7-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "The door opened, and a tall man in a grey robe stepped out.",
+        "explanationZh": "門開了,一位穿灰袍的高個子走出來。",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch28-l7-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "His eyes were soft, and a small smile was on his mouth.",
+        "question": "How did Zhuge Liang look?",
+        "options": [
+          "loud and sharp",
+          "soft and gentle",
+          "cold and angry",
+          "tired and sick"
+        ],
+        "optionsZh": [
+          "大聲又銳利",
+          "柔和又溫和",
+          "冷又生氣",
+          "累又病"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: soft eyes + small smile → 柔和又溫和 (paraphrase)。",
+        "tags": ["story", "ch28", "zhuge"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch28-l7-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "grandma",
+        "sentence": "Liu Bei dropped his head into a deep, slow bow.",
+        "questionEn": "Did Liu Bei greet him with great respect?",
+        "options": ["Yes", "No"],
+        "correctIndex": 0,
+        "explanationZh": "推理: 深深慢慢地鞠躬 → 非常尊重 → 答 Yes",
+        "tags": ["story", "ch28", "zhuge", "inference"]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l7-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "\"I am here to ask for your help, sir,\" Liu Bei said softly.",
+        "explanationZh": "「先生,我來請您幫忙。」劉備輕聲說。",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch28-l7-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "\"You came to my door three times. You did not give up.\"",
+        "question": "What did Zhuge Liang notice about Liu Bei?",
+        "options": [
+          "that he was loud",
+          "that he did not give up",
+          "that he was young",
+          "that he had a fast horse"
+        ],
+        "optionsZh": [
+          "他很大聲",
+          "他沒有放棄",
+          "他很年輕",
+          "他有快馬"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: came three times + did not give up → 沒有放棄 (paraphrase)。",
+        "tags": ["story", "ch28", "zhuge"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l7-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "\"Your heart is true, and you treat me as a friend, not a tool.\"",
+        "explanationZh": "「你的心是真的,你把我當朋友,不是工具。」",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch28-l7-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "\"For these reasons, I will leave my house and help you.\"",
+        "question": "What did Zhuge Liang say he would do?",
+        "options": [
+          "stay home and read",
+          "go with Liu Bei and help him",
+          "send his student instead",
+          "go look for the brothers"
+        ],
+        "optionsZh": [
+          "待在家讀書",
+          "跟劉備走 + 幫他",
+          "派學生代替",
+          "去找兄弟"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: leave my house and help you → 跟著去 + 幫他 (paraphrase)。",
+        "tags": ["story", "ch28", "zhuge"],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l7-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "Tears of joy filled Liu Bei's eyes as he thanked him again and again.",
+        "explanationZh": "劉備的眼裡盈滿喜悅的淚水,一次又一次地謝謝他。",
+        "tags": ["story", "ch28", "zhuge"]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch28-l7-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "What is the main lesson from tonight's story?",
+        "question": "What does the story teach?",
+        "options": [
+          "💪 win every fight fast",
+          "🌱 a true heart and patience open every door",
+          "💰 buy what you need",
+          "🏃 run away from hard things"
+        ],
+        "optionsZh": [
+          "每場仗都要快贏",
+          "真心和耐心能打開每一扇門",
+          "需要的東西就用買的",
+          "遇難就逃"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "劉備三次拜訪 + 等在風中 → 真心和耐心打開門。",
+        "tags": ["story", "ch28", "zhuge", "hook"],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch28-l7-q11",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "grandma",
+        "sentence": "Zhuge Liang said yes to Liu Bei because his heart was true and he kept coming back.",
+        "question": "What is this scene mainly showing?",
+        "options": [
+          "patience and respect win a great friend",
+          "the brothers find a new home",
+          "the boy becomes the new leader",
+          "the cold wind ends the search"
+        ],
+        "optionsZh": [
+          "耐心和尊重贏得了好朋友",
+          "兄弟找到新家",
+          "男孩變成新領袖",
+          "冷風結束了尋找"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "主旨 = 耐心和尊重贏得了好朋友。",
+        "tags": ["story", "ch28", "zhuge", "gist"],
+        "subSkill": "gist"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch28-l7-q12",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "grandma",
+        "sentence": "And so two great hearts joined as one — the leader and his new wise friend...",
+        "explanationZh": "於是,兩顆偉大的心連在一起 —— 領袖和他的智慧新朋友……",
+        "tags": ["story", "ch28", "zhuge"]
+      }
+    ]
+  }
+]

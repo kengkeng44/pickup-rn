@@ -1,0 +1,1874 @@
+[
+  {
+    "id": "kt-ch6-l1",
+    "chapter": 6,
+    "lessonInChapter": 1,
+    "segmentType": "main-story",
+    "storyId": "six-swans",
+    "storyBeat": "七個孩子 — 母親不在了",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch6-l1-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "國王",
+            "right": "king"
+          },
+          {
+            "left": "孩子",
+            "right": "children"
+          },
+          {
+            "left": "城堡",
+            "right": "castle"
+          },
+          {
+            "left": "森林",
+            "right": "wood"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 king = 國王\n🔑 children = 孩子\n🔑 castle = 城堡\n🔑 wood = 森林\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l1-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A king had seven children. Six were boys, and one was a girl.",
+        "explanationZh": "一個國王有七個孩子。六個男孩,一個女孩。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l1-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They lived in a quiet castle near a wide green wood.",
+        "explanationZh": "他們住在綠林邊一座安靜的城堡。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch6-l1-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The halls of the castle felt cold and still, day after day.",
+        "questionEn": "Was the castle full of laughter?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:廳堂冷靜 → 沒有笑聲 → 答 No",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans",
+          "inference"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch6-l1-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The boys ran along the river bank and threw small stones to splash.",
+        "question": "Where did the boys play?",
+        "options": [
+          "in the garden",
+          "by the water",
+          "in the tower",
+          "on the road"
+        ],
+        "optionsZh": [
+          "在花園",
+          "河邊",
+          "在塔上",
+          "在路上"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "河岸邊扔石頭 → 河邊。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch6-l1-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The girl walked alone among the trees and picked soft yellow flowers.",
+        "question": "What did the girl like to do?",
+        "options": [
+          "ride horses",
+          "gather flowers",
+          "sing songs",
+          "read books"
+        ],
+        "optionsZh": [
+          "騎馬",
+          "採花",
+          "唱歌",
+          "讀書"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "採黃色小花 → 採花。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch6-l1-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How many children did the king have?",
+        "question": "How many children?",
+        "options": [
+          "5️⃣ five",
+          "6️⃣ six",
+          "7️⃣ seven",
+          "8️⃣ eight"
+        ],
+        "optionsZh": [
+          "五個",
+          "六個",
+          "七個",
+          "八個"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "六個男孩 + 一個女孩 = 七個。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l1-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The mother of the children was gone. Her chair stood empty by the window.",
+        "explanationZh": "孩子們的母親不在了。她的椅子空空地立在窗邊。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch6-l1-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The king walked the long halls at night and could not find sleep.",
+        "question": "How did the king feel at night?",
+        "options": [
+          "joyful",
+          "sleepless and sad",
+          "angry",
+          "busy"
+        ],
+        "optionsZh": [
+          "開心",
+          "睡不著又難過",
+          "生氣",
+          "忙碌"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "走廊裡睡不著 → 睡不著又難過。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch6-l1-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "A quiet castle, six brothers, one sister, and a father who walked alone at night.",
+        "question": "What is this scene mainly about?",
+        "options": [
+          "family without a mother",
+          "learning to ride a horse",
+          "planning a royal wedding",
+          "going on a forest hunt"
+        ],
+        "optionsZh": [
+          "沒有母親的家庭",
+          "學騎馬",
+          "辦皇室婚禮",
+          "去森林打獵"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "主旨 = 沒有母親的家庭。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans",
+          "gist"
+        ],
+        "subSkill": "gist"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l1-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The king missed her with all his heart. Beside his chair, one seat stood empty...",
+        "explanationZh": "國王全心思念她。他椅子旁,有一個位子空著……",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch6-l2",
+    "chapter": 6,
+    "lessonInChapter": 2,
+    "segmentType": "main-story",
+    "storyId": "six-swans",
+    "storyBeat": "新王后 — 六件白色小衣",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch6-l2-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "結婚",
+            "right": "marry"
+          },
+          {
+            "left": "遠方",
+            "right": "far"
+          },
+          {
+            "left": "衣服",
+            "right": "shirt"
+          },
+          {
+            "left": "丟",
+            "right": "throw"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 marry = 結婚\n🔑 far = 遠方\n🔑 shirt = 衣服\n🔑 throw = 丟\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l2-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The king married a new woman who came from a far cold land.",
+        "explanationZh": "國王娶了一個來自遙遠寒冷國度的女人。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch6-l2-q3",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "When she walked past the children, her eyes stayed flat and cold.",
+        "questionEn": "Did she love the seven children?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:眼神冷淡 → 不愛 → 答 No",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l2-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One night, she sat alone by a small lamp and sewed six little shirts.",
+        "explanationZh": "一個夜裡,她獨自坐在小油燈邊,縫了六件小衣。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch6-l2-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Her needle moved fast, in and out, while the rest of the castle slept.",
+        "question": "When did the queen do the sewing?",
+        "options": [
+          "at noon",
+          "in the morning",
+          "while others slept",
+          "at sunset"
+        ],
+        "optionsZh": [
+          "中午",
+          "早上",
+          "其他人睡覺時",
+          "黃昏"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "城堡其他人都在睡 → 其他人睡覺時。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch6-l2-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Each shirt was the color of fresh snow on a winter morning.",
+        "question": "What color were the shirts?",
+        "options": [
+          "black",
+          "red",
+          "pale like milk",
+          "gold"
+        ],
+        "optionsZh": [
+          "黑色",
+          "紅色",
+          "像牛奶一樣淡",
+          "金色"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "像新雪 → 像牛奶淡白。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch6-l2-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How many shirts did the queen make?",
+        "question": "How many shirts?",
+        "options": [
+          "3️⃣",
+          "4️⃣",
+          "5️⃣",
+          "6️⃣"
+        ],
+        "optionsZh": [
+          "三件",
+          "四件",
+          "五件",
+          "六件"
+        ],
+        "correctIndex": 3,
+        "explanationZh": "六件小衣。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l2-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She slipped into the boys' room while the moon was high and pale.",
+        "explanationZh": "月亮高高蒼白時,她悄悄走進男孩們的房間。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch6-l2-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She let the small white things fall over their sleeping shoulders.",
+        "question": "What did she do to the boys?",
+        "options": [
+          "kissed them",
+          "put shirts on them",
+          "woke them up",
+          "tied them down"
+        ],
+        "optionsZh": [
+          "親他們",
+          "把衣服丟到他們身上",
+          "叫醒他們",
+          "綁住他們"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "白衣落在肩上 → 把衣服丟到他們身上。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch6-l2-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "There were six brothers. There were six shirts. She had made them in secret.",
+        "question": "Why did she make only six shirts?",
+        "options": [
+          "for the six brothers",
+          "to keep them warm",
+          "for the king",
+          "to sell at the market"
+        ],
+        "optionsZh": [
+          "給六個哥哥",
+          "為了保暖",
+          "給國王",
+          "在市場賣"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理:六兄弟 + 六件衣 → 給六個哥哥。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ],
+        "subSkill": "inference"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l2-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "But these were not warm shirts. These were not soft. Something would change at dawn...",
+        "explanationZh": "但這些不是保暖的衣服,也不柔軟。天亮時會有事改變……",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch6-l3",
+    "chapter": 6,
+    "lessonInChapter": 3,
+    "segmentType": "main-story",
+    "storyId": "six-swans",
+    "storyBeat": "白色翅膀 — 男孩不見了",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch6-l3-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "翅膀",
+            "right": "wing"
+          },
+          {
+            "left": "窗戶",
+            "right": "window"
+          },
+          {
+            "left": "月亮",
+            "right": "moon"
+          },
+          {
+            "left": "空的",
+            "right": "empty"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 wing = 翅膀\n🔑 window = 窗戶\n🔑 moon = 月亮\n🔑 empty = 空的\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l3-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Where the boys had stood, six swans now rose into the air.",
+        "explanationZh": "原本男孩們站著的地方,六隻天鵝飛了起來。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch6-l3-q3",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "White feathers fell softly across the bedroom floor.",
+        "questionEn": "Were the boys still in the room?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:剩下羽毛 → 男孩變天鵝飛走了 → 答 No",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l3-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "White wings beat the air. The window blew wide open.",
+        "explanationZh": "白翅膀拍打空氣。窗戶大大地打開。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch6-l3-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The six swans flew out of the open glass and away from the castle.",
+        "question": "How did the swans leave?",
+        "options": [
+          "through the door",
+          "past the window pane",
+          "down the stairs",
+          "into the well"
+        ],
+        "optionsZh": [
+          "從門",
+          "從窗戶玻璃",
+          "從樓梯",
+          "到井裡"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "飛出打開的玻璃 → 從窗戶玻璃。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch6-l3-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They lifted into the pale light of the night and were soon gone.",
+        "question": "Where did the swans fly into?",
+        "options": [
+          "the sunny sky",
+          "the moonlit sky",
+          "a dark cave",
+          "the deep sea"
+        ],
+        "optionsZh": [
+          "晴朗的天空",
+          "月光的天空",
+          "黑暗洞穴",
+          "深海"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "夜裡淡淡的光 → 月光的天空。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch6-l3-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What did the boys turn into?",
+        "question": "What did the boys turn into?",
+        "options": [
+          "🐺 wolves",
+          "🐦 swans",
+          "🦅 eagles",
+          "🐭 mice"
+        ],
+        "optionsZh": [
+          "狼",
+          "天鵝",
+          "老鷹",
+          "老鼠"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "男孩變成 → 天鵝。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l3-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "In the morning, the little girl pushed open the heavy door.",
+        "explanationZh": "早晨,小女孩推開沉重的門。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch6-l3-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Six small beds lay smooth and still. No one had slept in them.",
+        "question": "What did the girl see in the room?",
+        "options": [
+          "her brothers asleep",
+          "six empty beds",
+          "a pile of toys",
+          "her mother's chair"
+        ],
+        "optionsZh": [
+          "哥哥們在睡覺",
+          "六張空空的床",
+          "一堆玩具",
+          "媽媽的椅子"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "床平整無人 → 六張空空的床。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch6-l3-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Her hands grew cold. The empty beds said one thing — her brothers were gone.",
+        "question": "How did the girl feel?",
+        "options": [
+          "surprised and afraid",
+          "tired and bored",
+          "angry and proud",
+          "sleepy and warm"
+        ],
+        "optionsZh": [
+          "震驚又害怕",
+          "累又無聊",
+          "生氣又驕傲",
+          "想睡又溫暖"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理:手變冷 → 震驚又害怕。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ],
+        "subSkill": "inference"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l3-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A single white feather lay on the windowsill. She picked it up slowly...",
+        "explanationZh": "窗台上躺著一根白色羽毛。她慢慢拾起……",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch6-l4",
+    "chapter": 6,
+    "lessonInChapter": 4,
+    "segmentType": "main-story",
+    "storyId": "six-swans",
+    "storyBeat": "沉默六年 — 縫六件衣",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch6-l4-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "找到",
+            "right": "find"
+          },
+          {
+            "left": "小屋",
+            "right": "hut"
+          },
+          {
+            "left": "縫",
+            "right": "sew"
+          },
+          {
+            "left": "年",
+            "right": "year"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 find = 找到\n🔑 hut = 小屋\n🔑 sew = 縫\n🔑 year = 年\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l4-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The sister walked for many days into the deep dark wood.",
+        "explanationZh": "妹妹走了好多天,進入又深又黑的森林。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch6-l4-q3",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Her shoes wore thin and her small bag held only one piece of bread.",
+        "questionEn": "Was her journey short and easy?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:鞋磨薄 + 只剩一塊麵包 → 不短也不輕鬆 → 答 No",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l4-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She found a small wooden hut, half hidden by tall green leaves.",
+        "explanationZh": "她找到一間小木屋,半藏在高高綠葉後面。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch6-l4-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "By day they wore feathers and flew. For one short hour each night, they were boys again.",
+        "question": "When could the brothers be boys?",
+        "options": [
+          "all day long",
+          "only at sunrise",
+          "briefly after dark",
+          "never again"
+        ],
+        "optionsZh": [
+          "整天都是",
+          "只有日出",
+          "天黑後短暫一段",
+          "永遠不行"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "夜裡短短一小時 → 天黑後短暫一段。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch6-l4-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "To set them free, she had to sew six shirts from a sharp white flower.",
+        "question": "What did she need to do to save them?",
+        "options": [
+          "fight the queen",
+          "find six golden rings",
+          "make clothes from petals",
+          "find a magic stone"
+        ],
+        "optionsZh": [
+          "打敗王后",
+          "找六個金戒指",
+          "用花瓣做衣服",
+          "找魔石"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "用花縫衣 → 用花瓣做衣服。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch6-l4-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What did she sew the shirts from?",
+        "question": "What was the shirt material?",
+        "options": [
+          "🌸 a flower",
+          "🪨 a stone",
+          "🐑 wool",
+          "🌿 grass"
+        ],
+        "optionsZh": [
+          "花",
+          "石頭",
+          "羊毛",
+          "草"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "尖白花 → 花。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l4-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She could not speak. She could not laugh. Not for six long years.",
+        "explanationZh": "她不可以說話,不可以笑。六年都不行。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch6-l4-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "No word would leave her lips, not in pain, not in joy, not for help.",
+        "question": "What rule did she have to follow?",
+        "options": [
+          "eat no food",
+          "sleep alone",
+          "stay silent",
+          "walk barefoot"
+        ],
+        "optionsZh": [
+          "不能吃東西",
+          "一個人睡",
+          "保持安靜",
+          "光腳走路"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "一個字也不出口 → 保持安靜。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch6-l4-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "A small flower, a silent girl, and six years that would feel like a long cold winter.",
+        "question": "What is this scene mainly showing?",
+        "options": [
+          "quiet hard work to save her brothers",
+          "happy days in the forest",
+          "learning to dance with friends",
+          "fighting the angry queen"
+        ],
+        "optionsZh": [
+          "安靜辛苦地救哥哥",
+          "森林裡快樂的日子",
+          "跟朋友學跳舞",
+          "跟王后打架"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "主旨 = 安靜辛苦地救哥哥。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans",
+          "gist"
+        ],
+        "subSkill": "gist"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l4-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She sewed and sewed. The nights grew long. She did not speak. She did not cry out loud...",
+        "explanationZh": "她縫了又縫。夜變得好長。她不出聲,也不哭出來……",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch6-l5",
+    "chapter": 6,
+    "lessonInChapter": 5,
+    "segmentType": "main-story",
+    "storyId": "six-swans",
+    "storyBeat": "王子接走她 — 但她仍縫衣不語",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch6-l5-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "年輕",
+            "right": "young"
+          },
+          {
+            "left": "樹",
+            "right": "tree"
+          },
+          {
+            "left": "新娘",
+            "right": "bride"
+          },
+          {
+            "left": "母親",
+            "right": "mother"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 young = 年輕\n🔑 tree = 樹\n🔑 bride = 新娘\n🔑 mother = 母親\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l5-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A young king rode through the wood on a cool grey morning.",
+        "explanationZh": "一個年輕的國王在涼涼灰色的早晨騎馬穿過森林。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch6-l5-q3",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "High in the branches of a wide old tree sat a silent girl with a needle.",
+        "questionEn": "Was she easy to find?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:坐在樹上很高 + 安靜 → 不容易找 → 答 No",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l5-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He took her down from the tree and brought her back to his castle.",
+        "explanationZh": "他把她從樹上接下來,帶回他的城堡。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch6-l5-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He gave her his ring and made her the lady of his great hall.",
+        "question": "What did the young king do for her?",
+        "options": [
+          "sent her away",
+          "made her his bride",
+          "put her in jail",
+          "made her cook food"
+        ],
+        "optionsZh": [
+          "送走她",
+          "娶她為妻",
+          "把她關起來",
+          "叫她煮飯"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "給戒指 + 成為大廳的女主人 → 娶她為妻。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch6-l5-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Even in her new soft bed, her hands worked the needle deep into the night.",
+        "question": "What did she still do every night?",
+        "options": [
+          "cry",
+          "dance",
+          "sew",
+          "read"
+        ],
+        "optionsZh": [
+          "哭",
+          "跳舞",
+          "縫衣",
+          "讀書"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "針還在她手上 → 縫衣。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch6-l5-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What was always in her hands?",
+        "question": "What was in her hands?",
+        "options": [
+          "🪡 a needle",
+          "🗡️ a knife",
+          "🪞 a mirror",
+          "📖 a book"
+        ],
+        "optionsZh": [
+          "針",
+          "刀",
+          "鏡子",
+          "書"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "針在手中縫衣。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l5-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The mother of the young king watched the silent bride with hard eyes.",
+        "explanationZh": "年輕國王的母親用嚴厲的眼神看著沉默的新娘。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch6-l5-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Each day the older woman whispered cold things about the bride.",
+        "question": "How did the king's mother feel about the bride?",
+        "options": [
+          "warm and loving",
+          "cold and unkind",
+          "sleepy and bored",
+          "amazed and proud"
+        ],
+        "optionsZh": [
+          "熱情有愛",
+          "冷淡又不友善",
+          "想睡又無聊",
+          "驚奇又驕傲"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "低聲說冷冷的話 → 冷淡又不友善。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch6-l5-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The bride heard every word. But she did not stop. She did not look up. The shirts had to be done.",
+        "question": "Why did she keep sewing in silence?",
+        "options": [
+          "she liked to make clothes",
+          "to save her six brothers",
+          "because the king ordered it",
+          "to win a prize"
+        ],
+        "optionsZh": [
+          "她喜歡做衣服",
+          "為了救六個哥哥",
+          "因為國王命令",
+          "為了拿獎"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:衣服必須完成 → 為了救六個哥哥。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ],
+        "subSkill": "inference"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l5-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The young king loved her. But his mother stood behind every door, watching, waiting...",
+        "explanationZh": "年輕國王愛她。但他母親站在每扇門後,看著,等著……",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch6-l6",
+    "chapter": 6,
+    "lessonInChapter": 6,
+    "segmentType": "main-story",
+    "storyId": "six-swans",
+    "storyBeat": "謊言三次 — 火堆已搭好",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch6-l6-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "偷",
+            "right": "steal"
+          },
+          {
+            "left": "嬰兒",
+            "right": "baby"
+          },
+          {
+            "left": "謊言",
+            "right": "lie"
+          },
+          {
+            "left": "火",
+            "right": "fire"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 steal = 偷\n🔑 baby = 嬰兒\n🔑 lie = 謊言\n🔑 fire = 火\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l6-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The bride had a small baby with soft pink cheeks.",
+        "explanationZh": "新娘生下一個粉嫩臉頰的小嬰兒。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch6-l6-q3",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "In the deep of the night, the king's mother came into the room with quiet feet.",
+        "questionEn": "Did she come with good plans?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:深夜 + 腳步輕 → 偷偷做事 → 不是好事 → 答 No",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l6-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She lifted the baby from the warm bed and carried it far away.",
+        "explanationZh": "她從溫暖的床抱走嬰兒,帶到很遠的地方。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch6-l6-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"She made her own child disappear,\" the older woman told the king the next morning.",
+        "question": "What did the king's mother say?",
+        "options": [
+          "fell into sickness",
+          "loved every baby",
+          "harmed her own child",
+          "ran far from home"
+        ],
+        "optionsZh": [
+          "生病了",
+          "愛每個嬰兒",
+          "傷害自己孩子",
+          "逃離家"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "她告訴國王的話 → 傷害自己孩子 (謊言 — 嬰兒其實被奶奶藏起來)。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch6-l6-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The bride heard the lie, but no word came from her lips.",
+        "question": "Why did the bride not speak back?",
+        "options": [
+          "her ears could not hear",
+          "her promise kept her quiet",
+          "agreeing with the queen",
+          "fast asleep in bed"
+        ],
+        "optionsZh": [
+          "耳朵聽不到",
+          "她的承諾讓她安靜",
+          "同意王后",
+          "在床上熟睡"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "針還沒做完 + 不能說 → 承諾讓她安靜。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch6-l6-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did the bride answer the lie?",
+        "question": "How did she answer?",
+        "options": [
+          "🗣️ with words",
+          "🤐 with silence",
+          "😡 with shouts",
+          "✍️ with writing"
+        ],
+        "optionsZh": [
+          "用話",
+          "用沉默",
+          "用吼叫",
+          "用寫字"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "不能說 → 用沉默。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l6-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A second baby came. The same thing happened. Then a third.",
+        "explanationZh": "第二個嬰兒來了,同樣的事發生了,然後第三個。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch6-l6-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Once, twice, and a final time a small child was born. Each one was gone by morning.",
+        "question": "How many babies did the bride lose?",
+        "options": [
+          "one",
+          "two",
+          "a trio",
+          "four"
+        ],
+        "optionsZh": [
+          "一個",
+          "兩個",
+          "一組三個",
+          "四個"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "Once + twice + final time → 一組三個。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch6-l6-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Three lost children, one quiet bride, six unfinished shirts, and a fire in the yard.",
+        "question": "What is this scene mainly about?",
+        "options": [
+          "happy wedding day",
+          "silent woman facing flames",
+          "hunting down a thief",
+          "royal feast in the hall"
+        ],
+        "optionsZh": [
+          "快樂的婚禮",
+          "面對火焰的沉默女人",
+          "抓小偷",
+          "大廳裡的宴會"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "主旨 = 面對火焰的沉默女人。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans",
+          "gist"
+        ],
+        "subSkill": "gist"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l6-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Wood was piled high in the castle yard. The fire was built for her. Six shirts lay in her lap, but one had only one sleeve...",
+        "explanationZh": "城堡庭院裡柴堆得高高。火堆是為她搭的。六件衣放在她膝上,但有一件只縫好一隻袖子……",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch6-l7",
+    "chapter": 6,
+    "lessonInChapter": 7,
+    "segmentType": "main-story",
+    "storyId": "six-swans",
+    "storyBeat": "正午 — 真相說出口",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch6-l7-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "正午",
+            "right": "noon"
+          },
+          {
+            "left": "下來",
+            "right": "down"
+          },
+          {
+            "left": "天空",
+            "right": "sky"
+          },
+          {
+            "left": "真相",
+            "right": "truth"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 noon = 正午\n🔑 down = 下來\n🔑 sky = 天空\n🔑 truth = 真相\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l7-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The day of the fire came. The sun climbed slowly to the top of the sky.",
+        "explanationZh": "火刑那一天到了。太陽慢慢爬到天空最高處。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch6-l7-q3",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "For six long years she had not spoken one word.",
+        "questionEn": "Were the six years finally over at noon?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理:六年到正午 → 結束了 → 答 Yes",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l7-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Just then, six white swans came down from the sky.",
+        "explanationZh": "就在那時,六隻白天鵝從天上飛下來。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch6-l7-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She lifted the small white shirts and threw one over each bird.",
+        "question": "What did she do with the shirts?",
+        "options": [
+          "put them in a box",
+          "threw one on each swan",
+          "gave them to the king",
+          "burned them in the fire"
+        ],
+        "optionsZh": [
+          "放進盒子",
+          "丟在每隻天鵝上",
+          "給國王",
+          "燒掉"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "一件丟一隻天鵝 → 丟在每隻天鵝上。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch6-l7-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "White feathers fell away. Six brothers stood in the yard again.",
+        "question": "What happened to the swans?",
+        "options": [
+          "flew off into clouds",
+          "changed back to boys",
+          "sang a sweet song",
+          "fell into a deep sleep"
+        ],
+        "optionsZh": [
+          "飛進雲裡",
+          "變回男孩",
+          "唱了首甜美的歌",
+          "陷入沉睡"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "羽毛落 → 變回兄弟 → 變回男孩。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch6-l7-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "When did the six years end?",
+        "question": "When did they end?",
+        "options": [
+          "🌅 dawn",
+          "🌞 noon",
+          "🌇 sunset",
+          "🌙 midnight"
+        ],
+        "optionsZh": [
+          "黎明",
+          "正午",
+          "日落",
+          "午夜"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "正午結束。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l7-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "But the last shirt was not done. The youngest brother still had one white wing.",
+        "explanationZh": "但最後一件衣沒縫完。最小的弟弟還剩一隻白翅膀。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch6-l7-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Where his left arm should have been, soft feathers still grew.",
+        "question": "What did the youngest brother have left?",
+        "options": [
+          "one bird wing",
+          "a long fox tail",
+          "sharp duck beak",
+          "soft new song"
+        ],
+        "optionsZh": [
+          "一隻鳥翅膀",
+          "一條狐狸尾巴",
+          "尖鴨喙",
+          "柔和新歌"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "羽毛仍在手臂位置 → 一隻鳥翅膀。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch6-l7-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The six years were over. The shirts were thrown. She opened her mouth, and the truth came out.",
+        "question": "Why could she speak now?",
+        "options": [
+          "king finally gave permission",
+          "her long silence had ended",
+          "queen had fled the castle",
+          "flames stopped burning"
+        ],
+        "optionsZh": [
+          "國王終於允許",
+          "她漫長的沉默結束了",
+          "王后逃出城堡",
+          "火不再燒"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:六年結束 + 衣已丟 → 她漫長的沉默結束了。",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ],
+        "subSkill": "inference"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch6-l7-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The fire went cold. The truth was told. But the youngest brother turned to her with one wing still on his back...",
+        "explanationZh": "火堆冷了。真相說出口了。但最小的弟弟轉頭看她,背上還留著一隻翅膀……",
+        "tags": [
+          "story",
+          "ch6",
+          "six-swans"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1773 @@
+[
+  {
+    "id": "kt-ch7-l1",
+    "chapter": 7,
+    "lessonInChapter": 1,
+    "segmentType": "main-story",
+    "storyId": "yexian",
+    "storyBeat": "洞穴村莊的孤女 — 後母會一直這樣?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch7-l1-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "村",
+            "right": "village"
+          },
+          {
+            "left": "妻",
+            "right": "wife"
+          },
+          {
+            "left": "自己的",
+            "right": "own"
+          },
+          {
+            "left": "辛苦",
+            "right": "hard"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 village = 村\n🔑 wife = 妻\n🔑 own = 自己的\n🔑 hard = 辛苦\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l1-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Long ago in southern China, a girl named 葉限 (Yexian) lived in a cave village.",
+        "explanationZh": "很久以前在中國南方,一個叫葉限的女孩住在洞穴村莊。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l1-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Her mother died when she was small. Her father died too.",
+        "explanationZh": "她小時候媽媽就過世了,爸爸後來也走了。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch7-l1-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The new wife gave her own daughter soft food and warm clothes.",
+        "questionEn": "Did the new wife treat Yexian the same way?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:好的東西都給自己女兒 → 對葉限不同 → 答 No",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l1-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Each day, Yexian carried water up the hill and washed dishes by the well.",
+        "explanationZh": "葉限每天扛水上山,在井邊洗碗。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch7-l1-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She worked from when the sun rose until the moon came out.",
+        "question": "How long did she work each day?",
+        "options": [
+          "just a moment",
+          "from morning to night",
+          "only at noon",
+          "only at night"
+        ],
+        "optionsZh": [
+          "只一下子",
+          "從早到晚",
+          "只在中午",
+          "只在晚上"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "太陽起到月亮出 → 一整天。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch7-l1-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did she feel about her days?",
+        "question": "How did she feel each day?",
+        "options": [
+          "😢 alone and tired",
+          "🎉 happy and free",
+          "😴 lazy and bored",
+          "🤩 proud and loud"
+        ],
+        "optionsZh": [
+          "孤單又累",
+          "開心又自由",
+          "懶又無聊",
+          "驕傲又大聲"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "一個人扛水洗碗 → 孤單又累。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l1-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Year after year, no one in the cave village spoke a kind word to her.",
+        "explanationZh": "一年又一年,洞穴村莊裡沒人對她說一句好話。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch7-l1-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The new wife only smiled at her own child.",
+        "question": "Who got the new wife's smiles?",
+        "options": [
+          "Yexian",
+          "her own daughter",
+          "the neighbours",
+          "no one"
+        ],
+        "optionsZh": [
+          "葉限",
+          "她自己的女兒",
+          "鄰居",
+          "沒人"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "只對自己的孩子笑 → 自己的女兒。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch7-l1-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Yexian carried buckets, washed pots, and slept on a thin straw mat in the corner.",
+        "question": "What is this scene mainly showing?",
+        "options": [
+          "Yexian's hard daily life",
+          "a happy family dinner",
+          "a busy market day",
+          "a noisy festival night"
+        ],
+        "optionsZh": [
+          "葉限辛苦的日常",
+          "快樂的家庭晚餐",
+          "熱鬧的市集日",
+          "吵鬧的節慶夜"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "主旨 = 葉限辛苦的日常。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "gist"
+        ],
+        "subSkill": "gist"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l1-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "And every night, she gave Yexian all the hard work, again and again...",
+        "explanationZh": "每個晚上,她都把所有辛苦的活推給葉限,一次又一次……",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch7-l2",
+    "chapter": 7,
+    "lessonInChapter": 2,
+    "segmentType": "main-story",
+    "storyId": "yexian",
+    "storyBeat": "池塘裡的紅鰭魚 — 牠不只是魚?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch7-l2-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "朋友",
+            "right": "friend"
+          },
+          {
+            "left": "池塘",
+            "right": "pond"
+          },
+          {
+            "left": "鰭",
+            "right": "fin"
+          },
+          {
+            "left": "溫馴",
+            "right": "tame"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 friend = 朋友\n🔑 pond = 池塘\n🔑 fin = 鰭\n🔑 tame = 溫馴\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l2-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Behind the cave village was a small quiet pond.",
+        "explanationZh": "洞穴村莊後面有一個安靜的小池塘。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch7-l2-q3",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "No one in the village ever walked down to the pond.",
+        "questionEn": "Could Yexian keep a secret there?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理:沒人去 → 她可以藏祕密 → 答 Yes",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l2-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "In the water lived a fish with bright 紅鰭 (red fins) and golden eyes.",
+        "explanationZh": "水裡住著一條有紅鰭和金色眼睛的魚。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch7-l2-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Each morning, Yexian dropped rice crumbs onto the still water.",
+        "question": "What did Yexian bring to the pond?",
+        "options": [
+          "stones",
+          "food",
+          "shoes",
+          "flowers"
+        ],
+        "optionsZh": [
+          "石頭",
+          "食物",
+          "鞋子",
+          "花"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "撒米屑 = 食物。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l2-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The fish swam up to her hand and let her touch its smooth side.",
+        "explanationZh": "魚游到她手邊,讓她摸牠光滑的身體。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch7-l2-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What kind of fish was it?",
+        "question": "What kind of fish was it?",
+        "options": [
+          "🐟 small and shy",
+          "🐠 bright and tame",
+          "🦈 sharp and wild",
+          "🐡 round and angry"
+        ],
+        "optionsZh": [
+          "小又害羞",
+          "亮又溫馴",
+          "尖又野",
+          "圓又生氣"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "紅鰭金眼,讓她摸 → 亮又溫馴。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch7-l2-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Day by day, the fish grew longer than her two arms put together.",
+        "question": "How did the fish change?",
+        "options": [
+          "became smaller",
+          "got much larger",
+          "turned all white",
+          "died one night"
+        ],
+        "optionsZh": [
+          "變小",
+          "變大",
+          "變白",
+          "死了"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "比她兩手張開還長 → 變大。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch7-l2-q9",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The village was loud and cold. Yexian sat by the pond, and the fish came up to her hand.",
+        "question": "What is this scene mainly showing?",
+        "options": [
+          "a secret friendship by the water",
+          "fishing lessons at noon",
+          "a busy market day",
+          "a stormy rainy night"
+        ],
+        "optionsZh": [
+          "池邊的祕密友誼",
+          "中午的釣魚課",
+          "熱鬧的市集",
+          "下大雨的夜晚"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "主旨 = 池邊的祕密友誼。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "gist"
+        ],
+        "subSkill": "gist"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l2-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "But the new wife was watching from behind the rocks.",
+        "explanationZh": "但是後母從石頭後面看著。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l2-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Her eyes did not blink. Something cold and slow turned inside her chest...",
+        "explanationZh": "她的眼睛沒眨。她胸口裡有什麼又冷又慢的東西在轉……",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch7-l3",
+    "chapter": 7,
+    "lessonInChapter": 3,
+    "segmentType": "main-story",
+    "storyId": "yexian",
+    "storyBeat": "池塘空了 — 葉限會發現嗎?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch7-l3-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "破舊",
+            "right": "torn"
+          },
+          {
+            "left": "衣服",
+            "right": "dress"
+          },
+          {
+            "left": "刀",
+            "right": "knife"
+          },
+          {
+            "left": "空的",
+            "right": "empty"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 torn = 破舊\n🔑 dress = 衣服\n🔑 knife = 刀\n🔑 empty = 空的\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l3-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One morning, 後母 (the new wife) put on Yexian's torn dress.",
+        "explanationZh": "一個早上,後母穿上葉限那件破舊的衣服。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch7-l3-q3",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "She hid a small bright knife inside her wide sleeve.",
+        "questionEn": "Did she want to be kind to the fish?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:藏刀去池邊 → 不是要餵魚 → 答 No",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l3-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She walked down to the pond and called softly, like Yexian always did.",
+        "explanationZh": "她走到池邊,像葉限那樣輕輕呼喚。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch7-l3-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The fish swam up because the dress smelled the same.",
+        "question": "Why did the fish come up?",
+        "options": [
+          "anger at the noise",
+          "thought Yexian was there",
+          "felt very hungry",
+          "was too tired"
+        ],
+        "optionsZh": [
+          "對聲音生氣",
+          "以為葉限來了",
+          "肚子很餓",
+          "太累了"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "聞到熟悉的味道 → 以為葉限來了。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l3-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "That night, the family ate fish soup. Yexian had no idea.",
+        "explanationZh": "那天晚上,家裡吃魚湯。葉限完全不知道。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch7-l3-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "No one at the table said where the fish had come from.",
+        "question": "What did the family hide from Yexian?",
+        "options": [
+          "how the fish had grown",
+          "the fish's origin",
+          "when the new wife arrived",
+          "where Yexian had been"
+        ],
+        "optionsZh": [
+          "魚怎麼長大的",
+          "魚的來源",
+          "後母什麼時候來的",
+          "葉限去過哪裡"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "沒人在餐桌上提魚的來源 → family 對葉限隱瞞魚從哪來;其他選項都不是這段話講的內容。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch7-l3-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The next day, Yexian went to the pond. What did she see?",
+        "question": "What did she see at the pond?",
+        "options": [
+          "🐟 her fish",
+          "💧 empty water",
+          "🌸 new flowers",
+          "⛵ a boat"
+        ],
+        "optionsZh": [
+          "她的魚",
+          "空空的水",
+          "新的花",
+          "一艘船"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "魚被吃了 → 池水空空的。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l3-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She sat at the edge and called the fish. No bright red moved in the water.",
+        "explanationZh": "她坐在池邊呼喚那條魚。水裡沒有任何紅色在動。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch7-l3-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Yexian sat by the empty pond. Her only friend was gone, and she did not know why.",
+        "question": "What is this scene mainly showing?",
+        "options": [
+          "Yexian loses her only friend",
+          "Yexian wins a contest",
+          "the village holds a market",
+          "the new wife gets sick"
+        ],
+        "optionsZh": [
+          "葉限失去唯一的朋友",
+          "葉限贏了比賽",
+          "村莊辦市集",
+          "後母生病"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "主旨 = 葉限失去唯一的朋友。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "gist"
+        ],
+        "subSkill": "gist"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l3-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Her tears fell into the still water. Then — a sky-colored shadow moved on the other side...",
+        "explanationZh": "她的淚水落進靜靜的水裡。然後 ——對岸有個天藍色的影子在動……",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch7-l4",
+    "chapter": 7,
+    "lessonInChapter": 4,
+    "segmentType": "main-story",
+    "storyId": "yexian",
+    "storyBeat": "老人與魚骨 — 骨頭能給她什麼?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch7-l4-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "長袍",
+            "right": "robe"
+          },
+          {
+            "left": "哭",
+            "right": "cry"
+          },
+          {
+            "left": "骨頭",
+            "right": "bone"
+          },
+          {
+            "left": "挖",
+            "right": "dig"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 robe = 長袍\n🔑 cry = 哭\n🔑 bone = 骨頭\n🔑 dig = 挖\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l4-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "An 老人 (old man) in a sky-colored robe stepped down beside her.",
+        "explanationZh": "一個穿著天藍色長袍的老人走到她旁邊。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch7-l4-q3",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "His feet did not touch the wet grass by the pond.",
+        "questionEn": "Was the old man a normal villager?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:腳不沾草 → 不是普通人 → 答 No",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l4-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Do not cry, child,\" he said in a very soft voice.",
+        "explanationZh": "「孩子,別哭。」他用很輕的聲音說。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch7-l4-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"The bones of your fish lie under the heap by the gate.\"",
+        "question": "Where were the fish bones?",
+        "options": [
+          "in the pond",
+          "under a pile by the gate",
+          "on the roof",
+          "inside the well"
+        ],
+        "optionsZh": [
+          "在池塘裡",
+          "在門邊的一堆下面",
+          "在屋頂上",
+          "井裡"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "門邊的一堆下面 = 門邊那一堆下。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l4-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Hide the 魚骨 (fish-bone). Speak to them. They will give you anything.\"",
+        "explanationZh": "「把魚骨藏起來。對它們說話。它們會給你任何東西。」",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch7-l4-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The old man said the bones would answer any wish she said out loud.",
+        "question": "What could the bones do?",
+        "options": [
+          "sing",
+          "grant her wishes",
+          "fly away",
+          "cook food"
+        ],
+        "optionsZh": [
+          "唱歌",
+          "實現她的願望",
+          "飛走",
+          "煮飯"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "會給她任何東西 = 實現願望。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch7-l4-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What did Yexian do that night?",
+        "question": "What did Yexian do that night?",
+        "options": [
+          "🚪 ran away",
+          "🪏 dug up the bones",
+          "😴 just slept",
+          "🍚 cooked rice"
+        ],
+        "optionsZh": [
+          "逃走",
+          "把骨頭挖出來",
+          "只是睡",
+          "煮飯"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "她照老人的話 → 挖骨頭。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l4-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She wrapped the bones in clean cloth and slid them under her thin mat.",
+        "explanationZh": "她用乾淨的布把骨頭包起來,塞到薄薄的草蓆下。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch7-l4-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "A man from the sky told her where to find the bones, and she hid them close to her body.",
+        "question": "What is this scene mainly showing?",
+        "options": [
+          "Yexian gets a magic gift",
+          "Yexian runs away from home",
+          "a family eats dinner",
+          "a market opens at dawn"
+        ],
+        "optionsZh": [
+          "葉限得到一個有魔法的禮物",
+          "葉限離家出走",
+          "一家人吃晚餐",
+          "清晨市集開張"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "主旨 = 葉限得到一個有魔法的禮物。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "gist"
+        ],
+        "subSkill": "gist"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l4-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She lay on her mat and felt the bones warm under her back. What would she ask first?",
+        "explanationZh": "她躺在草蓆上,感覺背下的骨頭暖暖的。她要先問什麼?",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch7-l5",
+    "chapter": 7,
+    "lessonInChapter": 5,
+    "segmentType": "main-story",
+    "storyId": "yexian",
+    "storyBeat": "洞節之夜 — 她會被認出嗎?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch7-l5-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "節",
+            "right": "festival"
+          },
+          {
+            "left": "燈籠",
+            "right": "lantern"
+          },
+          {
+            "left": "披風",
+            "right": "cloak"
+          },
+          {
+            "left": "鞋",
+            "right": "shoe"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 festival = 節\n🔑 lantern = 燈籠\n🔑 cloak = 披風\n🔑 shoe = 鞋\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l5-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The 洞節 (cave festival) night came. Lanterns lit up every doorway.",
+        "explanationZh": "洞節之夜到了。每個門口都掛起燈籠。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch7-l5-q3",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The new wife and her daughter put on bright clothes and stepped out together.",
+        "questionEn": "Was Yexian allowed to go with them?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:她們兩個一起出門,沒帶她 → 答 No",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l5-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Alone in the cave, Yexian whispered to the bones, \"I want to go too.\"",
+        "explanationZh": "葉限一個人在洞裡,輕聲對骨頭說:「我也想去。」",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch7-l5-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "In a soft flash, a 青衣 (blue cloak) and two small gold shoes lay on the floor.",
+        "question": "What appeared on the floor?",
+        "options": [
+          "food and water",
+          "fine clothing and shiny footwear",
+          "gold coins",
+          "a sharp sword"
+        ],
+        "optionsZh": [
+          "食物跟水",
+          "漂亮衣物跟亮亮的鞋",
+          "金幣",
+          "一把劍"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "骨頭給了 → 漂亮衣物跟亮亮的鞋 (青衣 + 金鞋)。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l5-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She put them on. The cloak fit her. The shoes felt light as a leaf.",
+        "explanationZh": "她穿上。披風很合身。鞋輕得像一片葉子。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch7-l5-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "When she walked into the lantern light, every face in the village turned to her.",
+        "question": "How did the villagers react?",
+        "options": [
+          "laughed loudly at her",
+          "all eyes followed her",
+          "walked far away",
+          "fell fast asleep"
+        ],
+        "optionsZh": [
+          "大聲笑她",
+          "所有眼睛都跟著她",
+          "走得遠遠的",
+          "睡著了"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "每張臉都轉向她 → 所有眼睛都跟著她。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch7-l5-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did Yexian feel walking through the festival?",
+        "question": "How did she feel?",
+        "options": [
+          "😬 small and shy",
+          "✨ proud and free",
+          "😡 angry and loud",
+          "😴 sleepy and slow"
+        ],
+        "optionsZh": [
+          "小又害羞",
+          "驕傲又自由",
+          "生氣又大聲",
+          "想睡又慢"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "披風合身鞋很輕村人都看她 → 驕傲又自由。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l5-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She passed shops, music, and stalls of warm sweet food.",
+        "explanationZh": "她走過店舖、音樂,還有賣熱甜點的攤子。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch7-l5-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Yexian, who scrubbed pots that morning, now walked through bright lanterns in a sky-colored cloak.",
+        "question": "What is this scene mainly showing?",
+        "options": [
+          "Yexian's transformation at the festival",
+          "a quiet morning by the pond",
+          "a fish soup dinner",
+          "an old man's visit"
+        ],
+        "optionsZh": [
+          "葉限在節慶上的蛻變",
+          "池邊的安靜早晨",
+          "魚湯晚餐",
+          "老人來訪"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "主旨 = 葉限在節慶上的蛻變。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "gist"
+        ],
+        "subSkill": "gist"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l5-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "But from across the square, the new wife's daughter slowly lowered her cup of wine...",
+        "explanationZh": "但廣場對面,後母的女兒慢慢放下手裡的酒杯……",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch7-l6",
+    "chapter": 7,
+    "lessonInChapter": 6,
+    "segmentType": "main-story",
+    "storyId": "yexian",
+    "storyBeat": "掉了一隻金鞋 — 鞋會落到誰手上?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch7-l6-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "指",
+            "right": "point"
+          },
+          {
+            "left": "掉下來",
+            "right": "fall off"
+          },
+          {
+            "left": "路",
+            "right": "road"
+          },
+          {
+            "left": "到達",
+            "right": "reach"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 point = 指\n🔑 fall off = 掉下來\n🔑 road = 路\n🔑 reach = 到達\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l6-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The new wife's daughter pointed across the square. \"Mother — she looks like Yexian.\"",
+        "explanationZh": "後母的女兒指著廣場那邊。「媽——她看起來像葉限。」",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch7-l6-q3",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Yexian heard the words. She turned and slipped fast into the dark street.",
+        "questionEn": "Did Yexian want them to see her face?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:轉身快鑽進暗街 → 不想被看 → 答 No",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l6-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "As she ran, one 金鞋 (gold shoe) fell off her foot onto the road.",
+        "explanationZh": "她跑的時候,一隻金鞋從腳上掉到路上。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch7-l6-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She did not stop to pick it up — the voices behind her were too close.",
+        "question": "Why did she leave the shoe?",
+        "options": [
+          "it was too heavy",
+          "people were chasing her",
+          "she did not want it",
+          "the road was wet"
+        ],
+        "optionsZh": [
+          "太重了",
+          "有人在追她",
+          "她不想要了",
+          "路很濕"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "後面聲音太近 → 被追,沒空撿。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l6-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She came home with one bare foot and one tired heart.",
+        "explanationZh": "她回到家,一隻腳沒鞋,心也累了。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch7-l6-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The shoe lay on the road until a passing man picked it up.",
+        "question": "Who found the gold shoe?",
+        "options": [
+          "a small child",
+          "a stranger on the road",
+          "the new wife",
+          "a hungry dog"
+        ],
+        "optionsZh": [
+          "一個小孩",
+          "路上的陌生人",
+          "後母",
+          "一隻餓狗"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "路過的男人撿了 → 路上的陌生人。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch7-l6-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Where did the gold shoe finally reach?",
+        "question": "Where did the shoe travel to?",
+        "options": [
+          "🏝️ an island king",
+          "🏔️ a mountain monk",
+          "🏠 the same cave village",
+          "🌊 the sea"
+        ],
+        "optionsZh": [
+          "一個海島的國王",
+          "一個山上的和尚",
+          "同一個洞穴村",
+          "大海"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "一路傳到陀汗國王手上 = 海島國王。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l6-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The shoe travelled far across hills and water, hand to hand, until it reached a king.",
+        "explanationZh": "鞋一手一手,翻山越海,最後到了一個國王手上。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch7-l6-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Yexian came home with one shoe missing. Far away, that shoe sat on a king's table.",
+        "question": "What is this scene mainly showing?",
+        "options": [
+          "the shoe finds a powerful owner",
+          "Yexian wins a race",
+          "the new wife buys new clothes",
+          "a quiet day by the pond"
+        ],
+        "optionsZh": [
+          "鞋找到一個有權力的擁有者",
+          "葉限贏了賽跑",
+          "後母買新衣服",
+          "池邊安靜的一天"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "主旨 = 鞋落到有權力的人手上。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "gist"
+        ],
+        "subSkill": "gist"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l6-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The king lifted the shoe to the light. \"I will find the foot that fits this,\" he said quietly...",
+        "explanationZh": "國王把鞋舉到光下。「我要找到能穿上這隻鞋的腳。」他輕輕地說……",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch7-l7",
+    "chapter": 7,
+    "lessonInChapter": 7,
+    "segmentType": "main-story",
+    "storyId": "yexian",
+    "storyBeat": "國王找到她 — 鞋滑上腳像水",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch7-l7-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "試",
+            "right": "try"
+          },
+          {
+            "left": "合身",
+            "right": "fit"
+          },
+          {
+            "left": "腳",
+            "right": "foot"
+          },
+          {
+            "left": "石頭",
+            "right": "stone"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 try = 試\n🔑 fit = 合身\n🔑 foot = 腳\n🔑 stone = 石頭\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l7-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The king tried the gold shoe on every woman he could find.",
+        "explanationZh": "國王把那隻金鞋拿給所有找得到的女子試。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch7-l7-q3",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Every foot was a little too wide or a little too short.",
+        "questionEn": "Did any of them fit the shoe?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:不是太寬就是太短 → 沒人合 → 答 No",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l7-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "At last, the king sailed to the cave village in the south.",
+        "explanationZh": "最後,國王坐船到南方的洞穴村莊。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch7-l7-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Quiet, with one bare foot, Yexian stepped out from behind the new wife.",
+        "question": "How did Yexian come out?",
+        "options": [
+          "loudly and proud",
+          "she came out without sound",
+          "crying for help",
+          "hidden in a basket"
+        ],
+        "optionsZh": [
+          "大聲又驕傲",
+          "她無聲走出",
+          "哭著求救",
+          "藏在籃子裡"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理:Quiet + bare foot → 無聲走出。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l7-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "鞋 (the shoe) slipped onto her foot like clear water.",
+        "explanationZh": "鞋滑上她的腳,像水一樣自然。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch7-l7-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The king saw at once that this was the woman from the festival.",
+        "question": "How did the king feel?",
+        "options": [
+          "surprised and sure",
+          "bored and tired",
+          "angry and loud",
+          "shy and quiet"
+        ],
+        "optionsZh": [
+          "驚訝又確定",
+          "無聊又累",
+          "生氣又大聲",
+          "害羞又安靜"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "一眼就認出 → 驚訝又確定。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch7-l7-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What did the king do for Yexian?",
+        "question": "What did the king do?",
+        "options": [
+          "🚢 took her home with him",
+          "🍞 gave her bread",
+          "📜 wrote her a letter",
+          "🏃 ran away"
+        ],
+        "optionsZh": [
+          "帶她一起回家",
+          "給她麵包",
+          "寫信給她",
+          "逃走"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "帶她回島上 → 帶她一起回家。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l7-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "That night, 飛石 (flying stones) fell from the sky and buried the new wife and her daughter.",
+        "explanationZh": "那天晚上,天上掉下飛石,把後母和她女兒埋了。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      },
+      {
+        "type": "listen-comprehension",
+        "id": "kt-ch7-l7-q10",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The girl who lost her fish, her mother, and her shoe now sailed away with a kind king.",
+        "question": "What is this scene mainly showing?",
+        "options": [
+          "Yexian finds a new safe home",
+          "a long busy market day",
+          "a quiet morning by the pond",
+          "a noisy lantern festival"
+        ],
+        "optionsZh": [
+          "葉限找到一個安全的新家",
+          "長長熱鬧的市集日",
+          "池邊安靜的早晨",
+          "吵鬧的燈籠節"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "主旨 = 葉限找到一個安全的新家。",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian",
+          "gist"
+        ],
+        "subSkill": "gist"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch7-l7-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "On the boat, Yexian touched the small cloth in her pocket. The bones were warm again...",
+        "explanationZh": "在船上,葉限摸了摸口袋裡那塊小布。骨頭又暖了起來……",
+        "tags": [
+          "story",
+          "ch7",
+          "yexian"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1676 @@
+[
+  {
+    "id": "kt-ch9-l1",
+    "chapter": 9,
+    "lessonInChapter": 1,
+    "segmentType": "main-story",
+    "storyId": "cinderella",
+    "storyBeat": "父親再婚 — 新家有兩個姊姊",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch9-l1-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "父親",
+            "right": "father"
+          },
+          {
+            "left": "新的",
+            "right": "new"
+          },
+          {
+            "left": "妻子",
+            "right": "wife"
+          },
+          {
+            "left": "女兒",
+            "right": "daughter"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 father = 父親\n🔑 new = 新的\n🔑 wife = 妻子\n🔑 daughter = 女兒\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l1-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Long ago in France, a kind girl lived with her father.",
+        "explanationZh": "很久以前在法國,有個善良的女孩跟父親住在一起。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l1-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Her own mother had died. Her father took a new wife.",
+        "explanationZh": "她的親生媽媽已經過世。父親娶了新妻子。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch9-l1-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "At night the girl held her mother's soft shawl close.",
+        "questionEn": "Did the girl miss her mother?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 把媽媽的東西抱在懷裡 → 想念 → 答 Yes",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l1-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The new wife had two grown daughters of her own.",
+        "explanationZh": "新妻子有自己的兩個大女兒。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch9-l1-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They wore fine dresses and had soft hands.",
+        "question": "What kind of life did the two sisters have?",
+        "options": [
+          "they worked very hard",
+          "an easy and rich life",
+          "they grew food",
+          "they lived alone"
+        ],
+        "optionsZh": [
+          "工作很辛苦",
+          "輕鬆又富有的生活",
+          "種田",
+          "一個人住"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 漂亮衣服 + 手很軟 → 輕鬆又富有的生活 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l1-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They sat in the sun. They did no work at all.",
+        "explanationZh": "她們坐在陽光下。完全不做事。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch9-l1-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The kind girl watched them and stayed quiet.",
+        "question": "How did the girl react to the two sisters?",
+        "options": [
+          "laughed out loud",
+          "kept her mouth shut",
+          "ran away fast",
+          "pushed them down"
+        ],
+        "optionsZh": [
+          "大聲笑",
+          "閉口不說",
+          "快跑走",
+          "推她們"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: stayed quiet → 閉口不說 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l1-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The new wife looked at the girl with cold eyes.",
+        "explanationZh": "新妻子用冷冷的眼神看著女孩。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch9-l1-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did the new wife feel about the girl?",
+        "question": "How did the new wife feel?",
+        "options": [
+          "💖 warm and kind",
+          "🧊 cold and hard",
+          "😴 sleepy",
+          "🎉 happy"
+        ],
+        "optionsZh": [
+          "溫暖又善良",
+          "又冷又硬",
+          "想睡",
+          "開心"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "冷冷的眼神 = cold and hard。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l1-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The new wife's cold look stayed in the girl's mind...",
+        "explanationZh": "新妻子那冷冷的眼神留在女孩心裡……",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch9-l2",
+    "chapter": 9,
+    "lessonInChapter": 2,
+    "segmentType": "main-story",
+    "storyId": "cinderella",
+    "storyBeat": "灰塵堆 — 她哭給誰聽?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch9-l2-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "掃",
+            "right": "sweep"
+          },
+          {
+            "left": "煮",
+            "right": "cook"
+          },
+          {
+            "left": "火",
+            "right": "fire"
+          },
+          {
+            "left": "灰",
+            "right": "ash"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 sweep = 掃\n🔑 cook = 煮\n🔑 fire = 火\n🔑 ash = 灰\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l2-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The new wife was not kind to the girl.",
+        "explanationZh": "新妻子對女孩不好。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch9-l2-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She made the girl sweep, cook, and carry water all day.",
+        "question": "What did the new wife make the girl do?",
+        "options": [
+          "rest in bed",
+          "a lot of house work",
+          "read books",
+          "play with friends"
+        ],
+        "optionsZh": [
+          "在床上休息",
+          "一堆家事",
+          "看書",
+          "跟朋友玩"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: sweep + cook + carry water → 一堆家事 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l2-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "At night, the girl slept by the fire to stay warm.",
+        "explanationZh": "夜裡,女孩睡在火爐邊保暖。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch9-l2-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "She had no soft bed. She had no warm room.",
+        "questionEn": "Was the girl treated well at home?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 沒床沒房 → 沒被善待 → 答 No",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l2-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Her clothes got grey with ash from the fire.",
+        "explanationZh": "她的衣服被火灰染成灰色。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch9-l2-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What color were the girl's clothes?",
+        "question": "What color were her clothes?",
+        "options": [
+          "🌸 pink",
+          "⚫ grey",
+          "🌟 gold",
+          "🌊 blue"
+        ],
+        "optionsZh": [
+          "粉紅",
+          "灰",
+          "金",
+          "藍"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "被火灰染色 → 灰色。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l2-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The two sisters laughed and called her Cinderella.",
+        "explanationZh": "兩個姊姊大笑,叫她灰姑娘 (Cinderella)。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch9-l2-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The word came from the cinders that stained her gown.",
+        "question": "Why did they call her Cinderella?",
+        "options": [
+          "she liked the name",
+          "because of the ash on her",
+          "her father chose it",
+          "she sang of fire"
+        ],
+        "optionsZh": [
+          "她喜歡",
+          "因為她身上有灰",
+          "父親取的",
+          "她唱火的歌"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 名字來自身上的灰 → 因為她身上有灰 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l2-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "When the others slept, she sat by the fire and cried.",
+        "explanationZh": "別人睡著時,她坐在火爐邊哭。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l2-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Only the fire heard her. Only the wind heard her. Only the night...",
+        "explanationZh": "只有火聽見她。只有風聽見她。只有夜……",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch9-l3",
+    "chapter": 9,
+    "lessonInChapter": 3,
+    "segmentType": "main-story",
+    "storyId": "cinderella",
+    "storyBeat": "舞會公告 — 她也可以去嗎?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch9-l3-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "國王",
+            "right": "king"
+          },
+          {
+            "left": "舞會",
+            "right": "ball"
+          },
+          {
+            "left": "城鎮",
+            "right": "town"
+          },
+          {
+            "left": "幫忙",
+            "right": "help"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 king = 國王\n🔑 ball = 舞會\n🔑 town = 城鎮\n🔑 help = 幫忙\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l3-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The king's son was going to have a big ball.",
+        "explanationZh": "國王的兒子要辦一場大舞會。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch9-l3-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He wanted to find a wife. Every girl in town was asked.",
+        "question": "Why did the prince hold the ball?",
+        "options": [
+          "for selling food",
+          "so he could choose a bride",
+          "his horses were tired",
+          "gold needed counting"
+        ],
+        "optionsZh": [
+          "為了賣食物",
+          "為了選出新娘",
+          "他的馬累了",
+          "要數金幣"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: find a wife → choose a bride (paraphrase)。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l3-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The two sisters bought new gowns. They laughed and danced.",
+        "explanationZh": "兩個姊姊買了新禮服。她們又笑又跳。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch9-l3-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "They turned in the mirror. They tried each ribbon.",
+        "questionEn": "Were the two sisters excited for the ball?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 試衣轉圈 → 興奮 → 答 Yes",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l3-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Cinderella helped them dress for the big night.",
+        "explanationZh": "灰姑娘幫她們穿衣服準備大日子。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch9-l3-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She tied their hair and washed their shoes for hours.",
+        "question": "How did Cinderella help her sisters?",
+        "options": [
+          "by shouting at them",
+          "with many small tasks",
+          "giving them money",
+          "singing very loudly"
+        ],
+        "optionsZh": [
+          "對她們大叫",
+          "做很多小事",
+          "給她們錢",
+          "大聲唱歌"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 綁頭髮 + 洗鞋 → 做很多小事 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l3-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She looked at the new gowns with quiet eyes.",
+        "explanationZh": "她用安靜的眼神看著新禮服。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch9-l3-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "But she could not go. She had no gown.",
+        "question": "Why could Cinderella not go to the ball?",
+        "options": [
+          "she was too sleepy",
+          "she had nothing nice to wear",
+          "her father said no",
+          "it was raining hard"
+        ],
+        "optionsZh": [
+          "太想睡",
+          "沒有好衣服穿",
+          "父親不准",
+          "下大雨"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: had no gown → 沒有好衣服穿 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch9-l3-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did Cinderella feel after the sisters left?",
+        "question": "How did Cinderella feel?",
+        "options": [
+          "😢 sad and alone",
+          "😡 angry and loud",
+          "😴 ready to sleep",
+          "🎉 happy and free"
+        ],
+        "optionsZh": [
+          "難過又孤單",
+          "生氣又大聲",
+          "想睡",
+          "開心又自由"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "別人去舞會她不能去 → 難過又孤單。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l3-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The door shut. The house went quiet. She sat down and cried...",
+        "explanationZh": "門關上了。房子安靜下來。她坐下來哭……",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch9-l4",
+    "chapter": 9,
+    "lessonInChapter": 4,
+    "segmentType": "main-story",
+    "storyId": "cinderella",
+    "storyBeat": "仙女教母出現 — 接下來會發生什麼?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch9-l4-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "老",
+            "right": "old"
+          },
+          {
+            "left": "披肩",
+            "right": "cloak"
+          },
+          {
+            "left": "帶",
+            "right": "bring"
+          },
+          {
+            "left": "南瓜",
+            "right": "pumpkin"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 old = 老\n🔑 cloak = 披肩\n🔑 bring = 帶\n🔑 pumpkin = 南瓜\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l4-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "After the sisters left, Cinderella cried by the fire.",
+        "explanationZh": "姊姊們走後,灰姑娘在火爐邊哭。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch9-l4-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Her tears fell on the grey floor, soft and slow.",
+        "question": "How was Cinderella crying?",
+        "options": [
+          "with a loud shout",
+          "quiet and gentle",
+          "in a fast burst",
+          "while singing songs"
+        ],
+        "optionsZh": [
+          "大聲喊",
+          "安靜又溫柔",
+          "一陣快哭",
+          "一邊唱歌"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: soft and slow → quiet and gentle (paraphrase, 不直接 verbatim)。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l4-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A kind old woman in a soft blue cloak stepped from the dark.",
+        "explanationZh": "一個穿著軟藍披肩的善良老婦人從黑暗中走出來。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch9-l4-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "No door opened. No window moved.",
+        "questionEn": "Did the old woman come in a normal way?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 沒門沒窗動 → 不是正常進來 → 答 No",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l4-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"I am your fairy godmother. Do not cry, child.\"",
+        "explanationZh": "「我是你的仙女教母。別哭了,孩子。」",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch9-l4-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Who is the kind old woman?",
+        "question": "Who is the old woman?",
+        "options": [
+          "👵 the new wife",
+          "🧚 a fairy godmother",
+          "🐱 a magic cat",
+          "🦊 a fox"
+        ],
+        "optionsZh": [
+          "新妻子",
+          "仙女教母",
+          "魔法貓",
+          "狐狸"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "她自己說「我是仙女教母」。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l4-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Bring me a pumpkin, six mice, and one big rat from the yard.\"",
+        "explanationZh": "「從院子裡帶給我一顆南瓜、六隻老鼠和一隻大鼠。」",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch9-l4-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Her voice was soft, but her eyes shone bright.",
+        "question": "What was the fairy godmother's manner like?",
+        "options": [
+          "loud and rough",
+          "gentle but strong",
+          "sleepy and slow",
+          "angry and quick"
+        ],
+        "optionsZh": [
+          "大聲粗魯",
+          "溫柔但堅定",
+          "想睡又慢",
+          "生氣又快"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: voice soft + eyes bright → 溫柔但堅定 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l4-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Cinderella ran to the yard to find them all.",
+        "explanationZh": "灰姑娘跑到院子去找這些東西。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l4-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The fairy held her hand over the pumpkin. The air felt warm...",
+        "explanationZh": "仙女把手放在南瓜上。空氣變暖了……",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch9-l5",
+    "chapter": 9,
+    "lessonInChapter": 5,
+    "segmentType": "main-story",
+    "storyId": "cinderella",
+    "storyBeat": "馬車 + 鼠變馬 — 12 點限制是什麼?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch9-l5-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "碰",
+            "right": "tap"
+          },
+          {
+            "left": "金色",
+            "right": "gold"
+          },
+          {
+            "left": "馬",
+            "right": "horse"
+          },
+          {
+            "left": "結束",
+            "right": "end"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 tap = 碰\n🔑 gold = 金色\n🔑 horse = 馬\n🔑 end = 結束\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l5-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The fairy godmother tapped the pumpkin one time.",
+        "explanationZh": "仙女教母碰了南瓜一下。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch9-l5-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "It became a big gold coach with shiny wheels.",
+        "question": "What did the pumpkin become?",
+        "options": [
+          "some small bowls",
+          "her fine ride to the ball",
+          "one hot loaf of bread",
+          "just a soft warm bed"
+        ],
+        "optionsZh": [
+          "小碗",
+          "她去舞會的好坐騎",
+          "一條熱麵包",
+          "一張軟暖床"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: gold coach with wheels → 好坐騎 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l5-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The six mice became six white horses.",
+        "explanationZh": "六隻老鼠變成六匹白馬。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch9-l5-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The big rat stood up. He held a long whip in his paws.",
+        "questionEn": "Did the rat become a driver?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 站立 + 拿鞭 → 馬車駕駛 → 答 Yes",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l5-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Cinderella's grey rags turned into a long silver gown.",
+        "explanationZh": "灰姑娘的灰破衣變成一件長銀禮服。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch9-l5-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What color was Cinderella's new gown?",
+        "question": "What color was her new gown?",
+        "options": [
+          "⚫ still grey",
+          "⚪ silver",
+          "🌸 pink",
+          "💚 green"
+        ],
+        "optionsZh": [
+          "還是灰",
+          "銀色",
+          "粉紅",
+          "綠"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "長銀禮服 → 銀色。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l5-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Come home by twelve,\" the fairy said.",
+        "explanationZh": "「12 點前要回家,」仙女說。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch9-l5-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"The magic ends then. Everything goes back the way it was.\"",
+        "question": "What did the fairy warn about twelve o'clock?",
+        "options": [
+          "she will lose her gown",
+          "the spell will stop",
+          "the prince will leave",
+          "the moon will fall"
+        ],
+        "optionsZh": [
+          "她會丟掉禮服",
+          "魔法會停",
+          "王子會離開",
+          "月亮會掉"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: magic ends → 魔法會停 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l5-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Cinderella climbed into the gold coach with bright eyes.",
+        "explanationZh": "灰姑娘眼睛亮晶晶地爬上金馬車。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l5-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Twelve. Twelve. Twelve. The number sat in her ear like a small bell...",
+        "explanationZh": "12。12。12。這個數字像小鈴鐺在她耳邊響著……",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch9-l6",
+    "chapter": 9,
+    "lessonInChapter": 6,
+    "segmentType": "main-story",
+    "storyId": "cinderella",
+    "storyBeat": "12 點鐘響 — 鞋掉了 王子會找她?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch9-l6-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "跳舞",
+            "right": "dance"
+          },
+          {
+            "left": "鐘",
+            "right": "clock"
+          },
+          {
+            "left": "跑",
+            "right": "run"
+          },
+          {
+            "left": "掉",
+            "right": "fall"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 dance = 跳舞\n🔑 clock = 鐘\n🔑 run = 跑\n🔑 fall = 掉\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l6-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "At the ball, the prince could not look away from her.",
+        "explanationZh": "在舞會上,王子無法移開目光。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch9-l6-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His eyes followed her every step around the room.",
+        "question": "How did the prince watch Cinderella?",
+        "options": [
+          "barely noticed her at all",
+          "kept staring at her",
+          "with shut eyes",
+          "down at the floor"
+        ],
+        "optionsZh": [
+          "沒注意她",
+          "一直盯著她",
+          "閉眼",
+          "看地板"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: eyes followed every step → 一直盯著她 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l6-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They danced every dance. She forgot the time.",
+        "explanationZh": "他們每一支舞都跳。她忘了時間。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch9-l6-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The fairy's warning slipped out of her mind.",
+        "questionEn": "Did Cinderella remember about twelve o'clock?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 警告從腦中溜走 → 沒記得 → 答 No",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l6-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The clock began to strike twelve.",
+        "explanationZh": "時鐘開始敲 12 點。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch9-l6-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What time was it when the clock struck?",
+        "question": "What time was it?",
+        "options": [
+          "🌅 six in the morning",
+          "🕛 twelve at night",
+          "☀️ three in the day",
+          "🌙 nine at night"
+        ],
+        "optionsZh": [
+          "早上 6 點",
+          "半夜 12 點",
+          "下午 3 點",
+          "晚上 9 點"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "半夜 12 點。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l6-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She ran for the door as fast as she could.",
+        "explanationZh": "她盡全力往門口跑。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch9-l6-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Her heart beat hard. Her silver gown flew behind her.",
+        "question": "How did Cinderella leave the ball?",
+        "options": [
+          "walked slowly out",
+          "rushed away in a hurry",
+          "said goodbye to all",
+          "rode in a coach calmly"
+        ],
+        "optionsZh": [
+          "慢慢走出去",
+          "匆匆衝走",
+          "跟大家道別",
+          "坐車慢慢離開"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: heart beat hard + gown flew behind → 匆匆衝走 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l6-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One small fur slipper fell off on the stair.",
+        "explanationZh": "一隻小毛皮鞋掉在樓梯上。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l6-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The slipper stayed there alone. The night went still...",
+        "explanationZh": "那隻鞋孤伶伶留在那裡。夜變得很安靜……",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch9-l7",
+    "chapter": 9,
+    "lessonInChapter": 7,
+    "segmentType": "main-story",
+    "storyId": "cinderella",
+    "storyBeat": "鞋滑上腳 — 仙女教母在哪? 善良才是真正的魔法",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch9-l7-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "拿",
+            "right": "hold"
+          },
+          {
+            "left": "看",
+            "right": "look"
+          },
+          {
+            "left": "腳",
+            "right": "foot"
+          },
+          {
+            "left": "手",
+            "right": "hand"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 hold = 拿\n🔑 look = 看\n🔑 foot = 腳\n🔑 hand = 手\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l7-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The prince held the slipper. He looked all over the country.",
+        "explanationZh": "王子拿著那隻鞋。他找遍整個國家。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch9-l7-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He stopped at every door, big or small.",
+        "question": "How did the prince look for her?",
+        "options": [
+          "asked just one friend",
+          "visited many homes",
+          "wrote a long letter",
+          "gave up very fast"
+        ],
+        "optionsZh": [
+          "只問一個朋友",
+          "拜訪很多家",
+          "寫長信",
+          "很快放棄"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: stopped at every door → 拜訪很多家 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l7-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He came to her house. The two sisters tried the slipper.",
+        "explanationZh": "他來到她家。兩個姊姊試了那隻鞋。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch9-l7-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "They pushed and pulled. Their toes would not fit.",
+        "questionEn": "Did the slipper belong to one of the sisters?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 腳趾擠不進 → 不是她們的 → 答 No",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l7-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Cinderella came in quietly. She set her foot in the slipper.",
+        "explanationZh": "灰姑娘安靜地走進來。她把腳放進鞋裡。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch9-l7-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "It slid on like water on a smooth stone.",
+        "question": "How did the slipper fit Cinderella?",
+        "options": [
+          "way too tight",
+          "went on perfectly",
+          "fell off again",
+          "would not move"
+        ],
+        "optionsZh": [
+          "太緊",
+          "完美合腳",
+          "又掉下來",
+          "動不了"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: slid on like water → 完美合腳 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l7-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The prince knew her at once. He took her hand.",
+        "explanationZh": "王子立刻認出她。他握住她的手。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch9-l7-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did Cinderella treat her sisters in the end?",
+        "question": "How did Cinderella treat her sisters?",
+        "options": [
+          "💖 with kindness",
+          "⚔️ with anger",
+          "🏃 by running away",
+          "🚪 by locking them out"
+        ],
+        "optionsZh": [
+          "溫柔對待",
+          "生氣對待",
+          "跑走",
+          "把她們鎖在外面"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "Perrault 結局: 她善良到原諒姊姊 → with kindness。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l7-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She was kind, even to her two sisters.",
+        "explanationZh": "她善良,連對兩個姊姊都是。",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch9-l7-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "And the fairy godmother? Gone with the wind. The real magic was inside her all along...",
+        "explanationZh": "那仙女教母呢? 隨風而去了。真正的魔法一直都在她心裡……",
+        "tags": [
+          "story",
+          "ch9",
+          "cinderella"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1661 @@
+[
+  {
+    "id": "kt-ch13-l1",
+    "chapter": 13,
+    "lessonInChapter": 1,
+    "segmentType": "main-story",
+    "storyId": "red-riding-hood",
+    "storyBeat": "媽媽叮嚀去看奶奶 — 路上會發生什麼?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch13-l1-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "紅色",
+            "right": "red"
+          },
+          {
+            "left": "帽子",
+            "right": "hood"
+          },
+          {
+            "left": "媽媽",
+            "right": "mother"
+          },
+          {
+            "left": "村子",
+            "right": "village"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 red = 紅色\n🔑 hood = 帽子\n🔑 mother = 媽媽\n🔑 village = 村子\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l1-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Long ago in a village near the woods, a girl lived with her mother.",
+        "explanationZh": "很久以前在森林旁的村子,有個女孩跟媽媽住在一起。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l1-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Her grandma had made her a red hood from soft cloth.",
+        "explanationZh": "她奶奶用軟布做了一頂紅帽子給她。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch13-l1-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She wore the red hood all the time. People gave her a name.",
+        "question": "Why was she called Little Red Riding Hood?",
+        "options": [
+          "her hair was red",
+          "she wore the red hat every day",
+          "her cat was red",
+          "she lived in red house"
+        ],
+        "optionsZh": [
+          "頭髮紅",
+          "每天戴紅帽",
+          "貓是紅的",
+          "住紅房"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: wore red hood all the time → 每天戴紅帽 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l1-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One morning, mother called the girl into the kitchen.",
+        "explanationZh": "一天早上,媽媽叫女孩到廚房來。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l1-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Grandma is sick. Take her this cake and some wine.\"",
+        "explanationZh": "「奶奶生病了。把這個蛋糕跟一些酒帶給她。」",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch13-l1-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Mother put the cake and the wine into a small basket.",
+        "question": "What did mother give the girl?",
+        "options": [
+          "gold and coins",
+          "food for sick grandma",
+          "a new hood",
+          "books to read"
+        ],
+        "optionsZh": [
+          "金幣",
+          "給生病奶奶的食物",
+          "新帽子",
+          "書"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: cake + wine in basket → 給生病奶奶的食物 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l1-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Walk straight to grandma. Do not stop on the way.\"",
+        "explanationZh": "「直接走到奶奶家。路上不要停。」",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch13-l1-q9",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Mother's voice was firm. Her eyes were not smiling.",
+        "questionEn": "Was mother joking with the warning?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 聲音堅定 + 沒笑 → 不是開玩笑 → 答 No",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood",
+          "inference"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch13-l1-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What color was the girl's hood?",
+        "question": "What color was her hood?",
+        "options": [
+          "🌸 pink",
+          "❤️ red",
+          "🌟 gold",
+          "🌊 blue"
+        ],
+        "optionsZh": [
+          "粉紅",
+          "紅",
+          "金",
+          "藍"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "紅帽子 → red。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l1-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The girl took the basket and walked toward the woods...",
+        "explanationZh": "女孩拿起籃子,朝森林走去……",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch13-l2",
+    "chapter": 13,
+    "lessonInChapter": 2,
+    "segmentType": "main-story",
+    "storyId": "red-riding-hood",
+    "storyBeat": "森林裡見大野狼 — 他會做什麼?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch13-l2-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "路",
+            "right": "path"
+          },
+          {
+            "left": "安全",
+            "right": "safe"
+          },
+          {
+            "left": "樹",
+            "right": "tree"
+          },
+          {
+            "left": "狼",
+            "right": "wolf"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 path = 路\n🔑 safe = 安全\n🔑 tree = 樹\n🔑 wolf = 狼\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l2-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Mother said the path was the only safe way to grandma.",
+        "explanationZh": "媽媽說那條路是去奶奶家唯一安全的路。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch13-l2-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Mother said, \"Stay on the path. Do not go into the trees.\"",
+        "question": "What did mother tell the girl to do?",
+        "options": [
+          "run as fast as you can",
+          "keep to the safe road",
+          "sing a loud song",
+          "pick many flowers"
+        ],
+        "optionsZh": [
+          "用力跑",
+          "走安全的路",
+          "大聲唱歌",
+          "採很多花"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: stay on the path → 走安全的路 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l2-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The girl walked into the woods with the basket on her arm.",
+        "explanationZh": "女孩手挽著籃子走進森林。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch13-l2-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The woods were quiet. No birds sang. No wind moved.",
+        "questionEn": "Did the woods feel friendly today?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 安靜 + 沒鳥沒風 → 不友善 → 答 No",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l2-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A big bad wolf came out from behind a tall tree.",
+        "explanationZh": "一隻大野狼從一棵高樹後面走出來。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch13-l2-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Who came out from behind the tree?",
+        "question": "Who came out?",
+        "options": [
+          "🐰 a bunny",
+          "🐺 a big bad wolf",
+          "🦊 a fox",
+          "🐻 a bear"
+        ],
+        "optionsZh": [
+          "兔子",
+          "大野狼",
+          "狐狸",
+          "熊"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "從樹後走出來的是大野狼。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l2-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The wolf had soft eyes and a soft voice.",
+        "explanationZh": "狼有溫柔的眼神和溫柔的聲音。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch13-l2-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "But under his soft fur, his teeth were long and sharp.",
+        "question": "What was true about the wolf?",
+        "options": [
+          "kind as he looked",
+          "bad inside but soft outside",
+          "just a small puppy",
+          "a friend to the girl"
+        ],
+        "optionsZh": [
+          "像看起來那樣善良",
+          "心裡壞外表軟",
+          "只是小狗",
+          "是女孩的朋友"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 軟毛下牙又長又尖 → 心裡壞外表軟 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l2-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The girl had never seen a wolf before. She was not afraid.",
+        "explanationZh": "女孩從沒見過狼。她不害怕。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l2-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The wolf smiled. He had a quick plan in his head...",
+        "explanationZh": "狼笑了。他腦子裡有個壞主意……",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch13-l3",
+    "chapter": 13,
+    "lessonInChapter": 3,
+    "segmentType": "main-story",
+    "storyId": "red-riding-hood",
+    "storyBeat": "大野狼問路 — 她應該說嗎?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch13-l3-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "早上",
+            "right": "morning"
+          },
+          {
+            "left": "告訴",
+            "right": "tell"
+          },
+          {
+            "left": "家",
+            "right": "house"
+          },
+          {
+            "left": "橡樹",
+            "right": "oak"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 morning = 早上\n🔑 tell = 告訴\n🔑 house = 家\n🔑 oak = 橡樹\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l3-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Good morning, little girl,\" the wolf said in a soft voice.",
+        "explanationZh": "「早安,小女孩,」狼用溫柔的聲音說。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l3-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Where are you going so early today?\"",
+        "explanationZh": "「妳這麼早要去哪裡?」",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch13-l3-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The girl did not know that wolves were bad inside.",
+        "question": "Why did the girl trust the wolf?",
+        "options": [
+          "he gave her some money",
+          "she had no fear of him",
+          "she was very brave",
+          "mother told her to"
+        ],
+        "optionsZh": [
+          "他給她錢",
+          "她不怕他",
+          "她很勇敢",
+          "媽媽叫她信"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: did not know wolves were bad → 她不怕他 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l3-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She told him everything in her small voice.",
+        "explanationZh": "她用小小的聲音把所有事都告訴他。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l3-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"I am going to grandma's house, down the path.\"",
+        "explanationZh": "「我要去奶奶家,沿著這條路走。」",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch13-l3-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Her house is by the three big oaks. She is sick today.\"",
+        "question": "What did the girl tell the wolf?",
+        "options": [
+          "only her own name",
+          "where grandma lived",
+          "her favorite color",
+          "the time of day"
+        ],
+        "optionsZh": [
+          "只有她自己的名字",
+          "奶奶住哪",
+          "她最愛的顏色",
+          "時間"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 三棵橡樹 + 奶奶生病 → 奶奶住哪 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l3-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The wolf nodded. \"Pick some flowers for grandma,\" he said.",
+        "explanationZh": "狼點點頭。「採些花給奶奶吧,」他說。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch13-l3-q9",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The wolf wanted the girl to stop and stay in the woods longer.",
+        "questionEn": "Was the wolf trying to help the girl?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 想讓她停下來 → 不是幫忙 → 答 No",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood",
+          "inference"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch13-l3-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Should you tell a stranger where you are going?",
+        "question": "Should you tell strangers?",
+        "options": [
+          "✅ yes always",
+          "❌ no never",
+          "🤔 only sometimes",
+          "🤷 it does not matter"
+        ],
+        "optionsZh": [
+          "永遠該",
+          "絕對不要",
+          "有時可以",
+          "沒差"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "媽媽說別跟陌生人講話 → 絕對不要。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l3-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The girl ran off to pick flowers. The wolf ran the other way...",
+        "explanationZh": "女孩跑去採花。狼往另一邊跑去……",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch13-l4",
+    "chapter": 13,
+    "lessonInChapter": 4,
+    "segmentType": "main-story",
+    "storyId": "red-riding-hood",
+    "storyBeat": "大野狼跑去奶奶家 — 奶奶怎麼樣了?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch13-l4-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "計劃",
+            "right": "plan"
+          },
+          {
+            "left": "花",
+            "right": "flower"
+          },
+          {
+            "left": "跑",
+            "right": "run"
+          },
+          {
+            "left": "門",
+            "right": "door"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 plan = 計劃\n🔑 flower = 花\n🔑 run = 跑\n🔑 door = 門\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l4-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The wolf ran fast to grandma's house.",
+        "explanationZh": "狼快速跑向奶奶家。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch13-l4-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His feet did not stop. The trees flew past.",
+        "question": "How did the wolf travel?",
+        "options": [
+          "walked very slow",
+          "moved at top speed",
+          "flew in the sky",
+          "rode a small horse"
+        ],
+        "optionsZh": [
+          "走很慢",
+          "用最快速度",
+          "在天上飛",
+          "騎小馬"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 不停 + 樹飛過 → 最快速度 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l4-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Back in the woods, the girl picked many bright flowers.",
+        "explanationZh": "在森林裡,女孩採了很多漂亮的花。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch13-l4-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The wolf moved like the wind. The girl moved like a soft cloud.",
+        "questionEn": "Would the wolf get there first?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 狼像風快 + 女孩像雲慢 → 狼先到 → 答 Yes",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l4-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The wolf came to grandma's little house at last.",
+        "explanationZh": "狼終於來到奶奶的小房子。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l4-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He knocked on the wooden door. Knock, knock, knock.",
+        "explanationZh": "他敲木門。咚,咚,咚。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch13-l4-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Open up. It is me, Little Red Riding Hood.\"",
+        "question": "What did the wolf say at the door?",
+        "options": [
+          "that a friend was here",
+          "pretending to be the girl",
+          "asking for help out loud",
+          "selling cake at the door"
+        ],
+        "optionsZh": [
+          "朋友來了",
+          "裝成那個女孩",
+          "大聲求救",
+          "在門口賣蛋糕"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 他說自己是小紅帽 → 裝成那個女孩 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l4-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Poor grandma was in bed. She was too sick to stand up.",
+        "explanationZh": "可憐的奶奶在床上。她病到站不起來。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch13-l4-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did grandma feel?",
+        "question": "How did grandma feel?",
+        "options": [
+          "💪 strong and fine",
+          "🤒 sick and weak",
+          "😄 happy and ready",
+          "😡 angry"
+        ],
+        "optionsZh": [
+          "強壯沒事",
+          "生病無力",
+          "開心",
+          "生氣"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "在床上 + 站不起來 → 生病無力。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l4-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Come in, dear,\" grandma called from her bed. The door opened...",
+        "explanationZh": "「進來吧,孩子,」奶奶從床上喊。門打開了……",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch13-l5",
+    "chapter": 13,
+    "lessonInChapter": 5,
+    "segmentType": "main-story",
+    "storyId": "red-riding-hood",
+    "storyBeat": "小紅帽到奶奶家 — 床上是奶奶嗎?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch13-l5-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "帽子",
+            "right": "cap"
+          },
+          {
+            "left": "床",
+            "right": "bed"
+          },
+          {
+            "left": "毯子",
+            "right": "blanket"
+          },
+          {
+            "left": "鼻子",
+            "right": "nose"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 cap = 帽子\n🔑 bed = 床\n🔑 blanket = 毯子\n🔑 nose = 鼻子\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l5-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The wolf took grandma into his stomach in one big bite.",
+        "explanationZh": "狼一口把奶奶吞進肚子裡。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch13-l5-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He put on grandma's sleeping cap. He climbed into her bed.",
+        "question": "What did the wolf do next?",
+        "options": [
+          "ran far away from house",
+          "dressed up like grandma",
+          "cooked some food",
+          "called for the girl"
+        ],
+        "optionsZh": [
+          "跑遠離開",
+          "裝扮成奶奶",
+          "煮食物",
+          "叫女孩"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 戴帽 + 上床 → 裝扮成奶奶 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l5-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He pulled the blanket up to his black wolf nose.",
+        "explanationZh": "他把毯子拉到他黑黑的狼鼻上。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch13-l5-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Only his eyes and one bit of nose showed above the blanket.",
+        "questionEn": "Was the wolf trying to hide his face?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 只露眼睛跟鼻子 → 在藏臉 → 答 Yes",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l5-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Little Red Riding Hood came in with her basket of flowers.",
+        "explanationZh": "小紅帽帶著一籃花走進來。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch13-l5-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did grandma's room feel?",
+        "question": "How did the room feel?",
+        "options": [
+          "☀️ bright and warm",
+          "🌑 dark and odd",
+          "🎉 noisy and full",
+          "🌸 sweet and clean"
+        ],
+        "optionsZh": [
+          "明亮溫暖",
+          "暗暗怪怪",
+          "熱鬧",
+          "香乾淨"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "狼在床上裝奶奶 → 暗暗怪怪。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l5-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The room was dark. Something looked very wrong.",
+        "explanationZh": "房間很暗。有點不對勁。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch13-l5-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The shape in the bed did not look like her dear grandma.",
+        "question": "What did the girl notice?",
+        "options": [
+          "the bed was empty",
+          "grandma looked different",
+          "the door was open",
+          "her basket was gone"
+        ],
+        "optionsZh": [
+          "床是空的",
+          "奶奶看起來不一樣",
+          "門開著",
+          "籃子不見"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: shape did not look like grandma → 奶奶看起來不一樣 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l5-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "She stepped close to the bed and looked again.",
+        "explanationZh": "她走近床邊,又看了一次。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l5-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Big ears. Big eyes. Big teeth. Was this really grandma...?",
+        "explanationZh": "大耳朵。大眼睛。大牙齒。這真的是奶奶嗎……?",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch13-l6",
+    "chapter": 13,
+    "lessonInChapter": 6,
+    "segmentType": "main-story",
+    "storyId": "red-riding-hood",
+    "storyBeat": "獵人來救 — 來得及嗎?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch13-l6-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "耳朵",
+            "right": "ear"
+          },
+          {
+            "left": "牙齒",
+            "right": "teeth"
+          },
+          {
+            "left": "聽",
+            "right": "hear"
+          },
+          {
+            "left": "睡",
+            "right": "sleep"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 ear = 耳朵\n🔑 teeth = 牙齒\n🔑 hear = 聽\n🔑 sleep = 睡\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l6-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Grandma, what big ears you have!\" the girl said.",
+        "explanationZh": "「奶奶,妳的耳朵好大!」女孩說。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l6-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"All the better to hear you with, my dear.\"",
+        "explanationZh": "「這樣才聽得到妳呀,我的孩子。」",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch13-l6-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Grandma, what big teeth you have!\" \"All the better to eat you with!\"",
+        "question": "What did the wolf finally say?",
+        "options": [
+          "that he wanted to help",
+          "about eating the girl",
+          "about being tired",
+          "about being her friend"
+        ],
+        "optionsZh": [
+          "他想幫忙",
+          "要吃女孩",
+          "說他很累",
+          "說他是朋友"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: better to eat you with → 要吃女孩 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l6-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The wolf jumped up. He took the girl into his stomach too.",
+        "explanationZh": "狼跳起來。他也把女孩吞進肚子裡。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l6-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Then he was full. He fell back into bed and slept.",
+        "explanationZh": "然後他飽了。他倒回床上睡著了。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch13-l6-q7",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Soon the whole house shook with loud snoring sounds.",
+        "questionEn": "Was the wolf sleeping deeply?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 屋子被打呼震動 → 睡很深 → 答 Yes",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l6-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A kind huntsman walked by the little house.",
+        "explanationZh": "一個善良的獵人走過小房子旁邊。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch13-l6-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He heard the snoring. He knew that was no grandma sound.",
+        "question": "How did the huntsman know something was wrong?",
+        "options": [
+          "a strong smell of smoke",
+          "the strange noise in air",
+          "reading a small note",
+          "seeing bright fire light"
+        ],
+        "optionsZh": [
+          "聞到煙",
+          "聽到怪聲",
+          "看紙條",
+          "看到亮光"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: heard snoring not grandma sound → 聽到怪聲 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch13-l6-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Who came to help in time?",
+        "question": "Who came to help?",
+        "options": [
+          "👮 a police officer",
+          "🏹 a kind huntsman",
+          "👨‍🌾 a farmer",
+          "🧙 a wizard"
+        ],
+        "optionsZh": [
+          "警察",
+          "善良的獵人",
+          "農夫",
+          "巫師"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "走過去的是獵人。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l6-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The huntsman opened the door. He held his hunting knife ready...",
+        "explanationZh": "獵人打開門。他握緊獵刀準備好……",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch13-l7",
+    "chapter": 13,
+    "lessonInChapter": 7,
+    "segmentType": "main-story",
+    "storyId": "red-riding-hood",
+    "storyBeat": "救出奶奶 — 媽媽的話現在懂了",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch13-l7-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "獵人",
+            "right": "huntsman"
+          },
+          {
+            "left": "打開",
+            "right": "open"
+          },
+          {
+            "left": "拉",
+            "right": "pull"
+          },
+          {
+            "left": "聽",
+            "right": "listen"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 huntsman = 獵人\n🔑 open = 打開\n🔑 pull = 拉\n🔑 listen = 聽\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l7-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The huntsman saw the wolf fast asleep in grandma's bed.",
+        "explanationZh": "獵人看見狼在奶奶床上熟睡。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch13-l7-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He opened up the wolf with great care.",
+        "question": "What did the huntsman do to the wolf?",
+        "options": [
+          "gave him some food",
+          "opened him up carefully",
+          "sang to him gently",
+          "told a long story"
+        ],
+        "optionsZh": [
+          "給他食物",
+          "小心打開他",
+          "溫柔唱歌",
+          "說長故事"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: opened up with care → 小心打開他 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l7-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He pulled grandma out first. Then he pulled the girl out too.",
+        "explanationZh": "他先把奶奶拉出來。然後把女孩也拉出來。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch13-l7-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Grandma sat up. The girl held her hand. Both could breathe again.",
+        "questionEn": "Were they both still alive?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 坐起來 + 能呼吸 → 還活著 → 答 Yes",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l7-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The big bad wolf gave up. He never came back to those woods.",
+        "explanationZh": "大野狼放棄了。他再也沒回到那片森林。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch13-l7-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The huntsman walked home. Grandma drank some hot tea.",
+        "question": "How did the day end for grandma?",
+        "options": [
+          "still feeling sick",
+          "warm and safe again",
+          "far away from home",
+          "lost in deep sleep"
+        ],
+        "optionsZh": [
+          "還生病",
+          "溫暖又安全",
+          "離家很遠",
+          "睡很沉"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: hot tea + huntsman home → 溫暖又安全 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l7-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Little Red Riding Hood looked out the window.",
+        "explanationZh": "小紅帽往窗外看。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l7-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"I will always stay on the path,\" she said.",
+        "explanationZh": "「我以後一定走在路上,」她說。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch13-l7-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What did the girl learn from the day?",
+        "question": "What did she learn?",
+        "options": [
+          "🍰 to bake cakes",
+          "👂 to listen to mother",
+          "🏃 to run faster",
+          "🎨 to pick flowers"
+        ],
+        "optionsZh": [
+          "做蛋糕",
+          "聽媽媽的話",
+          "跑更快",
+          "採花"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "結尾教訓:聽媽媽的話。",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch13-l7-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"I will always listen to mother.\" And the red hood stayed bright forever...",
+        "explanationZh": "「我會永遠聽媽媽的話。」紅帽子永遠鮮紅……",
+        "tags": [
+          "story",
+          "ch13",
+          "red-riding-hood"
+        ]
+      }
+    ]
+  }
+]

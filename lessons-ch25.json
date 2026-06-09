@@ -1,0 +1,1766 @@
+[
+  {
+    "id": "kt-ch25-l1",
+    "chapter": 25,
+    "lessonInChapter": 1,
+    "segmentType": "main-story",
+    "storyId": "yugong",
+    "storyBeat": "愚公門口兩座大山 — 出門很不方便",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch25-l1-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "老人",
+            "right": "old man"
+          },
+          {
+            "left": "家",
+            "right": "home"
+          },
+          {
+            "left": "山",
+            "right": "mountain"
+          },
+          {
+            "left": "路",
+            "right": "road"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 old man = 老人\n🔑 home = 家\n🔑 mountain = 山\n🔑 road = 路\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l1-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Long ago, there lived an old man called Yu Gong.",
+        "explanationZh": "很久以前,有一位老人叫做愚公。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch25-l1-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His home stood right between two very big mountains.",
+        "question": "Where did Yu Gong live?",
+        "options": [
+          "by a quiet blue sea",
+          "with tall walls of rock on each side",
+          "on a small green island",
+          "inside a busy town"
+        ],
+        "optionsZh": [
+          "安靜的藍色海邊",
+          "兩邊都有高大岩壁的地方",
+          "一座小綠島上",
+          "熱鬧的城裡"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: between two very big mountains → 兩邊都有高大岩壁 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch25-l1-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The mountains made every trip out of his house very long.",
+        "questionEn": "Was it easy for Yu Gong to leave his home?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: every trip very long → 不容易 → 答 No",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l1-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Every day Yu Gong had to walk a long way around them.",
+        "explanationZh": "愚公每天都要繞著山走很長一段路。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch25-l1-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He could not go straight to town. He had to take the long path.",
+        "question": "Why did Yu Gong take a long path each day?",
+        "options": [
+          "he loved long walks",
+          "two mountains blocked the short way",
+          "he was looking for a friend",
+          "he was afraid of cars"
+        ],
+        "optionsZh": [
+          "他喜歡走遠路",
+          "兩座山擋住短路線",
+          "他在找朋友",
+          "他怕車子"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: could not go straight + had to take long path → 山擋住短路線 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l1-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His legs grew tired from the long walk again and again.",
+        "explanationZh": "一次又一次走遠路,他的腳越來越累。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch25-l1-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Yu Gong thought about this problem for many, many days.",
+        "question": "How did Yu Gong feel about the long walk?",
+        "options": [
+          "it made him very happy",
+          "he wanted to find an answer",
+          "it slipped his mind right away",
+          "a new house would be best"
+        ],
+        "optionsZh": [
+          "這讓他很開心",
+          "他想要找出解決辦法",
+          "一下就忘了",
+          "蓋新家最好"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: thought about this for many days → 在想辦法 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l1-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One evening, an idea came to him.",
+        "explanationZh": "一個傍晚,他想到了一個辦法。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch25-l1-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did Yu Gong feel about his new idea?",
+        "question": "How did he feel?",
+        "options": [
+          "😴 sleepy",
+          "🤔 ready to try",
+          "😡 angry",
+          "😱 scared"
+        ],
+        "optionsZh": [
+          "想睡",
+          "準備動手",
+          "生氣",
+          "害怕"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "想到辦法 + 一個傍晚 → 準備動手 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l1-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He stood up tall and walked back to his family...",
+        "explanationZh": "他站直身子,走回去找家人……",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch25-l2",
+    "chapter": 25,
+    "lessonInChapter": 2,
+    "segmentType": "main-story",
+    "storyId": "yugong",
+    "storyBeat": "愚公決定移山 — 鄰居問: 這可能嗎?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch25-l2-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "家人",
+            "right": "family"
+          },
+          {
+            "left": "搬走",
+            "right": "move away"
+          },
+          {
+            "left": "鄰居",
+            "right": "neighbor"
+          },
+          {
+            "left": "可能",
+            "right": "possible"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 family = 家人\n🔑 move away = 搬走\n🔑 neighbor = 鄰居\n🔑 possible = 可能\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l2-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "That evening, Yu Gong sat with his family by the door.",
+        "explanationZh": "那個傍晚,愚公和家人坐在門口。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch25-l2-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His sons and grandsons all came close to hear him.",
+        "question": "Who came to hear Yu Gong speak?",
+        "options": [
+          "only one young son",
+          "a kind town doctor",
+          "the whole big and small family",
+          "a quiet old neighbor"
+        ],
+        "optionsZh": [
+          "只有一個小兒子",
+          "一位好心鎮上醫生",
+          "全家大大小小",
+          "一位安靜的老鄰居"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "推理: sons and grandsons all came → 全家大大小小 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch25-l2-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The whole family kept very quiet and looked at him.",
+        "questionEn": "Was the family ready to listen to Yu Gong?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 安靜 + 看著他 → 準備聽 → 答 Yes",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l2-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"I want to move the mountains away from our home,\" he said.",
+        "explanationZh": "「我想把山從我們家門口搬走,」他說。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch25-l2-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He wanted to take the two big mountains far from his door.",
+        "question": "What was Yu Gong's big plan?",
+        "options": [
+          "build a tall new house",
+          "take the mountains far away",
+          "plant ten small trees",
+          "walk to a new town"
+        ],
+        "optionsZh": [
+          "蓋一棟高新房子",
+          "把山搬到很遠的地方",
+          "種十棵小樹",
+          "走到新的鎮上"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: take mountains far from door → 把山搬到很遠的地方 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l2-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A neighbor from next door heard every word.",
+        "explanationZh": "隔壁的鄰居把每一句話都聽到了。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch25-l2-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The neighbor laughed and asked, \"Is that even possible?\"",
+        "question": "What did the neighbor think of the plan?",
+        "options": [
+          "it sounded very easy",
+          "it would never really happen",
+          "a great chance to help out",
+          "time to buy a new house"
+        ],
+        "optionsZh": [
+          "聽起來很簡單",
+          "永遠不會真的發生",
+          "幫忙的好機會",
+          "該買新房子了"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: laughed + 問可能嗎 → 永遠不會真的發生 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l2-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Yu Gong smiled and said, \"Day by day, we can do it.\"",
+        "explanationZh": "愚公笑著說:「一天又一天,我們做得到。」",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch25-l2-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did Yu Gong feel when he answered the neighbor?",
+        "question": "How did he feel?",
+        "options": [
+          "😄 calm and sure",
+          "😢 sad",
+          "😡 angry",
+          "😴 sleepy"
+        ],
+        "optionsZh": [
+          "平靜又確定",
+          "難過",
+          "生氣",
+          "想睡"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "笑著 + 「我們做得到」 → 平靜又確定。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l2-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The neighbor walked home shaking his head. But the family stayed up to talk...",
+        "explanationZh": "鄰居搖搖頭走回家。但家人留下來繼續商量……",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch25-l3",
+    "chapter": 25,
+    "lessonInChapter": 3,
+    "segmentType": "main-story",
+    "storyId": "yugong",
+    "storyBeat": "兒子和孫子都來幫 — 該怎麼運?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch25-l3-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "兒子",
+            "right": "son"
+          },
+          {
+            "left": "孫子",
+            "right": "grandson"
+          },
+          {
+            "left": "籃子",
+            "right": "basket"
+          },
+          {
+            "left": "石頭",
+            "right": "stone"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 son = 兒子\n🔑 grandson = 孫子\n🔑 basket = 籃子\n🔑 stone = 石頭\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l3-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The next morning, his sons came out with big baskets.",
+        "explanationZh": "第二天早上,兒子們拿著大籃子出來。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch25-l3-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His grandsons came too, with smaller baskets in small hands.",
+        "question": "Who else came to help that morning?",
+        "options": [
+          "only the old neighbor",
+          "the youngest kids of the family",
+          "a tall passing stranger",
+          "three big tall horses"
+        ],
+        "optionsZh": [
+          "只有老鄰居",
+          "家裡最小的孩子們",
+          "高大的陌生人",
+          "三匹高大的馬"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: grandsons + small hands → 家裡最小的孩子們 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch25-l3-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Three sizes of baskets stood by the door in a neat row.",
+        "questionEn": "Were three generations working together?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 三種大小 → 大人 + 大孩子 + 小孩子 → 三代一起 → 答 Yes",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l3-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They asked, \"How should we carry all this stone?\"",
+        "explanationZh": "他們問:「我們該怎麼運這麼多石頭?」",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch25-l3-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Yu Gong said, \"Take it to the river, one basket at a time.\"",
+        "question": "Where did Yu Gong want them to take the stone?",
+        "options": [
+          "into the dark forest",
+          "down to the water, bit by bit",
+          "up onto the roof",
+          "back into the cave"
+        ],
+        "optionsZh": [
+          "進到暗森林裡",
+          "到水邊,一點一點地搬",
+          "上到屋頂",
+          "回到山洞裡"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: river + one basket at a time → 到水邊一點一點搬 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l3-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The whole family picked up the baskets and began to work.",
+        "explanationZh": "全家人拿起籃子,開始幹活。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch25-l3-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Each person carried what they could, from the biggest to the smallest.",
+        "question": "How did each person help?",
+        "options": [
+          "only the strongest worked",
+          "everyone did their fair share",
+          "they took turns to sleep",
+          "they sat down to wait"
+        ],
+        "optionsZh": [
+          "只有最強壯的工作",
+          "每個人各盡其力",
+          "他們輪流去睡",
+          "他們坐下來等"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: each carried what they could → 每個人各盡其力 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l3-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They walked to the river and back. The sun was high in the sky.",
+        "explanationZh": "他們走到河邊再走回來。太陽已經高高掛著。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch25-l3-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did the family feel working together?",
+        "question": "How did they feel?",
+        "options": [
+          "😊 close as a team",
+          "😴 too sleepy",
+          "😡 angry at each other",
+          "😱 scared of work"
+        ],
+        "optionsZh": [
+          "像團隊一樣親近",
+          "太累想睡",
+          "彼此生氣",
+          "怕工作"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "三代一起 + 各盡其力 → 像團隊一樣親近。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l3-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "But the mountains still looked just as tall as before...",
+        "explanationZh": "但山看起來還是跟以前一樣高……",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch25-l4",
+    "chapter": 25,
+    "lessonInChapter": 4,
+    "segmentType": "main-story",
+    "storyId": "yugong",
+    "storyBeat": "一筐土一筐土運走 — 路人笑他",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch25-l4-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "泥土",
+            "right": "dirt"
+          },
+          {
+            "left": "一天",
+            "right": "day"
+          },
+          {
+            "left": "河",
+            "right": "river"
+          },
+          {
+            "left": "笑",
+            "right": "laugh"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 dirt = 泥土\n🔑 day = 一天\n🔑 river = 河\n🔑 laugh = 笑\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l4-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Every day they took one basket of stone and dirt away.",
+        "explanationZh": "每天他們搬走一籃石頭和泥土。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch25-l4-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The work was slow, but the family never stopped.",
+        "question": "How fast did the work go each day?",
+        "options": [
+          "fast and very easy",
+          "slow but steady",
+          "finished by lunch",
+          "done in one week"
+        ],
+        "optionsZh": [
+          "又快又容易",
+          "慢但持續",
+          "中午前就好",
+          "一週就做完"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: slow + never stopped → 慢但持續 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch25-l4-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The walk to the river was very long under the bright sun.",
+        "questionEn": "Was the daily trip tiring for the family?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 很遠 + 大太陽下 → 累 → 答 Yes",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l4-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A man passing by stopped to watch them.",
+        "explanationZh": "一個路過的男人停下來看他們。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch25-l4-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He laughed and said, \"You are old. You cannot finish this.\"",
+        "question": "What did the man passing by think?",
+        "options": [
+          "lend a hand right away",
+          "this job was way too big",
+          "the dirt was worth buying",
+          "the lost dog must be near"
+        ],
+        "optionsZh": [
+          "馬上想幫忙",
+          "這工作太大了",
+          "泥土值得買",
+          "走失的狗一定在附近"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: laughed + cannot finish → 覺得這工作太大 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l4-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Yu Gong heard him but did not stop walking.",
+        "explanationZh": "愚公聽見他的話,但沒有停下腳步。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch25-l4-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He kept his basket up and kept his eyes on the path.",
+        "question": "What did Yu Gong choose to do?",
+        "options": [
+          "stop and go home to rest",
+          "keep walking with his basket",
+          "shout back at the man",
+          "sit down and cry"
+        ],
+        "optionsZh": [
+          "停下來回家休息",
+          "帶著籃子繼續走",
+          "對著男人大叫",
+          "坐下來哭"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: kept basket up + eyes on path → 繼續走 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l4-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His sons and grandsons walked right behind him.",
+        "explanationZh": "兒子們和孫子們就走在他後面。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch25-l4-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did the family answer the man's laughing words?",
+        "question": "What did the family do?",
+        "options": [
+          "🚶 kept walking together",
+          "💤 went home to sleep",
+          "😡 fought with the man",
+          "🎵 sang a happy song"
+        ],
+        "optionsZh": [
+          "一起繼續走",
+          "回家睡覺",
+          "跟男人吵架",
+          "唱起快樂的歌"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "兒子孫子跟在後面繼續走 → 一起繼續走。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l4-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "But the man had one more question, and this one was harder...",
+        "explanationZh": "但那個男人還有一個問題,而且更難回答……",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch25-l5",
+    "chapter": 25,
+    "lessonInChapter": 5,
+    "segmentType": "main-story",
+    "storyId": "yugong",
+    "storyBeat": "路人說: 你死後誰繼續? — 愚公的回答",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch25-l5-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "以後",
+            "right": "after"
+          },
+          {
+            "left": "繼續",
+            "right": "keep going"
+          },
+          {
+            "left": "站直",
+            "right": "stand up"
+          },
+          {
+            "left": "看著",
+            "right": "look at"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 after = 以後\n🔑 keep going = 繼續\n🔑 stand up = 站直\n🔑 look at = 看著\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l5-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The man asked, \"After you are gone, who will keep going?\"",
+        "explanationZh": "男人問:「等你以後不在了,誰會繼續做?」",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch25-l5-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The man wanted to know about the days after Yu Gong was old.",
+        "question": "What was the man's hard question about?",
+        "options": [
+          "how much each basket would cost",
+          "who would carry on much later",
+          "what color each stone really was",
+          "which path led into the town"
+        ],
+        "optionsZh": [
+          "每個籃子要花多少錢",
+          "以後誰會繼續做下去",
+          "每顆石頭真正是什麼顏色",
+          "哪條路通往鎮上"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: after Yu Gong is old → 以後誰會繼續 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch25-l5-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Yu Gong put down his basket and stood up tall.",
+        "questionEn": "Was Yu Gong ready to give a careful answer?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 放下籃子 + 站直 → 準備好好回答 → 答 Yes",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l5-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He looked at his sons and his small grandsons.",
+        "explanationZh": "他看著兒子們和小孫子們。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch25-l5-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He saw three sizes of his family standing right there.",
+        "question": "Who did Yu Gong see when he looked around?",
+        "options": [
+          "only his oldest son",
+          "people from old, young, and youngest",
+          "a row of stranger faces",
+          "a line of farm animals"
+        ],
+        "optionsZh": [
+          "只有他大兒子",
+          "老中少都有",
+          "一排陌生臉",
+          "一排農場動物"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: three sizes of family → 老中少 (paraphrase, 三代)。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l5-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The whole field grew quiet. Even the wind seemed to wait.",
+        "explanationZh": "整片田都安靜下來。連風好像都在等。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch25-l5-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Everyone leaned in. No one wanted to miss what came next.",
+        "question": "How did the people around feel right then?",
+        "options": [
+          "about to walk away",
+          "all ears for his reply",
+          "sleepy and yawning",
+          "hungry for dinner"
+        ],
+        "optionsZh": [
+          "準備走開",
+          "專心聽他的回答",
+          "想睡又打呵欠",
+          "餓著想吃飯"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: leaned in + did not want to miss → 專心聽他的回答 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l5-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Yu Gong took a long, soft breath.",
+        "explanationZh": "愚公深深地、輕輕地吸了一口氣。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch25-l5-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What was the field like as Yu Gong got ready to speak?",
+        "question": "How was the field?",
+        "options": [
+          "🔇 still and waiting",
+          "🎉 full of cheers",
+          "🌧️ loud with rain",
+          "🚗 busy with cars"
+        ],
+        "optionsZh": [
+          "靜靜在等",
+          "充滿歡呼",
+          "吵雜的雨",
+          "車子忙碌"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "安靜 + 連風都在等 → 靜靜在等。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l5-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He smiled and gave a quiet, kind answer...",
+        "explanationZh": "他微笑著,給出一個溫柔安靜的回答……",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch25-l6",
+    "chapter": 25,
+    "lessonInChapter": 6,
+    "segmentType": "main-story",
+    "storyId": "yugong",
+    "storyBeat": "我有兒子 兒子有孫子 子子孫孫無窮匱",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch25-l6-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "永遠",
+            "right": "forever"
+          },
+          {
+            "left": "長大",
+            "right": "grow"
+          },
+          {
+            "left": "搬走",
+            "right": "move away"
+          },
+          {
+            "left": "一起",
+            "right": "together"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 forever = 永遠\n🔑 grow = 長大\n🔑 move away = 搬走\n🔑 together = 一起\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l6-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"I have sons. My sons have sons too.\"",
+        "explanationZh": "「我有兒子。我的兒子也會有兒子。」",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch25-l6-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"My grandsons will have sons too, and on and on.\"",
+        "question": "What did Yu Gong mean about his family?",
+        "options": [
+          "only one son in each home",
+          "family that keeps going on",
+          "family that moves to new towns",
+          "family that wants new shoes"
+        ],
+        "optionsZh": [
+          "每家只有一個兒子",
+          "家會一直延續下去",
+          "家會搬到新鎮",
+          "家會想要新鞋"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: sons have sons + on and on → 家會一直延續 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch25-l6-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "\"Our family will go on forever and ever,\" he said softly.",
+        "questionEn": "Did Yu Gong believe his family would continue?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: forever and ever → 一直延續 → 答 Yes",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l6-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"But the mountains cannot grow any bigger.\"",
+        "explanationZh": "「可是山不會再變大了。」",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch25-l6-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The mountains stay the same size, but family keeps growing.",
+        "question": "What was the big difference Yu Gong saw?",
+        "options": [
+          "family grows, mountains do not",
+          "mountains grow, family does not",
+          "both grow at the same time",
+          "both stay just the same"
+        ],
+        "optionsZh": [
+          "家會長大,山不會",
+          "山會長大,家不會",
+          "兩個都會一起長大",
+          "兩個都不變"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 山不變 + 家延續 → 家會長大,山不會 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l6-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Day by day, we will move them away.\"",
+        "explanationZh": "「一天又一天,我們會把山搬走。」",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch25-l6-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He spoke without anger and without any rush at all.",
+        "question": "How did Yu Gong sound when he said this?",
+        "options": [
+          "shouting and loud",
+          "calm and sure inside",
+          "quick and worried",
+          "sad and tired"
+        ],
+        "optionsZh": [
+          "大聲又吵",
+          "平靜又自信",
+          "又快又擔心",
+          "難過又累"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 沒有生氣 + 沒有急 → 平靜又自信 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l6-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The man passing by had no answer. He walked away in silence.",
+        "explanationZh": "那個路過的男人答不出話。他默默走開了。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch25-l6-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did the family feel after Yu Gong's answer?",
+        "question": "How did the family feel?",
+        "options": [
+          "💪 lifted and proud",
+          "😢 sad and lost",
+          "😡 angry at him",
+          "😴 wanting to sleep"
+        ],
+        "optionsZh": [
+          "振奮又驕傲",
+          "難過又迷惘",
+          "對他生氣",
+          "想睡"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "子子孫孫永遠的話 → 家人振奮又驕傲。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l6-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Far above, kind giants from the sky leaned forward to watch...",
+        "explanationZh": "在很高很高的天上,溫柔的巨人探身往下看……",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch25-l7",
+    "chapter": 25,
+    "lessonInChapter": 7,
+    "segmentType": "main-story",
+    "storyId": "yugong",
+    "storyBeat": "天神感動派人搬走山 — 學到堅持",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch25-l7-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "天空",
+            "right": "sky"
+          },
+          {
+            "left": "巨人",
+            "right": "giant"
+          },
+          {
+            "left": "看見",
+            "right": "watch"
+          },
+          {
+            "left": "心",
+            "right": "heart"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 sky = 天空\n🔑 giant = 巨人\n🔑 watch = 看見\n🔑 heart = 心\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l7-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Far above, kind giants from the sky were watching.",
+        "explanationZh": "在很高的天上,溫柔的巨人在看著。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch25-l7-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "These were not regular people. They were kind giants from above.",
+        "question": "Who was watching the family from far above?",
+        "options": [
+          "a flock of small birds",
+          "kind giants from the sky",
+          "busy children at school",
+          "the neighbor next door"
+        ],
+        "optionsZh": [
+          "一群小鳥",
+          "天空的溫柔巨人",
+          "學校忙碌的小孩",
+          "隔壁鄰居"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: kind giants from above → 天空的溫柔巨人 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch25-l7-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "They watched the small family for many quiet days.",
+        "questionEn": "Did the giants take time to watch before doing anything?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 好幾天 + 安靜地看 → 有時間觀察 → 答 Yes",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l7-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They saw the family work together with strong hearts.",
+        "explanationZh": "他們看見全家人用堅強的心一起工作。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch25-l7-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The giants felt warm inside when they saw such teamwork.",
+        "question": "What touched the giants' hearts most?",
+        "options": [
+          "the size of the baskets",
+          "how the family worked together",
+          "how loud everyone shouted",
+          "how new the shoes looked"
+        ],
+        "optionsZh": [
+          "籃子的大小",
+          "家人一起工作的樣子",
+          "大家叫得多大聲",
+          "鞋子有多新"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: warm inside + teamwork → 一起工作的樣子 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l7-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They came down softly and very, very slowly.",
+        "explanationZh": "他們輕輕地、慢慢地降到下面。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch25-l7-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "With gentle hands, they lifted the two big peaks far off.",
+        "question": "What did the kind giants do for the family?",
+        "options": [
+          "gave them new shoes",
+          "took the high rocks somewhere else",
+          "taught them new songs",
+          "brought them more dirt"
+        ],
+        "optionsZh": [
+          "送他們新鞋",
+          "把高高的岩石搬到別的地方",
+          "教他們新歌",
+          "送他們更多泥土"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: lifted two peaks far off → 把高高的岩石搬到別的地方 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l7-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "From that day, the family had a clear road out to the world.",
+        "explanationZh": "從那天起,這一家有了一條通往外面世界的開闊大路。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch25-l7-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What is the big lesson from Yu Gong's family?",
+        "question": "What did they learn?",
+        "options": [
+          "💪 keep going, day by day",
+          "🛒 buy bigger baskets",
+          "🛌 rest is most important",
+          "🏃 run away fast"
+        ],
+        "optionsZh": [
+          "一天又一天堅持下去",
+          "買更大的籃子",
+          "休息最重要",
+          "快點跑開"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "一筐又一筐 + 子子孫孫繼續 → 堅持的力量。",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch25-l7-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "And every child who heard the story walked home holding hands with grown-ups...",
+        "explanationZh": "每個聽完故事的小孩,都牽著大人的手走回家……",
+        "tags": [
+          "story",
+          "ch25",
+          "yugong"
+        ]
+      }
+    ]
+  }
+]

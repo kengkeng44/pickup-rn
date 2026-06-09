@@ -1,0 +1,1915 @@
+[
+  {
+    "id": "kt-ch0-l1",
+    "chapter": 0,
+    "lessonInChapter": 1,
+    "segmentType": "outer-prologue",
+    "storyId": "ground-floor",
+    "storyBeat": "零基礎 ok! 我們從 ABC 開始",
+    "questions": [
+      {
+        "type": "narration",
+        "id": "kt-ch0-l1-n00",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "mochi",
+        "sentence": "Welcome! Today we learn A, B, C.",
+        "explanationZh": "歡迎!今天我們學 A、B、C。零基礎也 ok!",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch0-l1-n01",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "mochi",
+        "sentence": "I am Mochi. Don't worry. We go slow.",
+        "explanationZh": "我是 Mochi。別擔心,我們慢慢來。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "intro"
+        ]
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l1-q1",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A is for apple.",
+        "question": "Pick the picture",
+        "options": [
+          "🍎 apple",
+          "🐝 bee",
+          "🐱 cat",
+          "🐶 dog"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "A 開頭的字 apple = 蘋果 🍎。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "picture-mc",
+        "id": "kt-ch0-l1-q2",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "imageEmoji": "🍎",
+        "sentence": "A is the first letter.",
+        "question": "Which word matches?",
+        "options": [
+          "apple",
+          "bee",
+          "cat",
+          "dog"
+        ],
+        "optionsZh": [
+          "蘋果",
+          "蜜蜂",
+          "貓",
+          "狗"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "看到 🍎 → apple = 蘋果。第一個字母 A。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l1-q3",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "B is for bee.",
+        "question": "Pick the picture",
+        "options": [
+          "🍎 apple",
+          "🐝 bee",
+          "🐱 cat",
+          "🐶 dog"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "B 開頭的字 bee = 蜜蜂 🐝。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "picture-mc",
+        "id": "kt-ch0-l1-q4",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "imageEmoji": "🐝",
+        "sentence": "B is the second letter.",
+        "question": "Which word matches?",
+        "options": [
+          "apple",
+          "bee",
+          "cat",
+          "dog"
+        ],
+        "optionsZh": [
+          "蘋果",
+          "蜜蜂",
+          "貓",
+          "狗"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "看到 🐝 → bee = 蜜蜂。第二個字母 B。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l1-q5",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "C is for cat.",
+        "question": "Pick the picture",
+        "options": [
+          "🍎 apple",
+          "🐝 bee",
+          "🐱 cat",
+          "🐶 dog"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "C 開頭的字 cat = 貓 🐱。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "picture-mc",
+        "id": "kt-ch0-l1-q6",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "imageEmoji": "🐱",
+        "sentence": "C is the third letter. Mochi is a cat.",
+        "question": "Which word matches?",
+        "options": [
+          "apple",
+          "bee",
+          "cat",
+          "dog"
+        ],
+        "optionsZh": [
+          "蘋果",
+          "蜜蜂",
+          "貓",
+          "狗"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "看到 🐱 → cat = 貓。第三個字母 C。Mochi 也是貓喔!",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l1-q7",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "D is for dog.",
+        "question": "Pick the picture",
+        "options": [
+          "🍎 apple",
+          "🐝 bee",
+          "🐱 cat",
+          "🐶 dog"
+        ],
+        "correctIndex": 3,
+        "explanationZh": "D 開頭的字 dog = 狗 🐶。Hana 是狗喔!",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l1-q8",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "E is for egg.",
+        "question": "Pick the picture",
+        "options": [
+          "🥚 egg",
+          "🐝 bee",
+          "🐱 cat",
+          "🍎 apple"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "E 開頭的字 egg = 蛋 🥚。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch0-l1-n9",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "mochi",
+        "sentence": "Great! You learned A B C D E. Brave!",
+        "explanationZh": "太棒了!你學會了 A B C D E。好厲害!",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "intro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch0-l2",
+    "chapter": 0,
+    "lessonInChapter": 2,
+    "segmentType": "outer-prologue",
+    "storyId": "ground-floor",
+    "storyBeat": "數字 1 到 10",
+    "questions": [
+      {
+        "type": "narration",
+        "id": "kt-ch0-l2-n00",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "mochi",
+        "sentence": "Let us count from one to ten.",
+        "explanationZh": "我們一起從 1 數到 10。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "intro"
+        ]
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l2-q1",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One.",
+        "question": "Pick the picture",
+        "options": [
+          "1️⃣ one",
+          "2️⃣ two",
+          "3️⃣ three",
+          "4️⃣ four"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "one = 1 一",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l2-q2",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Two.",
+        "question": "Pick the picture",
+        "options": [
+          "1️⃣ one",
+          "2️⃣ two",
+          "3️⃣ three",
+          "4️⃣ four"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "two = 2 二",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l2-q3",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Three.",
+        "question": "Pick the picture",
+        "options": [
+          "1️⃣ one",
+          "2️⃣ two",
+          "3️⃣ three",
+          "4️⃣ four"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "three = 3 三",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l2-q4",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Four.",
+        "question": "Pick the picture",
+        "options": [
+          "1️⃣ one",
+          "2️⃣ two",
+          "3️⃣ three",
+          "4️⃣ four"
+        ],
+        "correctIndex": 3,
+        "explanationZh": "four = 4 四",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l2-q5",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Five.",
+        "question": "Pick the picture",
+        "options": [
+          "5️⃣ five",
+          "6️⃣ six",
+          "7️⃣ seven",
+          "8️⃣ eight"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "five = 5 五",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l2-q6",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Six.",
+        "question": "Pick the picture",
+        "options": [
+          "5️⃣ five",
+          "6️⃣ six",
+          "7️⃣ seven",
+          "8️⃣ eight"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "six = 6 六",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l2-q7",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Seven.",
+        "question": "Pick the picture",
+        "options": [
+          "5️⃣ five",
+          "6️⃣ six",
+          "7️⃣ seven",
+          "8️⃣ eight"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "seven = 7 七",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l2-q8",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Eight.",
+        "question": "Pick the picture",
+        "options": [
+          "5️⃣ five",
+          "6️⃣ six",
+          "7️⃣ seven",
+          "8️⃣ eight"
+        ],
+        "correctIndex": 3,
+        "explanationZh": "eight = 8 八",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l2-q9",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Nine.",
+        "question": "Pick the picture",
+        "options": [
+          "9️⃣ nine",
+          "🔟 ten",
+          "1️⃣ one",
+          "2️⃣ two"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "nine = 9 九",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l2-q10",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Ten.",
+        "question": "Pick the picture",
+        "options": [
+          "9️⃣ nine",
+          "🔟 ten",
+          "1️⃣ one",
+          "2️⃣ two"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "ten = 10 十。你會從 1 數到 10 了!",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      }
+    ]
+  },
+  {
+    "id": "kt-ch0-l3",
+    "chapter": 0,
+    "lessonInChapter": 3,
+    "segmentType": "outer-prologue",
+    "storyId": "ground-floor",
+    "storyBeat": "8 種顏色",
+    "questions": [
+      {
+        "type": "narration",
+        "id": "kt-ch0-l3-n00",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "mochi",
+        "sentence": "Now we learn colors. Eight colors.",
+        "explanationZh": "現在我們學顏色。一共 8 個。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "intro"
+        ]
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l3-q1",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Red.",
+        "question": "Pick the picture",
+        "options": [
+          "🔴 red",
+          "🔵 blue",
+          "🟢 green",
+          "🟡 yellow"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "red = 紅色 🔴",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l3-q2",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Blue.",
+        "question": "Pick the picture",
+        "options": [
+          "🔴 red",
+          "🔵 blue",
+          "🟢 green",
+          "🟡 yellow"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "blue = 藍色 🔵",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l3-q3",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Green.",
+        "question": "Pick the picture",
+        "options": [
+          "🔴 red",
+          "🔵 blue",
+          "🟢 green",
+          "🟡 yellow"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "green = 綠色 🟢",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l3-q4",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Yellow.",
+        "question": "Pick the picture",
+        "options": [
+          "🔴 red",
+          "🔵 blue",
+          "🟢 green",
+          "🟡 yellow"
+        ],
+        "correctIndex": 3,
+        "explanationZh": "yellow = 黃色 🟡",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l3-q5",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Black.",
+        "question": "Pick the picture",
+        "options": [
+          "⚫ black",
+          "⚪ white",
+          "🟠 orange",
+          "🌸 pink"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "black = 黑色 ⚫",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l3-q6",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "White.",
+        "question": "Pick the picture",
+        "options": [
+          "⚫ black",
+          "⚪ white",
+          "🟠 orange",
+          "🌸 pink"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "white = 白色 ⚪",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l3-q7",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Orange.",
+        "question": "Pick the picture",
+        "options": [
+          "⚫ black",
+          "⚪ white",
+          "🟠 orange",
+          "🌸 pink"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "orange = 橘色 🟠",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l3-q8",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Pink.",
+        "question": "Pick the picture",
+        "options": [
+          "⚫ black",
+          "⚪ white",
+          "🟠 orange",
+          "🌸 pink"
+        ],
+        "correctIndex": 3,
+        "explanationZh": "pink = 粉紅色 🌸",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch0-l3-q9",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Apples are red.",
+        "question": "What color?",
+        "options": [
+          "🔴 red",
+          "🔵 blue",
+          "🟢 green",
+          "🟡 yellow"
+        ],
+        "optionsZh": [
+          "紅",
+          "藍",
+          "綠",
+          "黃"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "蘋果通常是紅色 red。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch0-l3-n10",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "mochi",
+        "sentence": "Eight colors! You did it!",
+        "explanationZh": "八個顏色都學完了!你做到了!",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "intro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch0-l4",
+    "chapter": 0,
+    "lessonInChapter": 4,
+    "segmentType": "outer-prologue",
+    "storyId": "ground-floor",
+    "storyBeat": "8 種動物",
+    "questions": [
+      {
+        "type": "narration",
+        "id": "kt-ch0-l4-n00",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "mochi",
+        "sentence": "I love animals. Look! Eight friends.",
+        "explanationZh": "我喜歡動物。看!有 8 個朋友。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "intro"
+        ]
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l4-q1",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Cat.",
+        "question": "Pick the picture",
+        "options": [
+          "🐱 cat",
+          "🐶 dog",
+          "🐦 bird",
+          "🐟 fish"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "cat = 貓 🐱 (Mochi 是貓喔!)",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l4-q2",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Dog.",
+        "question": "Pick the picture",
+        "options": [
+          "🐱 cat",
+          "🐶 dog",
+          "🐦 bird",
+          "🐟 fish"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "dog = 狗 🐶 (Hana 是狗喔!)",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l4-q3",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Bird.",
+        "question": "Pick the picture",
+        "options": [
+          "🐱 cat",
+          "🐶 dog",
+          "🐦 bird",
+          "🐟 fish"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "bird = 鳥 🐦",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l4-q4",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Fish.",
+        "question": "Pick the picture",
+        "options": [
+          "🐱 cat",
+          "🐶 dog",
+          "🐦 bird",
+          "🐟 fish"
+        ],
+        "correctIndex": 3,
+        "explanationZh": "fish = 魚 🐟",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l4-q5",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Cow.",
+        "question": "Pick the picture",
+        "options": [
+          "🐄 cow",
+          "🐴 horse",
+          "🐑 sheep",
+          "🐷 pig"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "cow = 牛 🐄",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l4-q6",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Horse.",
+        "question": "Pick the picture",
+        "options": [
+          "🐄 cow",
+          "🐴 horse",
+          "🐑 sheep",
+          "🐷 pig"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "horse = 馬 🐴",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l4-q7",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Sheep.",
+        "question": "Pick the picture",
+        "options": [
+          "🐄 cow",
+          "🐴 horse",
+          "🐑 sheep",
+          "🐷 pig"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "sheep = 羊 🐑",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l4-q8",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Pig.",
+        "question": "Pick the picture",
+        "options": [
+          "🐄 cow",
+          "🐴 horse",
+          "🐑 sheep",
+          "🐷 pig"
+        ],
+        "correctIndex": 3,
+        "explanationZh": "pig = 豬 🐷",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "picture-mc",
+        "id": "kt-ch0-l4-q9",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "imageEmoji": "🐱",
+        "sentence": "Look at the picture.",
+        "question": "Which word matches?",
+        "options": [
+          "cat",
+          "dog",
+          "fish",
+          "bird"
+        ],
+        "optionsZh": [
+          "貓",
+          "狗",
+          "魚",
+          "鳥"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "🐱 = cat。Mochi 是隻流浪貓 stray cat。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch0-l4-n10",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "mochi",
+        "sentence": "You know eight animals now. Great job!",
+        "explanationZh": "八個動物都會了!做得很好!",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "intro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch0-l5",
+    "chapter": 0,
+    "lessonInChapter": 5,
+    "segmentType": "outer-prologue",
+    "storyId": "ground-floor",
+    "storyBeat": "家庭成員 6 人",
+    "questions": [
+      {
+        "type": "narration",
+        "id": "kt-ch0-l5-n00",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "mochi",
+        "sentence": "Family is warm. Let us meet them.",
+        "explanationZh": "家人很溫暖。一起認識他們。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "intro"
+        ]
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l5-q1",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Mother.",
+        "question": "Pick the picture",
+        "options": [
+          "👩 mother",
+          "👨 father",
+          "👧 sister",
+          "👦 brother"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "mother = 媽媽 👩",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l5-q2",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Father.",
+        "question": "Pick the picture",
+        "options": [
+          "👩 mother",
+          "👨 father",
+          "👧 sister",
+          "👦 brother"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "father = 爸爸 👨",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l5-q3",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Sister.",
+        "question": "Pick the picture",
+        "options": [
+          "👩 mother",
+          "👨 father",
+          "👧 sister",
+          "👦 brother"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "sister = 姐妹 👧",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l5-q4",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Brother.",
+        "question": "Pick the picture",
+        "options": [
+          "👩 mother",
+          "👨 father",
+          "👧 sister",
+          "👦 brother"
+        ],
+        "correctIndex": 3,
+        "explanationZh": "brother = 兄弟 👦",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l5-q5",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Grandma.",
+        "question": "Pick the picture",
+        "options": [
+          "👵 grandma",
+          "👴 grandpa",
+          "👩 mother",
+          "👨 father"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "grandma = 奶奶 👵 (拾光裡每晚說故事的奶奶!)",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l5-q6",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Grandpa.",
+        "question": "Pick the picture",
+        "options": [
+          "👵 grandma",
+          "👴 grandpa",
+          "👩 mother",
+          "👨 father"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "grandpa = 爺爺 👴",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "picture-mc",
+        "id": "kt-ch0-l5-q7",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "imageEmoji": "👵",
+        "sentence": "Look at her face.",
+        "question": "Which word matches?",
+        "options": [
+          "grandma",
+          "grandpa",
+          "sister",
+          "brother"
+        ],
+        "optionsZh": [
+          "奶奶",
+          "爺爺",
+          "姐妹",
+          "兄弟"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "grandma = 奶奶。她每晚說故事給 Mochi 跟 Hana 聽。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "picture-mc",
+        "id": "kt-ch0-l5-q8",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "imageEmoji": "👨",
+        "sentence": "Look at the picture.",
+        "question": "Which word matches?",
+        "options": [
+          "mother",
+          "father",
+          "grandma",
+          "grandpa"
+        ],
+        "optionsZh": [
+          "媽媽",
+          "爸爸",
+          "奶奶",
+          "爺爺"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "father = 爸爸。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "picture-mc",
+        "id": "kt-ch0-l5-q9",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "imageEmoji": "👩",
+        "sentence": "Look at the picture.",
+        "question": "Which word matches?",
+        "options": [
+          "mother",
+          "father",
+          "sister",
+          "brother"
+        ],
+        "optionsZh": [
+          "媽媽",
+          "爸爸",
+          "姐妹",
+          "兄弟"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "mother = 媽媽。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch0-l5-n10",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "mochi",
+        "sentence": "Family. You learned six new words. Brave!",
+        "explanationZh": "家人。六個新字學會了。好棒!",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "intro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch0-l6",
+    "chapter": 0,
+    "lessonInChapter": 6,
+    "segmentType": "outer-prologue",
+    "storyId": "ground-floor",
+    "storyBeat": "日常問候 6 句",
+    "questions": [
+      {
+        "type": "narration",
+        "id": "kt-ch0-l6-n00",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "mochi",
+        "sentence": "Time to say hello. Six small words.",
+        "explanationZh": "是時候打招呼了。六個小字。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "intro"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch0-l6-q1",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Hello! Nice to see you.",
+        "question": "Pick the friendly emoji",
+        "options": [
+          "👋 hello",
+          "👋 bye",
+          "✅ yes",
+          "❌ no"
+        ],
+        "optionsZh": [
+          "你好",
+          "再見",
+          "是",
+          "不是"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "hello = 你好 👋 (見面時說)",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch0-l6-q2",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Bye! See you later.",
+        "question": "Pick the leaving emoji",
+        "options": [
+          "👋 hello",
+          "👋 bye",
+          "✅ yes",
+          "❌ no"
+        ],
+        "optionsZh": [
+          "你好",
+          "再見",
+          "是",
+          "不是"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "bye = 再見 👋 (離開時說)",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch0-l6-q3",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Yes. I agree.",
+        "question": "Pick the agree emoji",
+        "options": [
+          "👋 hello",
+          "👋 bye",
+          "✅ yes",
+          "❌ no"
+        ],
+        "optionsZh": [
+          "你好",
+          "再見",
+          "是",
+          "不是"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "yes = 是 ✅",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch0-l6-q4",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "No. I do not want it.",
+        "question": "Pick the disagree emoji",
+        "options": [
+          "👋 hello",
+          "👋 bye",
+          "✅ yes",
+          "❌ no"
+        ],
+        "optionsZh": [
+          "你好",
+          "再見",
+          "是",
+          "不是"
+        ],
+        "correctIndex": 3,
+        "explanationZh": "no = 不是 ❌",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch0-l6-q5",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Please, may I have some milk?",
+        "question": "Pick the polite emoji",
+        "options": [
+          "🙏 please",
+          "💛 thank you",
+          "👋 hello",
+          "✅ yes"
+        ],
+        "optionsZh": [
+          "請",
+          "謝謝",
+          "你好",
+          "是"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "please = 請 🙏 (有禮貌地問)",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch0-l6-q6",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Thank you. You are so kind.",
+        "question": "Pick the grateful emoji",
+        "options": [
+          "🙏 please",
+          "💛 thank you",
+          "👋 hello",
+          "✅ yes"
+        ],
+        "optionsZh": [
+          "請",
+          "謝謝",
+          "你好",
+          "是"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "thank you = 謝謝 💛",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l6-q7",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Hello.",
+        "question": "Pick the picture",
+        "options": [
+          "👋 hello",
+          "👋 bye",
+          "🙏 please",
+          "💛 thank you"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "hello = 你好。Mochi 對你說 hello!",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "listen-emoji",
+        "id": "kt-ch0-l6-q8",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Thank you.",
+        "question": "Pick the picture",
+        "options": [
+          "👋 hello",
+          "👋 bye",
+          "🙏 please",
+          "💛 thank you"
+        ],
+        "correctIndex": 3,
+        "explanationZh": "thank you = 謝謝。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "vocab"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch0-l6-n9",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "mochi",
+        "sentence": "Hello, bye, yes, no, please, thank you. Six words!",
+        "explanationZh": "你好、再見、是、不是、請、謝謝。六個!都學會了!",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch0-l6-n10",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "mochi",
+        "sentence": "You can talk to people now. Brave!",
+        "explanationZh": "現在你可以跟人打招呼了。好厲害!",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "intro"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch0-l7",
+    "chapter": 0,
+    "lessonInChapter": 7,
+    "segmentType": "outer-prologue",
+    "storyId": "ground-floor",
+    "storyBeat": "第一個完整句子",
+    "questions": [
+      {
+        "type": "narration",
+        "id": "kt-ch0-l7-n00",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "mochi",
+        "sentence": "Last lesson. We make sentences now.",
+        "explanationZh": "最後一課。我們來造句。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch0-l7-n01",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "mochi",
+        "sentence": "I am Mochi. I am happy. Try with me.",
+        "explanationZh": "我是 Mochi。我很開心。跟我一起說!",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "intro"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch0-l7-q1",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "I am happy.",
+        "question": "How does she feel?",
+        "options": [
+          "😀 happy",
+          "😢 sad",
+          "😡 angry",
+          "😴 sleepy"
+        ],
+        "optionsZh": [
+          "開心",
+          "難過",
+          "生氣",
+          "想睡"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "I am happy = 我很開心 😀。I am ... 是「我是...」。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch0-l7-q2",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "I am sad.",
+        "question": "How does she feel?",
+        "options": [
+          "😀 happy",
+          "😢 sad",
+          "😡 angry",
+          "😴 sleepy"
+        ],
+        "optionsZh": [
+          "開心",
+          "難過",
+          "生氣",
+          "想睡"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "I am sad = 我很難過 😢。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch0-l7-q3",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "I am sleepy.",
+        "question": "How does she feel?",
+        "options": [
+          "😀 happy",
+          "😢 sad",
+          "😡 angry",
+          "😴 sleepy"
+        ],
+        "optionsZh": [
+          "開心",
+          "難過",
+          "生氣",
+          "想睡"
+        ],
+        "correctIndex": 3,
+        "explanationZh": "I am sleepy = 我想睡 😴。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch0-l7-q4",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "I see a cat.",
+        "question": "What do I see?",
+        "options": [
+          "🐱 cat",
+          "🐶 dog",
+          "🐦 bird",
+          "🐟 fish"
+        ],
+        "optionsZh": [
+          "貓",
+          "狗",
+          "鳥",
+          "魚"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "I see a cat = 我看到一隻貓 🐱。see = 看到。a = 一(隻 / 個)。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch0-l7-q5",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "I see a dog.",
+        "question": "What do I see?",
+        "options": [
+          "🐱 cat",
+          "🐶 dog",
+          "🐦 bird",
+          "🐟 fish"
+        ],
+        "optionsZh": [
+          "貓",
+          "狗",
+          "鳥",
+          "魚"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "I see a dog = 我看到一隻狗 🐶。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch0-l7-q6",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "I see a bird.",
+        "question": "What do I see?",
+        "options": [
+          "🐱 cat",
+          "🐶 dog",
+          "🐦 bird",
+          "🐟 fish"
+        ],
+        "optionsZh": [
+          "貓",
+          "狗",
+          "鳥",
+          "魚"
+        ],
+        "correctIndex": 2,
+        "explanationZh": "I see a bird = 我看到一隻鳥 🐦。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch0-l7-q7",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "I see a red apple.",
+        "question": "What color is the apple?",
+        "options": [
+          "🔴 red",
+          "🔵 blue",
+          "🟢 green",
+          "🟡 yellow"
+        ],
+        "optionsZh": [
+          "紅",
+          "藍",
+          "綠",
+          "黃"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "I see a red apple = 我看到一顆紅蘋果 🔴🍎。red 在 apple 前面。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch0-l7-n8",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "mochi",
+        "sentence": "You did it! Seven lessons done.",
+        "explanationZh": "你做到了!七課全部學完。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch0-l7-n9",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "mochi",
+        "sentence": "Now you are ready for Grandma's stories.",
+        "explanationZh": "現在你準備好聽奶奶的故事了。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch0-l7-n10",
+        "level": "A1",
+        "difficulty": "easy",
+        "speaker": "mochi",
+        "sentence": "Brave! Mochi believes in you.",
+        "explanationZh": "好厲害!Mochi 相信你。",
+        "tags": [
+          "story",
+          "ch0",
+          "ground-floor",
+          "intro"
+        ]
+      }
+    ]
+  }
+]

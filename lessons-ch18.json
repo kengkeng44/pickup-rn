@@ -1,0 +1,1661 @@
+[
+  {
+    "id": "kt-ch18-l1",
+    "chapter": 18,
+    "lessonInChapter": 1,
+    "segmentType": "main-story",
+    "storyId": "heungbu-nolbu",
+    "storyBeat": "兩兄弟父母過世 → 興夫被趕出家門",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch18-l1-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "哥哥",
+            "right": "older brother"
+          },
+          {
+            "left": "弟弟",
+            "right": "younger brother"
+          },
+          {
+            "left": "貪心",
+            "right": "greedy"
+          },
+          {
+            "left": "好心",
+            "right": "kind"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 older brother = 哥哥\n🔑 younger brother = 弟弟\n🔑 greedy = 貪心\n🔑 kind = 好心\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l1-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Long ago, there were two brothers in Korea.",
+        "explanationZh": "很久以前,在韓國有兩個兄弟。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l1-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The older was Nolbu. The younger was Heungbu.",
+        "explanationZh": "哥哥叫孬夫。弟弟叫興夫。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch18-l1-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Nolbu was greedy. Heungbu was kind.",
+        "questionEn": "Were the two brothers very different?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 一個貪一個善 → 性格不同 → 答 Yes",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l1-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One day, their parents were gone.",
+        "explanationZh": "有一天,他們的父母過世了。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch18-l1-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Nolbu took the big house, the rice, and the cows.",
+        "question": "What did Nolbu take for himself?",
+        "options": [
+          "just a small bag",
+          "everything good",
+          "only one cow",
+          "nothing at all"
+        ],
+        "optionsZh": [
+          "只有小袋子",
+          "所有好東西",
+          "只有一頭牛",
+          "什麼也沒拿"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 房子 + 米 + 牛 → 把好東西全拿走。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l1-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Then Nolbu kicked Heungbu out of the family home.",
+        "explanationZh": "然後孬夫把興夫趕出家門。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch18-l1-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Heungbu walked away with only one small bag.",
+        "question": "What did Heungbu have when he left?",
+        "options": [
+          "a big farm",
+          "almost nothing",
+          "a strong horse",
+          "piles of gold"
+        ],
+        "optionsZh": [
+          "一個大農場",
+          "幾乎什麼都沒有",
+          "一匹強壯的馬",
+          "一堆黃金"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: only one small bag → 幾乎什麼都沒有 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l1-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The road was long. The sun was hot.",
+        "explanationZh": "路很長。太陽很熱。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch18-l1-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How does Heungbu feel as he walks away?",
+        "question": "How does he feel?",
+        "options": [
+          "😢 sad and alone",
+          "😄 happy and free",
+          "😡 ready to fight",
+          "😴 sleepy and full"
+        ],
+        "optionsZh": [
+          "難過又孤單",
+          "開心又自由",
+          "想打架",
+          "想睡又飽"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "被趕出家門 + 走遠路 → 難過又孤單。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l1-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Heungbu walks away with only one small bag...",
+        "explanationZh": "興夫帶著一個小袋子,默默走遠……",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch18-l2",
+    "chapter": 18,
+    "lessonInChapter": 2,
+    "segmentType": "main-story",
+    "storyId": "heungbu-nolbu",
+    "storyBeat": "興夫家裡很窮 → 他怎麼養家?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch18-l2-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "妻子",
+            "right": "wife"
+          },
+          {
+            "left": "小孩",
+            "right": "children"
+          },
+          {
+            "left": "草屋",
+            "right": "straw house"
+          },
+          {
+            "left": "餓",
+            "right": "hungry"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 wife = 妻子\n🔑 children = 小孩\n🔑 straw house = 草屋\n🔑 hungry = 餓\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l2-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Heungbu had a kind wife and many small children.",
+        "explanationZh": "興夫有一個好心的妻子和很多小孩。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch18-l2-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They lived in a tiny straw house with thin walls.",
+        "question": "What was their house like?",
+        "options": [
+          "big and warm",
+          "small and weak",
+          "made of stone",
+          "high in a tree"
+        ],
+        "optionsZh": [
+          "又大又暖",
+          "又小又脆弱",
+          "石頭做",
+          "在樹上"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: tiny + straw + thin walls → small and weak。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l2-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The rain came in. The wind blew through the wall.",
+        "explanationZh": "雨會漏進來。風會從牆吹進來。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch18-l2-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Heungbu worked all day, but the rice was never enough.",
+        "questionEn": "Was hard work enough to feed his family?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 整天工作但米不夠 → 不夠 → 答 No",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l2-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He cut grass. He carried water. He helped neighbours.",
+        "explanationZh": "他割草。他挑水。他幫鄰居做事。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch18-l2-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What jobs did Heungbu do?",
+        "question": "What jobs did he do?",
+        "options": [
+          "💪 small hard jobs",
+          "👑 work for a king",
+          "🏪 sell in a big shop",
+          "🏫 teach at a school"
+        ],
+        "optionsZh": [
+          "辛苦的小工作",
+          "幫國王做事",
+          "在大店裡賣",
+          "學校教書"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "割草 + 挑水 + 幫鄰居 → 辛苦的小工作。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l2-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "At night, the children were always a little hungry.",
+        "explanationZh": "到晚上,小孩們總是有點餓。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch18-l2-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Heungbu looked at the empty rice pot and felt sad.",
+        "question": "Why did Heungbu feel sad?",
+        "options": [
+          "the pot was new",
+          "there was no rice left",
+          "the children were laughing",
+          "his wife was singing"
+        ],
+        "optionsZh": [
+          "鍋子是新的",
+          "米都吃完了",
+          "小孩在笑",
+          "妻子在唱歌"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: empty rice pot → 沒米了 → 難過。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l2-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His wife sat next to him. She held his hand.",
+        "explanationZh": "他的妻子坐在他旁邊。她握住他的手。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l2-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Heungbu looks at the empty rice pot. What can he do?",
+        "explanationZh": "興夫看著空空的米鍋。他能怎麼辦?",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch18-l3",
+    "chapter": 18,
+    "lessonInChapter": 3,
+    "segmentType": "main-story",
+    "storyId": "heungbu-nolbu",
+    "storyBeat": "受傷小燕子掉下來 → 興夫會救嗎?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch18-l3-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "春天",
+            "right": "spring"
+          },
+          {
+            "left": "燕子",
+            "right": "swallow"
+          },
+          {
+            "left": "鳥巢",
+            "right": "nest"
+          },
+          {
+            "left": "受傷",
+            "right": "hurt"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 spring = 春天\n🔑 swallow = 燕子\n🔑 nest = 鳥巢\n🔑 hurt = 受傷\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l3-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One spring morning, Heungbu sat by his door.",
+        "explanationZh": "一個春天的早上,興夫坐在門邊。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch18-l3-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A small swallow had built a nest on the roof.",
+        "question": "Where was the swallow's nest?",
+        "options": [
+          "inside a tall tree",
+          "high up on the house",
+          "beside the river",
+          "under a wooden chair"
+        ],
+        "optionsZh": [
+          "高高的樹裡",
+          "屋子上面",
+          "河邊",
+          "木椅子下"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: on the roof → 屋子上面 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l3-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A baby bird was learning to fly. But it fell.",
+        "explanationZh": "一隻小鳥在學飛。但牠掉下來了。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch18-l3-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Its little leg was hurt. The bird cried.",
+        "questionEn": "Did the bird need help?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 腳受傷 + 哭 → 需要幫忙 → 答 Yes",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l3-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Then a snake came near the bird, slow and quiet.",
+        "explanationZh": "然後一條蛇靠近小鳥,慢慢、安靜地。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch18-l3-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What was coming near the little bird?",
+        "question": "What was coming?",
+        "options": [
+          "🐍 a hungry snake",
+          "🐶 a friendly dog",
+          "🦋 a soft butterfly",
+          "🐝 a busy bee"
+        ],
+        "optionsZh": [
+          "一條餓蛇",
+          "友善的狗",
+          "蝴蝶",
+          "蜜蜂"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "蛇 = snake。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l3-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Heungbu jumped up. He chased the snake away.",
+        "explanationZh": "興夫跳起來。他把蛇趕走。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch18-l3-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He picked up the small bird with very soft hands.",
+        "question": "How did Heungbu pick up the bird?",
+        "options": [
+          "fast and rough",
+          "soft and gentle",
+          "with a stick",
+          "with a net"
+        ],
+        "optionsZh": [
+          "粗魯地",
+          "輕柔地",
+          "用棍子",
+          "用網子"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: very soft hands → 輕柔地。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l3-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The bird was small and warm in his hand.",
+        "explanationZh": "小鳥又小又溫暖,在他手裡。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l3-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Heungbu jumps up. Can he save the little bird?",
+        "explanationZh": "興夫跳起來。他能救這隻小鳥嗎?",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch18-l4",
+    "chapter": 18,
+    "lessonInChapter": 4,
+    "segmentType": "main-story",
+    "storyId": "heungbu-nolbu",
+    "storyBeat": "燕子春天回來 → 給興夫什麼禮物?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch18-l4-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "包",
+            "right": "wrap"
+          },
+          {
+            "left": "布",
+            "right": "cloth"
+          },
+          {
+            "left": "冬天",
+            "right": "winter"
+          },
+          {
+            "left": "種子",
+            "right": "seed"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 wrap = 包\n🔑 cloth = 布\n🔑 winter = 冬天\n🔑 seed = 種子\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l4-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Heungbu wrapped the bird's leg in soft cloth.",
+        "explanationZh": "興夫用軟布包住小鳥的腳。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch18-l4-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He fed it small seeds and gave it warm water.",
+        "question": "What did Heungbu give the bird?",
+        "options": [
+          "big fresh fish",
+          "simple food and drink",
+          "milk and bread",
+          "cake and tea"
+        ],
+        "optionsZh": [
+          "大鮮魚",
+          "簡單的食物和飲水",
+          "牛奶和麵包",
+          "蛋糕和茶"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: small seeds + warm water → 簡單的食物和飲水 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l4-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Soon the bird was strong. It flew away for the winter.",
+        "explanationZh": "不久小鳥變強了。牠飛走過冬天。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch18-l4-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "When spring came again, the swallow came back.",
+        "questionEn": "Did the bird remember Heungbu?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 春天回來 → 牠記得家 → 答 Yes",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l4-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "It dropped one small seed on Heungbu's hand.",
+        "explanationZh": "牠在興夫手上放下一顆小種子。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch18-l4-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What kind of seed did the bird bring?",
+        "question": "What kind of seed?",
+        "options": [
+          "🌱 a gourd seed",
+          "🌰 a chestnut",
+          "🍎 an apple core",
+          "🌻 a sunflower seed"
+        ],
+        "optionsZh": [
+          "葫蘆種子",
+          "栗子",
+          "蘋果核",
+          "向日葵種子"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "gourd seed = 葫蘆種子。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l4-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Heungbu planted the seed near his small house.",
+        "explanationZh": "興夫把種子種在小屋旁邊。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch18-l4-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Big green gourds grew on the long vine.",
+        "question": "What grew from the seed?",
+        "options": [
+          "small red apples",
+          "huge round fruit",
+          "tall yellow corn",
+          "soft pink flowers"
+        ],
+        "optionsZh": [
+          "小紅蘋果",
+          "又大又圓的果實",
+          "高的玉米",
+          "粉紅花"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: big green gourds → 又大又圓的果實 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l4-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The children pointed at the vine and laughed.",
+        "explanationZh": "小孩們指著葫蘆藤笑著。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l4-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A gourd seed. What will grow from it?",
+        "explanationZh": "一顆葫蘆種子。會長出什麼來?",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch18-l5",
+    "chapter": 18,
+    "lessonInChapter": 5,
+    "segmentType": "main-story",
+    "storyId": "heungbu-nolbu",
+    "storyBeat": "葫蘆種子長出寶物 → 興夫變富",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch18-l5-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "鋸開",
+            "right": "cut open"
+          },
+          {
+            "left": "銀子",
+            "right": "silver"
+          },
+          {
+            "left": "黃金",
+            "right": "gold"
+          },
+          {
+            "left": "衣服",
+            "right": "clothes"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 cut open = 鋸開\n🔑 silver = 銀子\n🔑 gold = 黃金\n🔑 clothes = 衣服\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l5-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Heungbu and his wife took down the biggest gourd.",
+        "explanationZh": "興夫和妻子摘下最大的葫蘆。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch18-l5-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They cut it open with a small saw.",
+        "question": "How did they open the gourd?",
+        "options": [
+          "by knocking with a hammer",
+          "using a sharp little blade",
+          "pulling with bare hands",
+          "rolling it on a stone"
+        ],
+        "optionsZh": [
+          "用鎚子敲",
+          "用一把小利刃",
+          "用手拉開",
+          "用石頭滾"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: with a small saw → 用一把小利刃 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l5-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Out came rice. So much rice. Bags and bags of it.",
+        "explanationZh": "米湧出來。好多好多米。一袋一袋的。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch18-l5-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The children clapped. The wife smiled big.",
+        "questionEn": "Was the family happy now?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 拍手 + 大笑 → 開心 → 答 Yes",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l5-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They cut open the second gourd. Out came silver and gold.",
+        "explanationZh": "他們鋸開第二個葫蘆。銀子和黃金湧出來。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch18-l5-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What came out of the second gourd?",
+        "question": "What came out?",
+        "options": [
+          "💰 silver and gold",
+          "🧊 ice and snow",
+          "🌫️ smoke and dust",
+          "🪨 stones and mud"
+        ],
+        "optionsZh": [
+          "銀子和黃金",
+          "冰和雪",
+          "煙和灰",
+          "石頭和泥"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "silver and gold = 銀子和黃金。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l5-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They cut open the third gourd. Out came a new house.",
+        "explanationZh": "他們鋸開第三個葫蘆。一棟新房子湧出來。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch18-l5-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Warm clothes came out. Toys for the children came out.",
+        "question": "What else came from the third gourd?",
+        "options": [
+          "only one small coin",
+          "warm clothes and toys",
+          "old broken pots",
+          "just dust and mud"
+        ],
+        "optionsZh": [
+          "一枚小硬幣",
+          "暖衣服和玩具",
+          "舊破鍋",
+          "只有灰和泥"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: warm clothes + toys → 暖衣服和玩具。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l5-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Heungbu looked up at the sky. He thanked the swallow.",
+        "explanationZh": "興夫抬頭看天空。他謝謝燕子。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l5-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Heungbu is rich now — but is the story over?",
+        "explanationZh": "興夫變富有了——但故事結束了嗎?",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch18-l6",
+    "chapter": 18,
+    "lessonInChapter": 6,
+    "segmentType": "main-story",
+    "storyId": "heungbu-nolbu",
+    "storyBeat": "哥哥孬夫嫉妒打傷燕子 → 報應",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch18-l6-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "聽說",
+            "right": "heard"
+          },
+          {
+            "left": "生氣",
+            "right": "angry"
+          },
+          {
+            "left": "爬上",
+            "right": "climbed"
+          },
+          {
+            "left": "假裝",
+            "right": "pretended"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 heard = 聽說\n🔑 angry = 生氣\n🔑 climbed = 爬上\n🔑 pretended = 假裝\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l6-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Nolbu heard the news. His brother was rich now.",
+        "explanationZh": "孬夫聽到消息。他弟弟變富有了。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch18-l6-q3",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "\"Why is my poor brother now rich?\" he said with cold eyes.",
+        "questionEn": "Was Nolbu glad for his brother?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 冷眼 + 嫉妒語氣 → 不開心 → 答 No",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l6-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He went to Heungbu. He asked about the magic gourds.",
+        "explanationZh": "他去找興夫。他問神奇葫蘆的事。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch18-l6-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Kind Heungbu told him the whole story, word for word.",
+        "question": "How did Heungbu treat his greedy brother?",
+        "options": [
+          "shouted in anger",
+          "answered with kind words",
+          "stayed completely silent",
+          "slammed the door shut"
+        ],
+        "optionsZh": [
+          "對他大吼",
+          "用善意回答",
+          "完全不說話",
+          "把門用力關上"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 把整個故事告訴他 → 用善意回答 (despite greed)。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l6-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Nolbu ran home. He climbed up to a swallow's nest.",
+        "explanationZh": "孬夫跑回家。他爬到一個燕子的鳥巢。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch18-l6-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What is Nolbu about to do?",
+        "question": "What is he about to do?",
+        "options": [
+          "😈 hurt a bird on purpose",
+          "🤗 save a baby bird",
+          "🍞 feed the bird",
+          "🪺 fix the nest"
+        ],
+        "optionsZh": [
+          "故意傷害小鳥",
+          "救小鳥",
+          "餵小鳥",
+          "修鳥巢"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "故意 + 爬上鳥巢 → 要傷害小鳥。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l6-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He grabbed a baby bird. He broke its leg on purpose.",
+        "explanationZh": "他抓起一隻小鳥。他故意弄斷牠的腳。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch18-l6-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Then he wrapped it in cloth and pretended to help.",
+        "question": "Was Nolbu really kind to the bird?",
+        "options": [
+          "yes, truly kind",
+          "no, just pretending",
+          "yes, like Heungbu",
+          "no, he ran away"
+        ],
+        "optionsZh": [
+          "真的善良",
+          "只是假裝",
+          "跟興夫一樣",
+          "逃跑了"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: pretended to help → 假裝。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l6-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The bird looked at him. Its eyes were quiet and dark.",
+        "explanationZh": "小鳥看著他。牠的眼睛安靜又深沉。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l6-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The swallow looks at him with silent eyes...",
+        "explanationZh": "燕子用沉默的眼神看著他……",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch18-l7",
+    "chapter": 18,
+    "lessonInChapter": 7,
+    "segmentType": "main-story",
+    "storyId": "heungbu-nolbu",
+    "storyBeat": "興夫分財給哥哥 → 學到什麼?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch18-l7-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "灰塵",
+            "right": "dust"
+          },
+          {
+            "left": "泥巴",
+            "right": "mud"
+          },
+          {
+            "left": "寶物",
+            "right": "treasures"
+          },
+          {
+            "left": "分享",
+            "right": "share"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 dust = 灰塵\n🔑 mud = 泥巴\n🔑 treasures = 寶物\n🔑 share = 分享\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l7-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Next spring, the bird came back. It dropped a seed.",
+        "explanationZh": "隔年春天,小鳥回來了。牠放下一顆種子。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch18-l7-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Nolbu planted the seed. Big gourds grew very fast.",
+        "question": "What did Nolbu expect from the gourds?",
+        "options": [
+          "nothing good",
+          "rice and gold like Heungbu",
+          "a snake",
+          "a new wife"
+        ],
+        "optionsZh": [
+          "沒好東西",
+          "像興夫一樣的米和金子",
+          "蛇",
+          "新妻子"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 種同樣種子 → 期待跟興夫一樣。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l7-q4",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Nolbu cut them open one by one with his saw.",
+        "explanationZh": "孬夫用鋸子一個一個鋸開。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch18-l7-q5",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "But nothing good came out. Out came dust. Out came mud.",
+        "questionEn": "Was Nolbu lucky like his brother?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 沒好東西 + 灰塵 + 泥巴 → 沒運氣 → 答 No",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l7-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "All his old treasures turned to dust too.",
+        "explanationZh": "他以前的寶物也都變成灰塵了。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch18-l7-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How is Nolbu now?",
+        "question": "How is he now?",
+        "options": [
+          "😭 poor and crying",
+          "👑 still rich and proud",
+          "😴 sleeping happily",
+          "🤣 laughing loudly"
+        ],
+        "optionsZh": [
+          "又窮又哭",
+          "還是富有又驕傲",
+          "快樂睡覺",
+          "大聲笑"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "寶物變灰 → 又窮又哭。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l7-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Nolbu went to Heungbu's door. He cried very hard.",
+        "explanationZh": "孬夫走到興夫的門口。他哭得很大聲。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch18-l7-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Heungbu opened the door. He shared his food, his house, and his gold.",
+        "question": "What did Heungbu do for his brother?",
+        "options": [
+          "shut the door",
+          "shared everything",
+          "sent him far away",
+          "laughed at him"
+        ],
+        "optionsZh": [
+          "關門",
+          "分享一切",
+          "把他趕遠",
+          "嘲笑他"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: shared food + house + gold → 分享一切。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l7-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"We are family,\" Heungbu said with a soft smile.",
+        "explanationZh": "「我們是一家人,」興夫溫柔地笑著說。",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch18-l7-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What did Nolbu learn at last? Who will you be like?",
+        "explanationZh": "孬夫最後學到了什麼?你會像哪一個?",
+        "tags": [
+          "story",
+          "ch18",
+          "heungbu-nolbu"
+        ]
+      }
+    ]
+  }
+]

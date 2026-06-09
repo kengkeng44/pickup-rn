@@ -1,0 +1,1766 @@
+[
+  {
+    "id": "kt-ch15-l1",
+    "chapter": 15,
+    "lessonInChapter": 1,
+    "segmentType": "main-story",
+    "storyId": "emperors-new-clothes",
+    "storyBeat": "國王愛新衣 — 騙子來城裡",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch15-l1-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "國王",
+            "right": "emperor"
+          },
+          {
+            "left": "衣服",
+            "right": "clothes"
+          },
+          {
+            "left": "新的",
+            "right": "new"
+          },
+          {
+            "left": "城市",
+            "right": "city"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 emperor = 國王\n🔑 clothes = 衣服\n🔑 new = 新的\n🔑 city = 城市\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l1-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Long ago, there lived an emperor who loved new clothes.",
+        "explanationZh": "很久以前,有一位國王,他非常喜愛新衣服。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch15-l1-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He had a clean coat for every hour of the day.",
+        "question": "How many coats did the emperor have?",
+        "options": [
+          "just one warm coat",
+          "a huge number of coats",
+          "no coats at all",
+          "two old coats"
+        ],
+        "optionsZh": [
+          "只有一件暖外套",
+          "非常多件外套",
+          "完全沒外套",
+          "兩件舊外套"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: every hour of the day → 非常多件 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch15-l1-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "People said he cared more about his coats than his country.",
+        "questionEn": "Was the emperor a careful ruler of his country?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 在乎外套勝過國家 → 不是用心治國 → 答 No",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l1-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "One day, two strangers came to the city.",
+        "explanationZh": "有一天,兩個陌生人來到城裡。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch15-l1-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They walked straight to the palace gate with big smiles.",
+        "question": "Where did the two strangers go first?",
+        "options": [
+          "to a small farm",
+          "to the royal palace",
+          "into a green forest",
+          "down to the river"
+        ],
+        "optionsZh": [
+          "小農場",
+          "皇宮",
+          "森林",
+          "河邊"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: palace gate → 皇宮 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l1-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They told the guard they had something only an emperor could buy.",
+        "explanationZh": "他們告訴守衛,他們有只有國王才買得起的東西。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch15-l1-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The emperor heard this and sat up tall in his chair.",
+        "question": "How did the emperor feel about the strangers?",
+        "options": [
+          "very angry at them",
+          "ready to listen to them",
+          "fast asleep again",
+          "too tired to care"
+        ],
+        "optionsZh": [
+          "很生氣",
+          "準備聽他們講",
+          "又睡著",
+          "太累不在乎"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: sat up tall → 準備聽 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l1-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He asked his men to bring the two strangers in at once.",
+        "explanationZh": "他叫人立刻把兩個陌生人帶進來。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch15-l1-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did the emperor feel about meeting the strangers?",
+        "question": "How did the emperor feel?",
+        "options": [
+          "😴 sleepy",
+          "🤔 curious",
+          "😡 angry",
+          "😱 scared"
+        ],
+        "optionsZh": [
+          "想睡",
+          "好奇",
+          "生氣",
+          "害怕"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "叫人立刻帶進來 → 好奇想知道。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l1-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The two strangers smiled at each other as they walked in...",
+        "explanationZh": "兩個陌生人邊走邊互相微笑……",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch15-l2",
+    "chapter": 15,
+    "lessonInChapter": 2,
+    "segmentType": "main-story",
+    "storyId": "emperors-new-clothes",
+    "storyBeat": "騙子說只有聰明人看得到 — 設下陷阱",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch15-l2-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "織",
+            "right": "weave"
+          },
+          {
+            "left": "布",
+            "right": "cloth"
+          },
+          {
+            "left": "秘密",
+            "right": "secret"
+          },
+          {
+            "left": "聰明",
+            "right": "smart"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 weave = 織\n🔑 cloth = 布\n🔑 secret = 秘密\n🔑 smart = 聰明\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l2-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The two strangers said they could weave the finest cloth in the world.",
+        "explanationZh": "兩個陌生人說,他們可以織出世上最好的布。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch15-l2-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They held up their empty hands as if showing it.",
+        "question": "Did they really have any cloth to show?",
+        "options": [
+          "yes, a big piece",
+          "no, there was nothing",
+          "one small bit",
+          "a soft blue scarf"
+        ],
+        "optionsZh": [
+          "有,一大塊",
+          "沒有,什麼都沒有",
+          "一小塊",
+          "一條軟藍圍巾"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 空手裝作展示 → 其實沒有 → 答 no, nothing。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch15-l2-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "Their eyes moved quickly from face to face in the room.",
+        "questionEn": "Were the strangers watching how people reacted?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 眼神掃過每張臉 → 在觀察反應 → 答 Yes",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l2-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"This cloth has a secret rule,\" they said with a smile.",
+        "explanationZh": "「這布有個秘密規則,」他們笑著說。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch15-l2-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Only smart and good people can see it.\"",
+        "question": "Who can see the cloth, according to the strangers?",
+        "options": [
+          "only kind and clever people",
+          "only tall grown men",
+          "only the emperor alone",
+          "every child in town"
+        ],
+        "optionsZh": [
+          "只有善良又聰明的人",
+          "只有高大男人",
+          "只有國王",
+          "城裡每個小孩"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: smart and good → 善良又聰明 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l2-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Anyone who is not smart enough will see only empty air.\"",
+        "explanationZh": "「不夠聰明的人,只會看到空氣。」",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch15-l2-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "No one would want to say that they could see nothing.",
+        "question": "Why was this rule clever for the strangers?",
+        "options": [
+          "people would pay double price",
+          "no one would dare say it was empty",
+          "children loved it most",
+          "guards would protect them"
+        ],
+        "optionsZh": [
+          "人們會付雙倍價錢",
+          "沒人敢說看不到",
+          "小孩最喜歡",
+          "守衛會保護他們"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 沒人想被當笨蛋 → 沒人敢說空 (paraphrase, 智取設計)。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l2-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The emperor gave them gold and a big room to work in.",
+        "explanationZh": "國王給了他們金子,還有一間大房間工作。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch15-l2-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What did the two strangers really plan to do?",
+        "question": "What did they really plan?",
+        "options": [
+          "🧵 make real cloth",
+          "🎭 trick everyone",
+          "🏃 run away fast",
+          "🍞 sell bread"
+        ],
+        "optionsZh": [
+          "做真的布",
+          "騙所有人",
+          "快跑走",
+          "賣麵包"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "空手 + 假規則 → 騙所有人。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l2-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The next morning, the emperor sent his oldest minister to watch...",
+        "explanationZh": "第二天早上,國王派出最老的大臣去看……",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch15-l3",
+    "chapter": 15,
+    "lessonInChapter": 3,
+    "segmentType": "main-story",
+    "storyId": "emperors-new-clothes",
+    "storyBeat": "大臣去看 — 他敢說沒看到嗎?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch15-l3-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "大臣",
+            "right": "minister"
+          },
+          {
+            "left": "織布機",
+            "right": "loom"
+          },
+          {
+            "left": "指",
+            "right": "point"
+          },
+          {
+            "left": "害怕",
+            "right": "afraid"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 minister = 大臣\n🔑 loom = 織布機\n🔑 point = 指\n🔑 afraid = 害怕\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l3-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The old minister walked into the big work room.",
+        "explanationZh": "老大臣走進大工作室。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch15-l3-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The two strangers pointed at empty looms with proud hands.",
+        "question": "What did the strangers show the minister?",
+        "options": [
+          "a bright blue cloth",
+          "looms with no cloth on them",
+          "a basket of bread",
+          "a long silver sword"
+        ],
+        "optionsZh": [
+          "亮藍色布",
+          "空的織布機",
+          "一籃麵包",
+          "長銀劍"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: empty looms → 空的織布機 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch15-l3-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The old minister opened his eyes very wide.",
+        "questionEn": "Was the minister trying hard to see something?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 眼睛睜得很大 → 很努力想看到 → 答 Yes",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l3-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He saw nothing at all. The looms were empty.",
+        "explanationZh": "他什麼都沒看到。織布機是空的。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch15-l3-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Am I not smart enough?\" he thought to himself.",
+        "question": "What was the minister afraid people would think?",
+        "options": [
+          "being seen as not clever",
+          "too rich for the job",
+          "sleepy after lunch",
+          "a bit too young"
+        ],
+        "optionsZh": [
+          "被當作不夠聰明",
+          "太有錢",
+          "午餐後想睡",
+          "有點太年輕"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 怕被當「不夠聰明」 → 不夠聰明 (paraphrase 直接套規則)。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l3-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "But he was afraid to say so out loud.",
+        "explanationZh": "但他不敢說出來。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch15-l3-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Lovely! Truly lovely!\" he said with a tight smile.",
+        "question": "What did the minister say about the cloth?",
+        "options": [
+          "looked broken to him",
+          "said it was beautiful",
+          "asked for less of it",
+          "wanted a new color"
+        ],
+        "optionsZh": [
+          "壞掉了",
+          "說它很美",
+          "說太多",
+          "想換顏色"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: lovely → 美麗 (paraphrase, lie 內容)。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l3-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He went back to the emperor and praised the cloth with care.",
+        "explanationZh": "他回去國王那裡,小心地稱讚那布。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch15-l3-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did the old minister really feel inside?",
+        "question": "How did he really feel?",
+        "options": [
+          "😊 truly proud",
+          "😨 worried about himself",
+          "😴 quite sleepy",
+          "🤣 ready to laugh"
+        ],
+        "optionsZh": [
+          "真心驕傲",
+          "擔心自己",
+          "想睡",
+          "想大笑"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "怕被當不聰明 → 擔心自己 (lie 出於 fear)。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l3-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The emperor heard the praise. He wanted to see for himself...",
+        "explanationZh": "國王聽了讚美。他想親自去看……",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch15-l4",
+    "chapter": 15,
+    "lessonInChapter": 4,
+    "segmentType": "main-story",
+    "storyId": "emperors-new-clothes",
+    "storyBeat": "國王也去看 — 他敢說沒看到嗎?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch15-l4-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "看見",
+            "right": "see"
+          },
+          {
+            "left": "沒有",
+            "right": "nothing"
+          },
+          {
+            "left": "冷",
+            "right": "cold"
+          },
+          {
+            "left": "軟",
+            "right": "soft"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 see = 看見\n🔑 nothing = 沒有\n🔑 cold = 冷\n🔑 soft = 軟\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l4-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "At last the emperor himself came to see the cloth.",
+        "explanationZh": "最後,國王親自來看那布。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch15-l4-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The strangers moved their hands fast over the empty looms.",
+        "question": "What were the strangers pretending to do?",
+        "options": [
+          "cook a meal there",
+          "work on cloth",
+          "guard a treasure",
+          "count the gold"
+        ],
+        "optionsZh": [
+          "煮飯",
+          "織布",
+          "守寶藏",
+          "數金幣"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: hands over looms → 假裝在織布 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch15-l4-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The emperor looked and looked. The looms stayed empty.",
+        "questionEn": "Could the emperor see any cloth?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 看了又看 + 一直空 → 看不見 → 答 No",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l4-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His heart went cold inside his chest.",
+        "explanationZh": "他胸口裡的心都涼了。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch15-l4-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Am I not smart enough?\" he thought to himself.",
+        "question": "What did the emperor secretly fear?",
+        "options": [
+          "being seen as not clever",
+          "falling on the floor",
+          "losing all his gold",
+          "catching a small cold"
+        ],
+        "optionsZh": [
+          "被認為不聰明",
+          "跌倒",
+          "失去金子",
+          "感冒"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 規則說不聰明就看不到 → 怕被當不聰明 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l4-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He smiled and turned to his men around him.",
+        "explanationZh": "他笑著轉向身邊的人。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch15-l4-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"Oh, what fine colors! What soft cloth!\" he said.",
+        "question": "What did the emperor say about the cloth?",
+        "options": [
+          "it looked bad and dirty",
+          "he loved its nice colors",
+          "he wanted his money back",
+          "it was the wrong size"
+        ],
+        "optionsZh": [
+          "看起來糟糕又髒",
+          "他喜歡漂亮顏色",
+          "想退錢",
+          "尺寸不對"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: fine colors → 喜歡顏色 (paraphrase, lie 內容)。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l4-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "All his men nodded fast. They all said it was lovely.",
+        "explanationZh": "所有的人都快速點頭。他們都說很美。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch15-l4-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What did the men around the emperor do?",
+        "question": "What did the men do?",
+        "options": [
+          "📢 told the truth",
+          "🙊 also told the same lie",
+          "🏃 ran away fast",
+          "😴 fell asleep"
+        ],
+        "optionsZh": [
+          "說真話",
+          "也跟著說謊",
+          "快跑走",
+          "睡著"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "所有人點頭說美 → 也跟著說謊 (cascade)。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l4-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A big parade was planned for the very next day...",
+        "explanationZh": "隔天就要舉辦盛大遊行……",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch15-l5",
+    "chapter": 15,
+    "lessonInChapter": 5,
+    "segmentType": "main-story",
+    "storyId": "emperors-new-clothes",
+    "storyBeat": "遊行開始 — 人民會說真話嗎?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch15-l5-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "準備好",
+            "right": "ready"
+          },
+          {
+            "left": "遊行",
+            "right": "parade"
+          },
+          {
+            "left": "踏出",
+            "right": "step"
+          },
+          {
+            "left": "拍手",
+            "right": "clap"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 ready = 準備好\n🔑 parade = 遊行\n🔑 step = 踏出\n🔑 clap = 拍手\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l5-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The strangers said the new clothes were ready for the parade.",
+        "explanationZh": "陌生人說新衣服已經準備好,可以遊行了。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch15-l5-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They mimed putting the coat on the emperor with care.",
+        "question": "What were the strangers really putting on him?",
+        "options": [
+          "warm wool coat",
+          "no actual clothes",
+          "a thick winter cloak",
+          "a long red robe"
+        ],
+        "optionsZh": [
+          "暖羊毛外套",
+          "完全沒衣服",
+          "厚冬披風",
+          "長紅袍"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: mimed = 假裝動作 → 完全沒衣服 (paraphrase, 沒實物)。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch15-l5-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The emperor turned in front of the mirror with a stiff smile.",
+        "questionEn": "Did the emperor feel comfortable about this?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 僵硬的笑 → 不舒服 → 答 No",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l5-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The emperor stepped out wearing nothing at all.",
+        "explanationZh": "國王踏出去,身上什麼都沒穿。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch15-l5-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He walked tall under a soft cover held up by four men.",
+        "question": "How was the emperor walking in the parade?",
+        "options": [
+          "hiding behind a wall",
+          "showing himself for all to see",
+          "sitting in a fast horse coach",
+          "running to the gate"
+        ],
+        "optionsZh": [
+          "躲在牆後",
+          "讓所有人看見自己",
+          "坐快馬車",
+          "跑到大門"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: walked tall + four men cover → 公開展示 → 讓所有人看見 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l5-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "All the people of the city came out to watch.",
+        "explanationZh": "全城的人都出來看。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch15-l5-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "They all clapped and called out about the new coat.",
+        "question": "What did the crowd do during the parade?",
+        "options": [
+          "shouted the truth aloud",
+          "praised the missing clothes",
+          "turned around and left",
+          "sat down on the road"
+        ],
+        "optionsZh": [
+          "大聲喊出真話",
+          "稱讚不存在的衣服",
+          "轉身離開",
+          "坐在路上"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: clapped + called out 稱讚 → 稱讚不存在的衣服 (paraphrase, 跟風)。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l5-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "No one wanted to be the first to say something else.",
+        "explanationZh": "沒有人想第一個說別的話。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch15-l5-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Why did the people not speak the truth?",
+        "question": "Why did they stay quiet?",
+        "options": [
+          "🤐 fear of looking foolish",
+          "🍔 they were eating",
+          "💤 they were sleeping",
+          "🎶 music was too loud"
+        ],
+        "optionsZh": [
+          "怕被當笨蛋",
+          "在吃東西",
+          "在睡覺",
+          "音樂太大聲"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 沒人想第一個 → 怕被當笨蛋 (peer pressure)。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l5-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "And at the front of the street, one small child was watching too...",
+        "explanationZh": "街道前方,有一個小孩也在看……",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch15-l6",
+    "chapter": 15,
+    "lessonInChapter": 6,
+    "segmentType": "main-story",
+    "storyId": "emperors-new-clothes",
+    "storyBeat": "小孩說真話 — 大家會怎樣?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch15-l6-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "小孩",
+            "right": "child"
+          },
+          {
+            "left": "前面",
+            "right": "front"
+          },
+          {
+            "left": "清楚",
+            "right": "clear"
+          },
+          {
+            "left": "安靜",
+            "right": "quiet"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 child = 小孩\n🔑 front = 前面\n🔑 clear = 清楚\n🔑 quiet = 安靜\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l6-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A small child stood at the front of the street.",
+        "explanationZh": "一個小孩站在街道前方。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch15-l6-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He looked up at the emperor with big honest eyes.",
+        "question": "How did the child see the emperor?",
+        "options": [
+          "through colored glass",
+          "just as he really was",
+          "with closed eyes",
+          "in a small mirror"
+        ],
+        "optionsZh": [
+          "透過彩色玻璃",
+          "就是他真正的樣子",
+          "閉眼",
+          "小鏡子裡"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: big honest eyes → 看到真實 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch15-l6-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "The child had never heard about the secret rule.",
+        "questionEn": "Did the child feel any pressure to lie?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 沒聽過規則 → 沒壓力 → 答 No",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l6-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He did not understand why people were clapping so loud.",
+        "explanationZh": "他不懂為什麼大家拍手拍得這麼大聲。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch15-l6-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "To him, the emperor looked just like any man in a bath.",
+        "question": "How did the emperor look to the child?",
+        "options": [
+          "like a hero from a story",
+          "with no clothes on at all",
+          "taller than a tree",
+          "as if made of gold"
+        ],
+        "optionsZh": [
+          "像故事裡的英雄",
+          "完全沒穿衣服",
+          "比樹還高",
+          "像金子做的"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: 像剛洗澡的人 → 完全沒穿衣服 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l6-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "\"But he has no clothes on!\" the child said in a clear voice.",
+        "explanationZh": "「可是他沒穿衣服!」小孩用清亮的聲音說。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch15-l6-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "His small voice cut through the noise of the parade.",
+        "question": "How did the child say the truth?",
+        "options": [
+          "in a soft whisper",
+          "loud and easy to hear",
+          "while crying hard",
+          "as a slow song"
+        ],
+        "optionsZh": [
+          "輕聲耳語",
+          "大聲又清楚",
+          "一邊大哭",
+          "像慢歌"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: cut through noise → 大聲清楚 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l6-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The street went quiet. No one clapped now.",
+        "explanationZh": "街道安靜下來。沒有人拍手了。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch15-l6-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "How did the people feel after the child spoke?",
+        "question": "How did they feel?",
+        "options": [
+          "🎉 happy",
+          "😶 silent and shocked",
+          "🎵 still singing",
+          "🍎 hungry"
+        ],
+        "optionsZh": [
+          "開心",
+          "安靜又驚訝",
+          "還在唱",
+          "餓"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "街道安靜 → 大家驚訝安靜 (spell broken)。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l6-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Then everyone began to whisper. Soon the whisper became a wave...",
+        "explanationZh": "然後大家開始低聲說話。耳語很快變成一陣浪潮……",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kt-ch15-l7",
+    "chapter": 15,
+    "lessonInChapter": 7,
+    "segmentType": "main-story",
+    "storyId": "emperors-new-clothes",
+    "storyBeat": "國王繼續走完遊行 — 學到什麼?",
+    "questions": [
+      {
+        "type": "tap-pairs",
+        "id": "kt-ch15-l7-q1",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "Here are 4 words you will meet in tonight's story.",
+        "pairs": [
+          {
+            "left": "聽",
+            "right": "hear"
+          },
+          {
+            "left": "真相",
+            "right": "truth"
+          },
+          {
+            "left": "頭",
+            "right": "head"
+          },
+          {
+            "left": "走",
+            "right": "walk"
+          }
+        ],
+        "explanationZh": "本節新單字 (左中右英):\n🔑 hear = 聽\n🔑 truth = 真相\n🔑 head = 頭\n🔑 walk = 走\n背熟這 4 個字,故事就會輕鬆聽懂。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes",
+          "vocab",
+          "intro"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l7-q2",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "The emperor heard the child. His face turned red.",
+        "explanationZh": "國王聽見小孩的話。他的臉變紅了。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch15-l7-q3",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "A hot feeling rose from his chest to his cheeks.",
+        "question": "How did the emperor feel inside?",
+        "options": [
+          "cool and calm",
+          "ashamed and hot",
+          "fast asleep",
+          "as proud as before"
+        ],
+        "optionsZh": [
+          "冷靜",
+          "羞愧又熱",
+          "睡著",
+          "跟以前一樣驕傲"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: hot feeling chest to cheeks → 羞愧又熱 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "listen-tf",
+        "id": "kt-ch15-l7-q4",
+        "level": "A2",
+        "difficulty": "medium",
+        "speaker": "narrator",
+        "sentence": "In one quick moment, he understood the whole trick.",
+        "questionEn": "Did the emperor now know that he had been tricked?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "推理: 懂了整個騙局 → 知道被騙 → 答 Yes",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes",
+          "inference"
+        ]
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l7-q5",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He knew the truth now. Everyone around him knew too.",
+        "explanationZh": "現在他知道真相了。身邊每個人也都知道。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch15-l7-q6",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He could have run home and shut the door behind him.",
+        "question": "What was one choice the emperor could have made?",
+        "options": [
+          "starting the parade over",
+          "going home to hide",
+          "calling out the army",
+          "sitting on the road"
+        ],
+        "optionsZh": [
+          "重新開始遊行",
+          "回家躲起來",
+          "叫軍隊",
+          "坐在路上"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: run home + shut door → 回家躲 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l7-q7",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "But he held his head high and did not stop.",
+        "explanationZh": "但他抬頭挺胸,沒有停下來。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "listen-mc",
+        "id": "kt-ch15-l7-q8",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He kept walking with the slow steps of a king.",
+        "question": "What did the emperor choose to do?",
+        "options": [
+          "hide right away",
+          "finish the parade",
+          "shout at the child",
+          "fight the strangers"
+        ],
+        "optionsZh": [
+          "馬上躲",
+          "走完遊行",
+          "對小孩吼",
+          "打騙子"
+        ],
+        "correctIndex": 1,
+        "explanationZh": "推理: kept walking → 走完遊行 (paraphrase)。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ],
+        "subSkill": "detail"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l7-q9",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "He walked all the way to the end of the parade.",
+        "explanationZh": "他一路走到遊行的盡頭。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      },
+      {
+        "type": "emoji-pick",
+        "id": "kt-ch15-l7-q10",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "What was harder for the emperor to put down?",
+        "question": "What was hardest to put down?",
+        "options": [
+          "👑 his pride",
+          "💰 his gold",
+          "🍎 his lunch",
+          "📚 his books"
+        ],
+        "optionsZh": [
+          "他的自尊",
+          "他的金子",
+          "他的午餐",
+          "他的書"
+        ],
+        "correctIndex": 0,
+        "explanationZh": "知道真相還繼續走 → 自尊比真相更難放下。",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes",
+          "hook"
+        ],
+        "subSkill": "vocab"
+      },
+      {
+        "type": "narration",
+        "id": "kt-ch15-l7-q11",
+        "level": "A2",
+        "difficulty": "easy",
+        "speaker": "narrator",
+        "sentence": "And the people watched him go, all the way to the palace gate...",
+        "explanationZh": "人們看著他走,一路走到皇宮大門……",
+        "tags": [
+          "story",
+          "ch15",
+          "emperors-new-clothes"
+        ]
+      }
+    ]
+  }
+]
