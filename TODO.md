@@ -1,5 +1,17 @@
 # Pickup-RN TODO
 
+## 🚨 重要 — RN ready 後自動觸發
+
+當 Pickup-RN 真的跑在你手機上(EAS dev-client build 完 + install + 看到 app icon),
+告訴下次 Claude session **「RN ready」** 或 **「app 裝到手機了」**,我會立即:
+
+1. **Re-enable 4 個暫停的 cron** (UI/UX / Code Health / Walkthrough / Architecture)
+   - 之前 2026-06-10 暫停, 因為都是 wordwar-only audit
+   - RN ready 後它們開始對 RN 也有用 (audit 兩邊架構 + 對齊)
+   - 詳見 memory: `feedback_re_enable_crons_when_rn_ready.md`
+2. **Migrate UI/UX 標準對齊 RN** (見 wordwar docs/standards/ui-ux-standard-v1.md)
+3. **逐步 port wordwar 還沒 port 的 surface** (KeySheet / NextStoryPicker / OnboardingPicker / ShareModal / ChapterIntroPage / WardrobeView)
+
 ## ⏳ 一到電腦做的事(EAS dev-client build)
 
 電腦終端跑 5 行,等 15-20 min 雲端 build,手機裝 Pickup-RN(脫離 Expo Go):
